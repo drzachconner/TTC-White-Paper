@@ -20,23 +20,25 @@
 
 ### Tier 1: Premium Models (Recommended for Final-Quality Output)
 
-#### Claude Opus 4.5 (Anthropic)
-- **Context Window:** 200K tokens (~150K words / ~300 pages)
-- **API Pricing:** $5 input / $25 output per million tokens
-- **Consumer Access:** Claude Pro ($20/month)
+#### Claude Opus 4.6 (Anthropic) — Released February 2026
+- **Context Window:** 200K tokens standard (1M token context window available in beta); **128K max output tokens** (doubled from prior generation)
+- **API Pricing:** $15 input / $75 output per million tokens; Fast mode at $30/$150 per MTok (2.5x faster output)
+- **Consumer Access:** Claude Pro ($20/month), Claude Max ($100-200/month for higher usage)
 - **Writing Quality:** Widely regarded as the strongest model for academic prose. Produces natural, well-structured writing that maintains academic tone without being stilted. Excels at thesis statements, argument structure, and factual precision.
-- **Hallucination Rate:** Approximately 3% -- the lowest among frontier models. Claude's Constitutional AI training makes it more likely to say "I don't know" rather than fabricate information. This is critical for medical/scientific writing.
+- **Hallucination Rate:** Approximately 3% — the lowest among frontier models. Claude's Constitutional AI training makes it more likely to say "I don't know" rather than fabricate information. Critical for medical/scientific writing.
+- **New in 4.6:** Adaptive thinking mode (model dynamically decides when and how much to "think"), 83% improvement on ARC-AGI-2 reasoning benchmarks vs prior generation, improved long-context information retrieval, web search & web fetch tools with dynamic filtering, compaction API for effectively infinite conversations.
 - **Consistency:** Strong ability to maintain voice, terminology, and structural coherence across long documents.
-- **Citation Handling:** Does not have real-time web access in the standard interface (no live citation lookup), but excels at working with citations provided in uploaded source documents. Will not fabricate references if instructed properly.
-- **Best For:** Final prose drafting, argument synthesis, maintaining author voice, long-document coherence.
-- **Limitation:** 200K context is sufficient for most papers but smaller than Gemini's window. Cannot search the web for real-time citations.
+- **Citation Handling:** Now has web search and web fetch tools (GA in 4.6). Excels at working with citations provided in uploaded source documents. Will not fabricate references if instructed properly.
+- **Best For:** Final prose drafting, argument synthesis, maintaining author voice, long-document coherence, fact-grounded writing from uploaded sources.
+- **Limitation:** 200K standard context is sufficient for most papers but smaller than Gemini's 1M window. API pricing is premium tier.
 
-#### Claude Sonnet 4.5 (Anthropic)
-- **Context Window:** Up to 1M tokens (in beta for higher-tier API users); 200K standard
+#### Claude Sonnet 4.6 (Anthropic) — Released February 17, 2026
+- **Context Window:** 200K tokens standard (1M token context window available in beta); 64K max output tokens
 - **API Pricing:** $3 input / $15 output per million tokens
-- **Writing Quality:** Slightly below Opus for nuanced prose but excellent for drafting, brainstorming, and iterative editing. Faster output.
+- **Writing Quality:** Near-Opus performance for coding, computer use, and agents at 1/5th the cost. Strong for drafting, brainstorming, and iterative editing. [CNBC](https://www.cnbc.com/2026/02/17/anthropic-ai-claude-sonnet-4-6-default-free-pro.html) and [VentureBeat](https://venturebeat.com/technology/anthropics-sonnet-4-6-matches-flagship-ai-performance-at-one-fifth-the-cost) report it matches flagship performance in many tasks at Sonnet pricing.
+- **New in 4.6:** Adaptive thinking, effort parameter (first Sonnet to support it), improved coding and knowledge work, same web tools as Opus.
 - **Best For:** Iterative drafts, brainstorming, structural editing, cost-effective bulk processing.
-- **Key Advantage:** The 1M token beta context means you could theoretically load all 8 renditions simultaneously for comparison.
+- **Key Advantage:** The 1M token beta context means you could theoretically load all 8 renditions simultaneously for comparison at a fraction of Opus cost.
 
 #### GPT-5.2 (OpenAI)
 - **Context Window:** 400K tokens
@@ -49,15 +51,21 @@
 - **Best For:** Literature review generation, citation-backed research, Deep Research investigations, collaborative writing via Prism.
 - **Limitation:** Higher hallucination rate than Claude. API pricing is the most expensive of all frontier models.
 
-#### Gemini 2.5 Pro / Gemini 3 Pro (Google)
-- **Context Window:** 1M tokens (Gemini 2.5 Pro); expanding in Gemini 3
-- **API Pricing:** Competitive mid-tier pricing; Gemini 2.5 Flash at $0.15/$0.60 per million tokens
-- **Consumer Access:** Google One AI Premium ($19.99/month)
-- **Writing Quality:** Strong at synthesis -- grouping claims, supporting them with source notes. #1 on Chatbot Arena's creative writing leaderboard (Gemini 3 Pro). Particularly strong on argumentative essays and structured explainers.
-- **Context Window Advantage:** 1M tokens = ~1,500 pages. Can hold entire book-length corpora. Achieves 100% recall up to 530K tokens and 99.7% recall at 1M tokens.
-- **Google Ecosystem:** Direct integration with Google Scholar, Docs, Sheets. Footnote-style citations linked to URLs. Supports up to 10 files per prompt (100MB each) in PDF, DOCX, TXT, CSV, XLSX, Markdown.
-- **Best For:** Ingesting all 8 renditions simultaneously, multi-source synthesis, literature review, large-corpus analysis.
-- **Limitation:** Higher hallucination rate than Claude (~6%). Writing quality slightly less "authored" than Claude -- more summary-like than essay-like.
+#### Gemini 3.1 Pro (Google) — Released February 19, 2026
+- **Context Window:** 1M tokens; 65,536 max output tokens
+- **API Pricing:** $2.00 input / $12.00 output per million tokens — significantly cheaper than Claude Opus 4.6 ($15/$75) and competitive with Sonnet 4.6 ($3/$15)
+- **Consumer Access:** Google One AI Premium ($19.99/month); also available in NotebookLM
+- **Writing Quality:** Strong at synthesis — grouping claims, supporting them with source notes. #1 on Chatbot Arena's creative writing leaderboard (Gemini 3 Pro family). Particularly strong on argumentative essays and structured explainers.
+- **New in 3.1 Pro:** Three-tier thinking system (Low/Medium/High compute budgets), 77.1% on ARC-AGI-2 (more than double Gemini 3 Pro), improved agentic and software engineering capabilities, processes up to 900 images, 8.4 hours of audio, or 1 hour of video per prompt. [Google Blog](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/), [TechCrunch](https://techcrunch.com/2026/02/19/googles-new-gemini-pro-model-has-record-benchmark-scores-again/)
+- **Context Window Advantage:** 1M tokens = ~1,500 pages. Can hold entire book-length corpora. Achieves high recall across the full window.
+- **Google Ecosystem:** Direct integration with Google Scholar, Docs, Sheets, NotebookLM. Footnote-style citations linked to URLs. Supports up to 10 files per prompt (100MB each) in PDF, DOCX, TXT, CSV, XLSX, Markdown.
+- **Best For:** Ingesting all 8 renditions simultaneously, multi-source synthesis, literature review, large-corpus analysis. Best price-to-performance ratio for synthesis tasks.
+- **Limitation:** Higher hallucination rate than Claude. Writing quality slightly less "authored" than Claude — more summary-like than essay-like.
+
+#### Gemini 3.1 Pro (Google) — Still Available
+- **Context Window:** 1M tokens
+- **API Pricing:** $1.25 input / $10.00 output per million tokens
+- **Note:** Still available and capable, but superseded by 3.1 Pro for most tasks. Consider for budget-conscious work where 3.1 Pro's improvements aren't needed.
 
 ### Tier 2: Strong Alternatives
 
@@ -67,10 +75,11 @@
 - **Best For:** Long-form academic writing with citation verification, document production.
 - **Open Source:** Globally accessible, no subscription required for many features.
 
-#### DeepSeek R1 / V3.2
+#### DeepSeek R1 (DeepSeek AI) — Paper updated January 2026, published in Nature
 - **Context Window:** 128K tokens
-- **API Pricing:** $0.27 input / $1.10 output per million tokens (V3.2 -- extremely affordable)
-- **Strengths:** Reasoning-first model excelling at step-by-step problem solving, mathematical proofs, formal reasoning. Strong for technical/scientific content requiring logical argumentation.
+- **API Pricing:** $0.27 input / $1.10 output per million tokens — extremely affordable
+- **Strengths:** First mainstream large model to pass peer review in a top-tier academic journal (Nature). Reasoning-first model excelling at step-by-step problem solving, mathematical proofs, formal reasoning. Strong for technical/scientific content requiring logical argumentation. Trained on 14.8 trillion high-quality tokens. Training cost only $294K (on the R1 model itself).
+- **New Updates:** Multi-stage training with Dev1/Dev2/Dev3 intermediate checkpoints. Emergent reasoning patterns for complex problem solving. [Nature peer-reviewed paper](https://arxiv.org/pdf/2501.12948).
 - **Limitation:** Writing-focused tasks are explicitly acknowledged as less optimized than reasoning tasks. Reward models are difficult to construct for writing quality.
 - **Best For:** Technical argument verification, logical structure checking, budget-conscious processing.
 
@@ -90,12 +99,13 @@
 
 | Model | Context | Input $/1M | Output $/1M | Writing Quality | Hallucination Rate | Best For |
 |-------|---------|-----------|-------------|----------------|-------------------|----------|
-| Claude Opus 4.5 | 200K | $5.00 | $25.00 | Excellent | ~3% (lowest) | Final prose, voice consistency |
-| Claude Sonnet 4.5 | 200K-1M | $3.00 | $15.00 | Very Good | ~4% | Drafting, iteration, bulk work |
+| Claude Opus 4.6 | 200K (1M beta) | $15.00 | $75.00 | Excellent | ~3% (lowest) | Final prose, voice consistency |
+| Claude Sonnet 4.6 | 200K (1M beta) | $3.00 | $15.00 | Very Good | ~4% | Drafting, iteration, bulk work |
 | GPT-5.2 | 400K | $20.00 | $60.00 | Very Good | ~6% | Deep Research, Prism workspace |
-| Gemini 2.5 Pro | 1M | Mid-tier | Mid-tier | Good-VGood | ~6% | Multi-source synthesis, large corpus |
+| Gemini 3.1 Pro | 1M | $2.00 | $12.00 | Good-VGood | ~6% | Multi-source synthesis, best value |
+| Gemini 3.1 Pro | 1M | $1.25 | $10.00 | Good-VGood | ~6% | Budget synthesis, large corpus |
 | Kimi K2.5 | 256K | Varies | Varies | Good-VGood | Moderate | Long-form coherence, doc production |
-| DeepSeek V3.2 | 128K | $0.27 | $1.10 | Good | Moderate | Budget reasoning, logic checks |
+| DeepSeek R1 | 128K | $0.27 | $1.10 | Good | Moderate | Budget reasoning, logic checks |
 | Llama 4 Scout | 10M | $0.11 | Low | Good | Moderate | Massive corpus ingestion |
 
 ### Key Insight: Context Window Reality Check
@@ -110,11 +120,11 @@ Most models degrade before reaching their advertised limits. A model claiming 20
 
 | Tool | Purpose | Pricing | Key Strength |
 |------|---------|---------|-------------|
-| **Perplexity AI (Deep Research)** | Citation-backed research | $20/month Pro | 82.4% academic accuracy; real-time web search with inline citations; can restrict to trusted sites |
+| **Perplexity AI (Deep Research)** | Citation-backed research | Free (5/day) / $20/month Pro | Multi-stage retrieval-reasoning-refinement cycle: decomposes queries, retrieves per subtopic, synthesizes, verifies conflicting claims, then produces a cited narrative. 10-30 inline citations per response. Fastest of the "Deep Research" tools (15-30 seconds). Academic Focus Mode. Can generate 100+ cited literature reviews in under 4 minutes. ([Comparison](https://freeacademy.ai/blog/google-deep-research-vs-perplexity-vs-chatgpt-comparison-2026)) |
 | **Elicit** | Paper discovery & data extraction | Free tier + paid | Rapid screening and synthesis; literature matrix generation; real citations |
 | **Consensus** | Evidence-based academic search | Free + Copilot paid | Searches exclusively academic literature; Deep Research mode for comprehensive synthesis |
 | **Semantic Scholar** | Paper discovery | Free | Massive academic database; AI-powered relevance ranking |
-| **Google NotebookLM** | Source synthesis & analysis | Free | Deep Research feature (Nov 2025); uploads PDFs, Docs, Sheets; synthesizes across sources; grew 57% in late 2025 |
+| **Google NotebookLM** | Source synthesis & analysis | Free (Premium available) | Deep Research feature gathers up to 50 sources automatically; now powered by Gemini 3 with 8x larger context window, 6x longer conversation memory, 50% response quality boost; can search web or Google Drive; uploads PDFs, Docs, Sheets; Audio & Video overviews ([Google Blog](https://blog.google/innovation-and-ai/models-and-research/google-labs/notebooklm-deep-research-file-types/)) |
 
 ### Stage 2: Literature Mapping & Citation Networks
 
@@ -124,7 +134,7 @@ Most models degrade before reaching their advertised limits. A model claiming 20
 | **Connected Papers** | Visual citation networks | Free tier + paid | Fastest single-seed mapping; clusters similar works by bibliographic coupling |
 | **Litmaps** | Advanced literature visualization | Free tier + paid | Best advanced visualization and filtering |
 | **Scholarcy** | Paper summarization | Paid | Breaks down PDFs into objectives, methods, results, conclusions; extracts figures and references |
-| **Scite.ai** | Smart citation analysis | Paid | Analyzes 1.2B+ statements across 200M+ sources; shows whether citations support, contrast, or merely mention findings |
+| **Scite.ai** | Smart citation analysis | ~$10-20/month | Now part of Research Solutions. Analyzes 1.4B+ citation statements across 200M+ sources; shows whether citations support, contrast, or merely mention findings. Scite Assistant offers ChatGPT-like chat backed by real references. New Jan 2026: MCP integration prototype using Open Access papers. 2M+ users worldwide, partnered with 30+ publishers. ([Scite Review](https://effortlessacademic.com/scite-ai-review-2026-literature-review-tool-for-researchers/)) |
 
 ### Stage 3: Drafting & Writing
 
@@ -152,19 +162,20 @@ Most models degrade before reaching their advertised limits. A model claiming 20
 | **Consensus** | Claim verification against literature | Free + paid | Searches peer-reviewed papers to verify specific claims |
 | **Elicit** | Evidence synthesis | Free + paid | Extracts specific data points from papers for verification |
 
-### Emerging Tool: ChatGPT Prism (January 2026)
+### Emerging Tool: OpenAI Prism (Launched January 27, 2026)
 
-This deserves special attention as it represents a paradigm shift. Prism is OpenAI's free, LaTeX-native scientific writing workspace:
-- Powered by GPT-5.2 with "Thinking" mode (internal double-checking to reduce hallucinations)
-- Full manuscript awareness -- the AI sees the entire paper structure, equations, references
-- Real-time collaboration for co-authors
-- Literature search and reference insertion directly into manuscripts
-- Converts hand-drawn whiteboard sketches to LaTeX
-- Voice-based editing
-- No subscription required -- free with any ChatGPT account
-- Built on acquired Crixet LaTeX platform
+This deserves special attention as it represents a paradigm shift. Prism is OpenAI's free, LaTeX-native scientific writing workspace. [OpenAI Announcement](https://openai.com/index/introducing-prism/), [TechCrunch](https://techcrunch.com/2026/01/27/openai-launches-prism-a-new-ai-workspace-for-scientists/), [MIT Technology Review](https://www.technologyreview.com/2026/01/27/1131793/openais-latest-product-lets-you-vibe-code-science/)
 
-**Significance:** This is the first purpose-built AI workspace for scientific paper writing from a major AI company. It is directly relevant to this project.
+- Powered by GPT-5.2 with full manuscript awareness — the AI sees paper structure, equations, references, and surrounding context
+- Cloud-based, LaTeX-native workspace combining document editing, compilation, citation management, and AI-assisted revision
+- Real-time collaboration for co-authors — unlimited projects and collaborators
+- Literature search and reference management directly into manuscripts
+- Converts hand-drawn whiteboard sketches into equations and diagrams
+- Can help draft text, summarize related articles, manage citations, or talk through hypotheses and proofs
+- **Free** — no subscription or seat limits required, just a ChatGPT personal account
+- Organization plans (Business, Enterprise, Education) coming soon
+
+**Significance:** First purpose-built AI workspace for scientific paper writing from a major AI company. Directly relevant to this project. MIT Technology Review describes it as "vibe coding for science." However, it is very new — expect rough edges.
 
 ---
 
@@ -184,21 +195,21 @@ PHASE 1: RESEARCH & DISCOVERY
 |-- Scite.ai -------------------> Citation context analysis
 
 PHASE 2: DOCUMENT INGESTION & SYNTHESIS
-|-- Gemini 2.5 Pro (1M context) -> Load all 8 renditions simultaneously
-|-- OR Claude Sonnet (1M beta) --> Alternative if context is sufficient
-|-- NotebookLM -----------------> Upload all sources, synthesize themes
+|-- Gemini 3.1 Pro (1M context) -> Load all 8 renditions simultaneously ($2/MTok in)
+|-- OR Claude Sonnet 4.6 (1M beta) -> Alternative at $3/MTok in
+|-- NotebookLM (Gemini 3 powered) -> Upload all sources, Deep Research across them
 |-- Goal: Produce a structural analysis + consolidated outline
 
 PHASE 3: UNIFIED DRAFT GENERATION
-|-- Claude Opus 4.5 ------------> Primary drafting model
+|-- Claude Opus 4.6 ------------> Primary drafting model (lowest hallucination, best prose)
 |-- Using: Consolidated outline + best passages from all versions
-|-- Working in: Claude Projects (persistent context, style rules)
-|-- OR: OpenAI Prism -----------> If LaTeX formatting desired
+|-- Working in: Claude Projects (persistent context, style rules, 200K window)
+|-- OR: OpenAI Prism (free) ----> If LaTeX formatting desired, full manuscript AI awareness
 
 PHASE 4: FACT-CHECKING & CITATION VERIFICATION
-|-- Scite.ai -------------------> Verify all citations support claims made
+|-- Scite.ai (1.4B+ citations) -> Verify all citations support claims made (support/contrast/mention)
 |-- Consensus / Elicit ---------> Verify factual medical/scientific claims
-|-- DeepSeek R1 (cheap) --------> Logical consistency checking
+|-- DeepSeek R1 ($0.27/MTok) ---> Logical consistency checking (Nature-published reasoning model)
 |-- Human expert review --------> Non-negotiable for medical content
 
 PHASE 5: LANGUAGE & STYLE POLISHING
@@ -207,17 +218,17 @@ PHASE 5: LANGUAGE & STYLE POLISHING
 |-- Claude Opus (targeted) -----> Prose refinement for specific sections
 
 PHASE 6: FINAL REVIEW & SUBMISSION PREP
-|-- Claude Opus 4.5 ------------> Full-document consistency review
+|-- Claude Opus 4.6 ------------> Full-document consistency review
 |-- Paperpal -------------------> Journal submission checklist
 |-- Human expert review --------> Final sign-off
 ```
 
 ### Why This Pipeline Works
 
-1. **Gemini's 1M context** is used where it matters most -- ingesting all source material simultaneously to identify themes and contradictions across versions.
-2. **Claude's low hallucination rate** is used where accuracy matters most -- the actual writing and final review.
-3. **Specialized tools** (Scite, Writefull, Paperpal) handle domain-specific tasks that general LLMs do poorly.
-4. **Cost optimization** -- DeepSeek at $0.27/1M tokens handles grunt work (logic checking), while expensive Claude Opus is reserved for high-value prose generation.
+1. **Gemini 3.1 Pro's 1M context** ($2/MTok) is used where it matters most — ingesting all source material simultaneously to identify themes and contradictions across versions.
+2. **Claude Opus 4.6's low hallucination rate** (~3%) is used where accuracy matters most — the actual writing and final review. 128K max output means it can produce entire sections without truncation.
+3. **Specialized tools** (Scite 1.4B+ citations, Writefull, Paperpal) handle domain-specific tasks that general LLMs do poorly.
+4. **Cost optimization** — DeepSeek R1 at $0.27/MTok handles grunt work (logic checking), while premium Claude Opus is reserved for high-value prose generation.
 
 ### The SciAgents Framework Pattern
 
@@ -328,7 +339,7 @@ Total source material: approximately 8 markdown files + 2 editorial docs + 1 con
 
 ### 5.2 Recommended Tool Stack
 
-#### Primary Writing Model: Claude Opus 4.5 via Claude Projects
+#### Primary Writing Model: Claude Opus 4.6 via Claude Projects
 **Why:** Lowest hallucination rate (critical for medical content), best academic prose quality, persistent project context that maintains your style rules and source documents across sessions.
 
 **Setup:**
@@ -337,11 +348,11 @@ Total source material: approximately 8 markdown files + 2 editorial docs + 1 con
 3. Upload editorial feedback documents
 4. Set project instructions defining your voice, formatting preferences, and the rule: "Only make claims supported by the uploaded source documents. Flag uncertain claims with [VERIFY]."
 
-#### Synthesis Engine: Google Gemini 2.5 Pro
-**Why:** 1M token context can hold all 8 versions simultaneously for comparison and structural analysis.
+#### Synthesis Engine: Google Gemini 3.1 Pro (Released Feb 19, 2026)
+**Why:** 1M token context can hold all 8 versions simultaneously for comparison and structural analysis. At $2/$12 per MTok, it's the best price-to-performance for synthesis. Three-tier thinking system lets you trade latency for reasoning depth.
 
 **Use For:**
-1. Loading all 8 renditions at once
+1. Loading all 8 renditions at once (total ~310KB of markdown easily fits in 1M context)
 2. Generating a structural comparison: what each version covers, what's unique to each, where they contradict
 3. Identifying the "best passage" for each section across all versions
 4. Producing a consolidated outline with section-by-section source mapping
@@ -360,7 +371,7 @@ Total source material: approximately 8 markdown files + 2 editorial docs + 1 con
 
 ### 5.3 Recommended Step-by-Step Workflow
 
-#### Step 1: Structural Analysis (Gemini 2.5 Pro)
+#### Step 1: Structural Analysis (Gemini 3.1 Pro)
 **Time: 1-2 hours**
 
 Upload all 8 markdown renditions into Gemini (its 1M context can hold them all). Prompt:
@@ -374,7 +385,19 @@ Upload all 8 markdown renditions into Gemini (its 1M context can hold them all).
 
 Also upload the editorial feedback documents and ask Gemini to map feedback to specific sections.
 
-**Alternative:** Upload all sources to Google NotebookLM for ongoing interactive synthesis. NotebookLM's Deep Research can also browse the web to find supporting literature.
+**Alternative:** Upload all sources to Google NotebookLM for ongoing interactive synthesis. NotebookLM (now powered by Gemini 3) has Deep Research that can search the web or your Google Drive, gathering up to 50 sources automatically. It features 8x larger context window and 6x longer conversation memory than earlier versions.
+
+**Deep Research Tool Comparison (for finding supporting literature):**
+
+| Feature | Perplexity | Google (Gemini/NotebookLM) | ChatGPT |
+|---------|-----------|--------------------------|---------|
+| Speed | 15-30 seconds | 2-5 minutes | 3-15 minutes |
+| Citations per response | 10-30 inline | 50-100+ per report | 20-60+ footnotes |
+| Free access | 5 Pro searches/day | Requires $20/mo subscription | Requires $20/mo+ |
+| Best for | Quick verification, specific claims | Comprehensive reports, broad coverage | Analytical depth, conflicting evidence |
+| Unique strength | Fastest, click-to-verify citations | Volume + Google Scholar integration | Evaluates contradictions, runs code |
+
+Source: [Google Deep Research vs Perplexity vs ChatGPT 2026](https://freeacademy.ai/blog/google-deep-research-vs-perplexity-vs-chatgpt-comparison-2026)
 
 #### Step 2: Version Archaeology via NotebookLM
 **Time: 1 hour**
@@ -395,7 +418,7 @@ Review the Gemini/NotebookLM structural analysis. Make human decisions about:
 - What new content needs to be written vs. what can be adapted from existing versions
 - Target length and level of detail for each section
 
-#### Step 4: Section-by-Section Drafting (Claude Opus 4.5 via Claude Projects)
+#### Step 4: Section-by-Section Drafting (Claude Opus 4.6 via Claude Projects)
 **Time: 4-8 hours across multiple sessions**
 
 With all source materials uploaded to a Claude Project:
@@ -423,7 +446,7 @@ With all source materials uploaded to a Claude Project:
 - Use Claude Opus for targeted prose improvements on specific sections that need refinement
 - Check for consistent terminology throughout (especially important for a technique-specific paper)
 
-#### Step 7: Final Consistency Review (Claude Opus 4.5)
+#### Step 7: Final Consistency Review (Claude Opus 4.6)
 **Time: 1-2 hours**
 
 Upload the complete polished draft to Claude and prompt:
@@ -449,8 +472,8 @@ Upload the complete polished draft to Claude and prompt:
 
 | Tool | Cost | Notes |
 |------|------|-------|
-| Claude Pro | $20/month | 1-2 months of active work |
-| Gemini (Google One AI Premium) | $19.99/month | For the 1M context synthesis step |
+| Claude Pro | $20/month (or ~$17/mo annual) | 1-2 months of active work; Claude Max at $100-200/mo for heavier usage |
+| Gemini (Google AI Premium) | $19.99/month | For the 1M context synthesis + NotebookLM Deep Research |
 | Perplexity Pro | $20/month | For Deep Research citation work |
 | Scite.ai | ~$10-20/month | For citation verification |
 | Writefull | $30.75/year | For language polishing |
@@ -485,9 +508,22 @@ If you want to start immediately with the minimum tool set:
 - [Top 10 AI Models for Scientific Research and Writing in 2026](https://pinggy.io/blog/top_ai_models_for_scientific_research_and_writing_2026/)
 - [Best LLMs for Writing in 2026 based on Leaderboard & Samples](https://intellectualead.com/best-llm-writing/)
 - [ChatGPT vs Claude vs Gemini 2026: Full Comparison](https://freeacademy.ai/blog/chatgpt-vs-claude-vs-gemini-comparison-2026)
-- [Best AI Models 2026: GPT-5 vs Claude 4.5 Opus vs Gemini 3 Pro](https://www.humai.blog/best-ai-models-2026-gpt-5-vs-claude-4-5-opus-vs-gemini-3-pro-complete-comparison/)
-- [Four Giants, One Winner: Model Comparison](https://medium.com/@cognidownunder/four-giants-one-winner-kimi-k2-5-vs-gpt-5-2-vs-claude-opus-4-5-vs-gemini-3-pro-comparison-38124c85d990)
+- [Google Deep Research vs Perplexity vs ChatGPT: Best AI Research Tool 2026](https://freeacademy.ai/blog/google-deep-research-vs-perplexity-vs-chatgpt-comparison-2026)
 - [Gemini 3 Flash vs Claude 4.6 Opus Comparison (Tom's Guide)](https://www.tomsguide.com/ai/i-tested-gemini-3-flash-vs-claude-4-6-opus-in-9-tough-challenges-heres-the-winner)
+
+### Claude 4.6 (February 2026)
+- [What's New in Claude 4.6 — Official Docs](https://platform.claude.com/docs/en/about-claude/models/whats-new-claude-4-6)
+- [Claude Sonnet 4.6 vs Opus 4.6: 2026 Comparison](https://www.datastudios.org/post/claude-sonnet-4-6-vs-opus-4-6-2026-comparison-capability-split-output-ceilings-long-context-beha)
+- [Claude Sonnet 4.6 — 9to5Mac](https://9to5mac.com/2026/02/17/claude-sonnet-4-6-model-brings-much-improved-coding-skills-and-upgraded-free-tier/)
+- [Anthropic Sonnet 4.6 Matches Flagship Performance at 1/5 Cost — VentureBeat](https://venturebeat.com/technology/anthropics-sonnet-4-6-matches-flagship-ai-performance-at-one-fifth-the-cost)
+- [Opus 4.6 Released — Medium](https://medium.com/@ZombieCodeKill/opus-4-6-released-ce4aa32b996d)
+- [Claude AI Pricing 2026](https://screenapp.io/blog/claude-ai-pricing)
+
+### Gemini 3.1 Pro (February 2026)
+- [Gemini 3.1 Pro: A Smarter Model — Google Blog](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/)
+- [Gemini 3.1 Pro Record Benchmark Scores — TechCrunch](https://techcrunch.com/2026/02/19/googles-new-gemini-pro-model-has-record-benchmark-scores-again/)
+- [Gemini 3.1 Pro Model Card — Google DeepMind](https://deepmind.google/models/model-cards/gemini-3-1-pro/)
+- [Gemini 3.1 Pro Complete Guide 2026](https://www.nxcode.io/en/resources/news/gemini-3-1-pro-complete-guide-benchmarks-pricing-api-2026)
 
 ### Context Windows & Pricing
 - [Context Length Comparison: Leading AI Models in 2026](https://www.elvex.com/blog/context-length-comparison-ai-models-2026)
@@ -522,13 +558,15 @@ If you want to start immediately with the minimum tool set:
 
 ### Google NotebookLM & Gemini
 - [NotebookLM Evolution 2023-2026](https://medium.com/@jimmisound/the-cognitive-engine-a-comprehensive-analysis-of-notebooklms-evolution-2023-2026-90b7a7c2df36)
-- [Gemini 2.5 Pro Long Context Window: Real-World Impact](https://latenode.com/blog/ai-technology-language-models/google-gemini-gemini-2-0-2-5-pro-flash/gemini-25-pros-long-context-window-real-world-impact)
+- [Gemini 3.1 Pro Long Context Window: Real-World Impact](https://latenode.com/blog/ai-technology-language-models/google-gemini-gemini-2-0-2-5-pro-flash/gemini-25-pros-long-context-window-real-world-impact)
 - [How Google Gemini Supports Deep Research](https://www.datastudios.org/post/how-google-gemini-supports-deep-research-through-large-context-web-citations-and-document-synthesi)
 
 ### DeepSeek & Open-Source Models
 - [DeepSeek AI Models: Full Lineup and Capabilities](https://www.datastudios.org/post/deepseek-ai-models-available-full-lineup-capabilities-and-positioning-for-late-2025-2026)
 - [Best Open Source LLM for Academic Writing in 2026](https://www.siliconflow.com/articles/en/best-open-source-LLM-for-academic-writing)
 - [Technical Tour of DeepSeek Models V3 to V3.2](https://magazine.sebastianraschka.com/p/technical-deepseek)
+- [DeepSeek-R1 Paper Updated Jan 2026 — Medium](https://medium.com/data-science-in-your-pocket/deepseek-r1-paper-updated-whats-new-2598d766c822)
+- [DeepSeek-R1 on arXiv (Nature peer-reviewed)](https://arxiv.org/pdf/2501.12948)
 
 ### AI Hallucination Prevention
 - [A Call to Address AI Hallucinations in Healthcare (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10552880/)
@@ -543,6 +581,36 @@ If you want to start immediately with the minimum tool set:
 - [AI Policies in Academic Publishing 2025 (Thesify)](https://www.thesify.ai/blog/ai-policies-academic-publishing-2025)
 - [When and How to Disclose AI Use: AMEE Guide No.192](https://www.tandfonline.com/doi/full/10.1080/0142159X.2025.2607513)
 - [Journal of Chiropractic Medicine Author Guide](https://www.sciencedirect.com/journal/journal-of-chiropractic-medicine/publish/guide-for-authors)
+
+### NotebookLM (2026 Updates)
+- [NotebookLM Adds Deep Research — Google Blog](https://blog.google/innovation-and-ai/models-and-research/google-labs/notebooklm-deep-research-file-types/)
+- [NotebookLM Evolution 2023-2026 — Medium](https://medium.com/@jimmisound/the-cognitive-engine-a-comprehensive-analysis-of-notebooklms-evolution-2023-2026-90b7a7c2df36)
+- [NotebookLM + Deep Research: The Ultimate Learning Hack — KDnuggets](https://www.kdnuggets.com/notebooklm-deep-research-the-ultimate-learning-hack)
+
+### Perplexity Deep Research
+- [Perplexity AI for Research — Educators Technology](https://www.educatorstechnology.com/2026/02/perplexity-ai-for-research.html)
+- [Master Perplexity Pro Deep Research in 2026](https://aiunpacker.com/blog/how-to-use-perplexity-pro-for-deep-research-in-2026/)
+
+### Scite.ai (2026 Updates)
+- [Scite AI Review 2026 — Effortless Academic](https://effortlessacademic.com/scite-ai-review-2026-literature-review-tool-for-researchers/)
+- [Scite January 2026 Release Notes (MCP integration)](https://scite.ai/blog/january-2026-release-notes)
+
+### Academic Writing Tools (2026 Comparisons)
+- [Top 5 AI Tools for Academic Writing 2026 — Paperpal](https://paperpal.com/blog/news-updates/top-5-ai-tools-for-academic-writing)
+- [Best AI Tools to Improve Academic Writing 2026 — Thesify](https://www.thesify.ai/blog/best-ai-tools-improve-academic-writing-2026)
+- [Trinka vs Paperpal Comparison](https://doctoraimd.com/trinka-vs-paperpal-choose-the-right-ai-tool-for-you/)
+- [Top English Editing Tools — University of Cambridge via Paperpal](https://paperpal.com/blog/news-updates/industry-insights/top-english-editing-tools-according-to-the-university-of-cambridge)
+
+### AI Disclosure in Publishing (2025-2026)
+- [When and How to Disclose AI Use: AMEE Guide No.192 (Dec 2025)](https://www.tandfonline.com/doi/full/10.1080/0142159X.2025.2607513)
+- [Disclosing AI Use in Research: When Mandatory vs Optional?](https://www.tandfonline.com/doi/full/10.1080/08989621.2025.2481949?af=R)
+- [AI Policies in Academic Publishing 2025 — Thesify](https://www.thesify.ai/blog/ai-policies-academic-publishing-2025)
+- [From Detection to Disclosure — COPE Forum — Scholarly Kitchen](https://scholarlykitchen.sspnet.org/2025/08/25/from-detection-to-disclosure-key-takeaways-on-ai-ethics-from-copes-forum/)
+
+### Claude Projects for Document Synthesis
+- [Claude for Summarizing Large Research Documents](https://www.datastudios.org/post/claude-for-summarizing-and-structuring-large-research-documents)
+- [Using Claude Projects to Develop Quality Content — Social Media Examiner](https://www.socialmediaexaminer.com/using-claude-projects-to-develop-quality-content/)
+- [How to Use Claude AI for Writing Books — Kenny Kane](https://kenny-kane.com/blog/claude-ai-for-writing)
 
 ### Multi-Model Workflows
 - [Practical Guide for Production-Grade Agentic AI Workflows (arXiv)](https://arxiv.org/html/2512.08769v1)
