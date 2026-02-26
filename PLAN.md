@@ -31,21 +31,30 @@ Paste Gemini's output back here. This becomes input for Phase 2.
 
 ---
 
-### Phase 1: Citation Audit & Repair
+### Phase 1: Citation Audit & Repair ✅ COMPLETE (2026-02-26)
 **Who:** You + Perplexity Pro
 **Input:** References section of rendition 01
-**Time:** 2–3 hours
 
-Tasks:
-- [ ] Replace `Epstein, D. (1994–2000s)` with 2–3 specific publications (full titles, publishers, years)
+**Completed:**
+- [x] Perplexity audit of all 29 citations (results in `editorial/2026-02-26_perplexity_citation_audit.md`)
+- [x] Fixed wrong first author: Ahn → Senoğlu (2013 dural sac paper)
+- [x] Fixed wrong year/pages: Alperin 2005 → 2000, vol 217(3):877-885
+- [x] Fixed wrong author/year: Hinz 2012 → Wipff et al. 2007 (TGF-β1 paper)
+- [x] Fixed wrong year/pages: McHugh 2012 → 1998, vol 8(4):215-222
+- [x] Fixed bogus citation: Langevin & Huijing 2012 → Langevin et al. 2016 (real JBMT paper)
+- [x] Fixed wrong pages: Fede et al. pages 1-12 → 38-43; added full author list
+- [x] Fixed wrong pages: Liu et al. 605-611 → 602-611
+- [x] Fixed wrong publisher: Palmer 1910 → Palmer School of Chiropractic, Davenport IA
+- [x] Added DOIs to all verifiable journal articles
+- [x] Added full author lists, subtitles, cities to books
+- [x] Flagged Ward (1980) as unverifiable in bibliographic databases
+- [x] Updated all in-text citations to match corrected references
+- [x] Talsky & Nadler (2025) clarified as seminar materials
+
+**Still open (Epstein/Senzon — requires separate research):**
+- [ ] Replace `Epstein, D. (1994–2000s)` with specific publications
 - [ ] Replace `Epstein, D., & Senzon, S. (selected writings...)` with exact publications
-- [ ] Replace `Senzon, S. A. (2011–2024)` with 2–4 specific papers (titles, journals, DOIs)
-- [ ] Clarify `Talsky, M., & Nadler, A. (2025)` — published where? If unpublished, cite as seminar materials
-- [ ] Verify all in-text citations have matching References entries
-- [ ] Verify the Radin & Nelson PEAR citation is accurate and the strongest available
-- [ ] Add DOIs where available (improves credibility even in white paper format)
-
-Deliver: Updated references list (paste or commit to repo). I'll integrate into the editorial passes.
+- [ ] Replace `Senzon, S. A. (2011–2024)` with specific papers
 
 ---
 

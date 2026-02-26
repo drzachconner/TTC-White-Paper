@@ -150,7 +150,7 @@ When it holds maladaptive tension beyond need, every subsystem must reorganize a
 
 The multi-layered meningeal system acts as an active communication transfer mechanism to and from the CNS—predominantly through non-synaptic pathways. This system possesses independent contractile motility and is in constant motion, modulating its tone moment to moment as it continuously assesses and responds to changes in tension, movement, and the perception of threat.
 
-Neurosurgeon **Alf Breig** first documented **Adverse Mechanical Tension (AMT)**—a state of aberrant tension in the meningeal system and spinal cord that can disturb neural function even without vertebral displacement (Breig, 1978). His work revealed that the nervous system is vulnerable to stretch, torsion, and sustained tension. Modern histology reveals **α-SMA–positive myofibroblasts** within the meninges, providing intrinsic contractile force (Fede et al., 2018; Langevin & Huijing, 2012) that generates and sustains this tension.
+Neurosurgeon **Alf Breig** first documented **Adverse Mechanical Tension (AMT)**—a state of aberrant tension in the meningeal system and spinal cord that can disturb neural function even without vertebral displacement (Breig, 1978). His work revealed that the nervous system is vulnerable to stretch, torsion, and sustained tension. Modern histology reveals **α-SMA–positive myofibroblasts** within the meninges, providing intrinsic contractile force (Fede et al., 2018; Langevin et al., 2016) that generates and sustains this tension.
 
 Though the NeuroSpinal System is not a skeletal muscle, it **autonomously sets its own tone**—compelling muscles, joints, and posture to compensate around it. It actively contracts under actual or perceived stress, and expands and relaxes as that stress resolves.
 
@@ -316,11 +316,11 @@ Subluxation begins upstream of joint fixation. The initiating event is often the
 
 This protective response involves active contractility of the meninges, particularly via the pia mater and dentate ligaments, reinforced by fascial continuities such as the myodural bridge (Scali et al., 2011). When the NeuroSpinal System—the body's Primary Tone-Setter—locks into persistent meningeal contracture, creating what Breig termed Adverse Mechanical Tension (AMT), it operates through three interrelated mechanisms:
 
-**Mechanobiology:** Under sustained load, mechanotransduction shifts fibroblasts toward myofibroblast behavior through TGF-β1 signaling, embedding α-SMA fibers that sustain contraction and alter extracellular matrix tone and cytokine landscapes within meningeal tissues (Tomasek et al., 2002; Hinz et al., 2012).
+**Mechanobiology:** Under sustained load, mechanotransduction shifts fibroblasts toward myofibroblast behavior through TGF-β1 signaling, embedding α-SMA fibers that sustain contraction and alter extracellular matrix tone and cytokine landscapes within meningeal tissues (Tomasek et al., 2002; Wipff et al., 2007).
 
 **Altered Afference:** Sensory input from dural and periosteal tissues changes the baseline signals arriving in the brainstem and higher centers, biasing central processing and motor planning. Mechanoreceptors in tense fascia and meninges send repetitive, low-resolution data to the CNS, limiting adaptability.
 
-**CSF Hydrodynamics:** The pulse, swirl, and return dynamics of cerebrospinal fluid are altered, affecting pressure exchange and chemical signaling throughout the neuraxis (Brinker et al., 2014; Alperin et al., 2005). Strain alters axoplasmic flow and CSF dynamics, reducing nutrient/waste exchange.
+**CSF Hydrodynamics:** The pulse, swirl, and return dynamics of cerebrospinal fluid are altered, affecting pressure exchange and chemical signaling throughout the neuraxis (Brinker et al., 2014; Alperin et al., 2000). Strain alters axoplasmic flow and CSF dynamics, reducing nutrient/waste exchange.
 
 The result is a systemic change in the default tensional set-point of the NeuroSpinal System. Many downstream structural findings—postural compensations, joint restrictions, muscle hypertonicity, and vertebral subluxation—become effects, not primaries. Addressing the primary tone allows for more lasting change.
 
@@ -328,9 +328,9 @@ The result is a systemic change in the default tensional set-point of the NeuroS
 
 **This is the fundamental mechanism underlying both the initiation of subluxation and the process of subluxation reduction:**
 
-**Critically, meningeal contracture and the resulting AMT persist long after the original stressor is gone.** The meningeal system does not automatically release when the threat dissipates. Instead, it maintains this defensive holding pattern—this aberrant tension—until specific conditions are met: (1) mechanical input through directional movement that addresses the restricted tissue, (2) activation of mechanoreceptors within the fascial-meningeal continuum, and (3) parasympathetic nervous system activation signaling safety (Schleip, 2003; Schleip & Müller, 2013; Bordoni & Zanier, 2013; Hinz et al., 2012; McHugh et al., 2012).
+**Critically, meningeal contracture and the resulting AMT persist long after the original stressor is gone.** The meningeal system does not automatically release when the threat dissipates. Instead, it maintains this defensive holding pattern—this aberrant tension—until specific conditions are met: (1) mechanical input through directional movement that addresses the restricted tissue, (2) activation of mechanoreceptors within the fascial-meningeal continuum, and (3) parasympathetic nervous system activation signaling safety (Schleip, 2003; Schleip & Müller, 2013; Bordoni & Zanier, 2013; Wipff et al., 2007; McHugh et al., 1998).
 
-The mechanism parallels the flexibility phenomenon seen under anesthesia (McHugh et al., 2012):
+The mechanism parallels the flexibility phenomenon seen under anesthesia (McHugh et al., 1998):
 
 • **Awake:** The CNS limits range-of-motion (e.g., hamstring stretch) to protect against predicted harm through protective muscle contraction and neural mechanosensitivity.
 
@@ -341,13 +341,13 @@ The limitation is neural, not structural. The tissue itself is capable of greate
 #### Why the Contracture Persists After Stress Resolves
 
 **1. Myofibroblast Phenotype Stability**
-Once fibroblasts differentiate into myofibroblasts through TGF-β1 signaling and mechanical load, they maintain their contractile phenotype until receiving specific biochemical and mechanical signals to reverse (Hinz et al., 2012). The α-SMA fibers embedded in these cells create sustained contractile capacity that does not simply "turn off" when the external threat is removed.
+Once fibroblasts differentiate into myofibroblasts through TGF-β1 signaling and mechanical load, they maintain their contractile phenotype until receiving specific biochemical and mechanical signals to reverse (Wipff et al., 2007). The α-SMA fibers embedded in these cells create sustained contractile capacity that does not simply "turn off" when the external threat is removed.
 
 **2. Lack of Safety Information**
 The nervous system continues to operate under the original threat model (Woo et al., 2017). Without clear informational input signaling safety—specifically, the experience of safe movement through the restricted range—the protective pattern remains active. The CNS has not received the data it needs to update its internal model and conclude that the defensive posture is no longer necessary.
 
 **3. Movement Restriction Creates Self-Reinforcing Cycle**
-The contracture itself limits the range of motion needed to generate the sensory feedback that would signal safety (Schleip, 2003; McHugh et al., 2012). This creates a self-perpetuating loop: the system restricts movement to protect itself, but that very restriction prevents it from gathering the sensory information (safe movement through previously restricted ranges) that would allow it to release the protection.
+The contracture itself limits the range of motion needed to generate the sensory feedback that would signal safety (Schleip, 2003; McHugh et al., 1998). This creates a self-perpetuating loop: the system restricts movement to protect itself, but that very restriction prevents it from gathering the sensory information (safe movement through previously restricted ranges) that would allow it to release the protection.
 
 **4. Stored Adaptive Pattern**
 The body 'remembers' the protective strategy (Fede et al., 2018). This held tension represents stored potential—an adaptive pattern that served a purpose during the acute threat but has become maladaptive in its persistence. The pattern is held in the tissue as both mechanical tension and as an informational state within the nervous system.
@@ -647,67 +647,67 @@ Tone is the language of intelligence. Our aim is to communicate with it through 
 
 ## References
 
-Ahn, Y. H., et al. (2013). The level of termination of the dural sac by MRI and its clinical relevance in caudal epidural block in adults. *Surgical and Radiologic Anatomy*, 35(7), 579-584.
+Alperin, N. J., Lee, S. H., Loth, F., Raksin, P. B., & Lichtor, T. (2000). MR-Intracranial pressure (ICP): A method to measure intracranial elastance and pressure noninvasively by means of MR imaging: Baboon and human study. *Radiology*, 217(3), 877–885. doi:10.1148/radiology.217.3.r00dc42877
 
-Alperin, N., et al. (2005). MR-Intracranial pressure (ICP): A method to measure intracranial elastance and pressure noninvasively by means of MR imaging. *Radiology*, 237(3), 889-895.
+Becker, R. O., & Selden, G. (1985). *The Body Electric: Electromagnetism and the Foundation of Life*. New York, NY: William Morrow.
 
-Becker, R. O., & Selden, G. (1985). *The Body Electric: Electromagnetism and the Foundation of Life*. Morrow.
+Bordoni, B., & Zanier, E. (2013). Anatomic connections of the diaphragm: Influence of respiration on the body system. *Journal of Multidisciplinary Healthcare*, 6, 281–291. doi:10.2147/JMDH.S45443
 
-Bordoni, B., & Zanier, E. (2013). Anatomic connections of the diaphragm: Influence of respiration on the body system. *Journal of Multidisciplinary Healthcare*, 6, 281-291.
+Breig, A. (1978). *Adverse Mechanical Tension in the Central Nervous System: An Analysis of Cause and Effect; Relief by Functional Neurosurgery*. Stockholm: Almqvist & Wiksell International.
 
-Breig, A. (1978). *Adverse Mechanical Tension in the Central Nervous System*. Almqvist & Wiksell.
-
-Brinker, T., et al. (2014). A new look at cerebrospinal fluid circulation. *Fluids and Barriers of the CNS*, 11, 10.
+Brinker, T., Stopa, E., Morrison, J., & Klinge, P. (2014). A new look at cerebrospinal fluid circulation. *Fluids and Barriers of the CNS*, 11, 10. doi:10.1186/2045-8118-11-10
 
 Epstein, D. (1994–2000s). Network Spinal Analysis and Reorganizational Healing works.
 
 Epstein, D., & Senzon, S. (selected writings on facilitated subluxation and reorganizational models).
 
-Fede, C., Angelini, A., & Stecco, C. (2018). Does fascia hold memories? *Journal of Bodywork & Movement Therapies*, 22(1), 1-12.
+Fede, C., Angelini, A., Stern, R., Threlkeld, A. J., Porzionato, A., Macchi, V., De Caro, R., & Stecco, C. (2018). Does fascia hold memories? *Journal of Bodywork and Movement Therapies*, 22(1), 38–43. doi:10.1016/j.jbmt.2017.02.014
 
-Haavik, H., & Murphy, B. (2007). Cervical spine manipulation alters sensorimotor integration: A somatosensory evoked potential study. *Clinical Neurophysiology*, 118(2), 391-402.
+Haavik, H., & Murphy, B. (2007). Cervical spine manipulation alters sensorimotor integration: A somatosensory evoked potential study. *Clinical Neurophysiology*, 118(2), 391–402. doi:10.1016/j.clinph.2006.09.014
 
-Ho, M.-W., & Knight, D. (1998). The acupuncture system and the liquid-crystalline collagen fibers of the connective tissues. *American Journal of Chinese Medicine*, 26(3-4), 251-263.
+Ho, M.-W., & Knight, D. P. (1998). The acupuncture system and the liquid crystalline collagen fibres of the connective tissues. *American Journal of Chinese Medicine*, 26(3–4), 251–263. doi:10.1142/S0192415X98000357
 
-Langevin, H., & Huijing, P. (2012). Fascia as a sensory organ—A target of myofascial manipulation. *The Anatomical Record*, 269(6), 257-265.
+Langevin, H. M., Stecco, C., & Chaitow, L. (2016). Fascia as a sensory organ. *Journal of Bodywork and Movement Therapies*, 20(1), 8–16. doi:10.1016/j.jbmt.2015.08.001
 
-Liu, J. X., et al. (2017). The myodural bridge. *Clinical Anatomy*, 30(5), 605-611.
+Liu, J. X., Zheng, N., Han, Z., et al. (2017). The myodural bridge: A review of its anatomy and clinical significance. *Clinical Anatomy*, 30(5), 602–611. doi:10.1002/ca.22892
 
-Oschman, J. L. (2000). *Energy Medicine: The Scientific Basis*. Churchill Livingstone.
+McHugh, M. P., Kremenic, I. J., Fox, M. B., & Gleim, G. W. (1998). The role of neural tension in hamstring flexibility. *Scandinavian Journal of Medicine & Science in Sports*, 8(4), 215–222. doi:10.1111/j.1600-0838.1998.tb00198.x
 
-Palmer, D.D. (1910). *The Chiropractor's Adjuster*. Portland Printing House.
+Oschman, J. L. (2000). *Energy Medicine: The Scientific Basis*. Edinburgh: Churchill Livingstone.
 
-Pontell, M. E., et al. (2013). The obliquus capitis inferior myodural bridge. *Clinical Anatomy*, 26(4), 450-454.
+Palmer, D. D. (1910). *The Chiropractor's Adjuster: The Science, Art and Philosophy of Chiropractic*. Davenport, IA: Palmer School of Chiropractic.
 
-Radin, D., & Nelson, R. (1989). Evidence for consciousness-related anomalies in random physical systems. *Foundations of Physics*, 19(12), 1499-1514.
+Pontell, M. E., Scali, F., Marshall, E., & Enix, D. (2013). The obliquus capitis inferior myodural bridge. *Clinical Anatomy*, 26(4), 450–454. doi:10.1002/ca.22118
 
-Hinz, B., et al. (2012). Myofibroblast contraction activates latent TGF-β1 from the extracellular matrix. *Journal of Cell Biology*, 179(6), 1311-1323.
+Radin, D., & Nelson, R. (1989). Evidence for consciousness-related anomalies in random physical systems. *Foundations of Physics*, 19(12), 1499–1514.
 
-McHugh, M. P., et al. (2012). The role of neural tension in hamstring flexibility. *Scandinavian Journal of Medicine & Science in Sports*, 22(2), e38-e43.
+Scali, F., Marsili, E. S., & Pontell, M. E. (2011). Anatomical connection between the rectus capitis posterior major and the dura mater. *Spine*, 36(25), E1612–E1614. doi:10.1097/BRS.0b013e31821129df
 
-Schleip, R. (2003). Fascial plasticity – a new neurobiological explanation. *Journal of Bodywork and Movement Therapies*, 7(1), 11-19.
+Schleip, R. (2003). Fascial plasticity – a new neurobiological explanation. *Journal of Bodywork and Movement Therapies*, 7(1), 11–19. doi:10.1016/S1360-8592(02)00067-0
 
-Scali, F., Marsili, E. S., & Pontell, M. E. (2011). Anatomical connection between the rectus capitis posterior major and the dura mater. *Spine*, 36(25), E1612-E1614.
+Schleip, R., & Müller, D. G. (2013). Training principles for fascial connective tissues: Scientific foundation and suggested practical applications. *Journal of Bodywork and Movement Therapies*, 17(1), 103–115. doi:10.1016/j.jbmt.2012.06.007
 
-Schleip, R., & Müller, D. G. (2013). Training principles for fascial connective tissues: Scientific foundation and suggested practical applications. *Journal of Bodywork and Movement Therapies*, 17(1), 103-115.
-
-Shi, Z., Yuan, X. Y., Chi, Y. Y., et al. (2014). Morphology and clinical significance of the dorsal meningovertebral ligaments in the cervical epidural space. *Spine*, 39(19), E1141-E1148.
-
-Standring, S. (2020). *Gray's Anatomy: The Anatomical Basis of Clinical Practice* (42nd ed.). Elsevier.
+Senoğlu, M., Senoğlu, N., Ozkan, F., et al. (2013). The level of termination of the dural sac by MRI and its clinical relevance in caudal epidural block in adults. *Surgical and Radiologic Anatomy*, 35(7), 579–584. doi:10.1007/s00276-013-1070-7
 
 Senzon, S. A. (2011–2024). Historical and theoretical papers on tonal chiropractic, meningeal models, and Integral Methodological Pluralism.
 
-Tomasek, J. J., et al. (2002). Myofibroblasts and mechano-regulation of connective tissue remodelling. *Nature Reviews Molecular Cell Biology*, 3(5), 349-363.
+Shi, Z., Yuan, X. Y., Chi, Y. Y., et al. (2014). Morphology and clinical significance of the dorsal meningovertebral ligaments in the cervical epidural space. *Spine*, 39(19), E1141–E1148. doi:10.1097/BRS.0000000000000428
 
-Zheng, N., et al. (2014). Definition of the to be named ligament and vertebrodural ligament and their possible effects on cervical spine motion. *Spine*, 39(21), 1156-1163.
+Standring, S. (Ed.). (2020). *Gray's Anatomy: The Anatomical Basis of Clinical Practice* (42nd ed.). London: Elsevier.
 
-Zheng, N., Yuan, X. Y., Chi, Y. Y., et al. (2015). The morphology and clinical significance of the dorsal meningovertebral ligaments in the cervical epidural space. *Clinical Anatomy*, 28(6), 710-718.
+Talsky, M., & Nadler, A. (2025). Talsky Tonal Chiropractic (seminar materials).
 
-Talsky, M., & Nadler, A. (2025). Talsky Tonal Chiropractic (seminar article).
+Tomasek, J. J., Gabbiani, G., Hinz, B., Chaponnier, C., & Brown, R. A. (2002). Myofibroblasts and mechano-regulation of connective tissue remodelling. *Nature Reviews Molecular Cell Biology*, 3(5), 349–363. doi:10.1038/nrm809
 
-Ward, L. (1980). *Spinal Column Stressology*.
+Ward, L. (1980). *Spinal Column Stressology*. [Unverified — not confirmed in major bibliographic databases; retain if physical copy available]
 
-Woo, C. W., Schmidt, L., Krishnan, A., et al. (2017). Quantifying cerebral contributions to pain beyond nociception. *Nature Communications*, 8, 14211.
+Wipff, P. J., Rifkin, D. B., Meister, J. J., & Hinz, B. (2007). Myofibroblast contraction activates latent TGF-β1 from the extracellular matrix. *Journal of Cell Biology*, 179(6), 1311–1323. doi:10.1083/jcb.200704042
+
+Woo, C. W., Schmidt, L., Krishnan, A., et al. (2017). Quantifying cerebral contributions to pain beyond nociception. *Nature Communications*, 8, 14211. doi:10.1038/ncomms14211
+
+Zheng, N., Qin, Y., Yuan, X. Y., et al. (2014). Definition of the to be named ligament and vertebrodural ligament and their possible effects on cervical spine motion. *Spine*, 39(21), E1156–E1163. doi:10.1097/BRS.0000000000000522
+
+Zheng, N., Yuan, X. Y., Chi, Y. Y., et al. (2015). The morphology and clinical significance of the dorsal meningovertebral ligaments in the cervical epidural space. *Clinical Anatomy*, 28(6), 710–718. doi:10.1002/ca.22586
 
 ---
 
@@ -966,22 +966,22 @@ This appendix demonstrates that TTC clinical contact areas are grounded in docum
 
 ## Additional References for Appendix A
 
-Ahn, Y. H., et al. (2013). The level of termination of the dural sac by MRI and its clinical relevance in caudal epidural block in adults. *Surgical and Radiologic Anatomy*, 35(7), 579-584.
+Breig, A. (1978). *Adverse Mechanical Tension in the Central Nervous System: An Analysis of Cause and Effect; Relief by Functional Neurosurgery*. Stockholm: Almqvist & Wiksell International.
 
-Breig, A. (1978). *Adverse Mechanical Tension in the Central Nervous System*. Almqvist & Wiksell.
+Myers, T. W. (2014). *Anatomy Trains: Myofascial Meridians for Manual and Movement Therapists* (3rd ed.). Edinburgh: Churchill Livingstone Elsevier.
 
-Myers, T. W. (2014). *Anatomy Trains: Myofascial Meridians for Manual and Movement Therapists* (3rd ed.). Churchill Livingstone Elsevier.
+Pontell, M. E., Scali, F., Marshall, E., & Enix, D. (2013). The obliquus capitis inferior myodural bridge. *Clinical Anatomy*, 26(4), 450–454. doi:10.1002/ca.22118
 
-Pontell, M. E., et al. (2013). The obliquus capitis inferior myodural bridge. *Clinical Anatomy*, 26(4), 450-454.
+Scali, F., Marsili, E. S., & Pontell, M. E. (2011). Anatomical connection between the rectus capitis posterior major and the dura mater. *Spine*, 36(25), E1612–E1614. doi:10.1097/BRS.0b013e31821129df
 
-Scali, F., Marsili, E. S., & Pontell, M. E. (2011). Anatomical connection between the rectus capitis posterior major and the dura mater. *Spine*, 36(25), E1612-E1614.
+Schleip, R., Findley, T. W., Chaitow, L., & Huijing, P. A. (Eds.). (2012). *Fascia: The Tensional Network of the Human Body – The Science and Clinical Applications in Manual and Movement Therapy*. Edinburgh: Churchill Livingstone Elsevier.
 
-Schleip, R., Findley, T. W., Chaitow, L., & Huijing, P. A. (Eds.). (2012). *Fascia: The Tensional Network of the Human Body*. Churchill Livingstone Elsevier.
+Senoğlu, M., Senoğlu, N., Ozkan, F., et al. (2013). The level of termination of the dural sac by MRI and its clinical relevance in caudal epidural block in adults. *Surgical and Radiologic Anatomy*, 35(7), 579–584. doi:10.1007/s00276-013-1070-7
 
-Shi, Z., Yuan, X. Y., Chi, Y. Y., et al. (2014). Morphology and clinical significance of the dorsal meningovertebral ligaments in the cervical epidural space. *Spine*, 39(19), E1141-E1148.
+Shi, Z., Yuan, X. Y., Chi, Y. Y., et al. (2014). Morphology and clinical significance of the dorsal meningovertebral ligaments in the cervical epidural space. *Spine*, 39(19), E1141–E1148. doi:10.1097/BRS.0000000000000428
 
-Standring, S. (2020). *Gray's Anatomy: The Anatomical Basis of Clinical Practice* (42nd ed.). Elsevier.
+Standring, S. (Ed.). (2020). *Gray's Anatomy: The Anatomical Basis of Clinical Practice* (42nd ed.). London: Elsevier.
 
-Wilke, J., Krause, F., Vogt, L., & Banzer, W. (2016). What is evidence-based about myofascial chains: A systematic review. *Archives of Physical Medicine and Rehabilitation*, 97(3), 454-461.
+Wilke, J., Krause, F., Vogt, L., & Banzer, W. (2016). What is evidence-based about myofascial chains: A systematic review. *Archives of Physical Medicine and Rehabilitation*, 97(3), 454–461. doi:10.1016/j.apmr.2015.07.023
 
-Zheng, N., Yuan, X. Y., Chi, Y. Y., et al. (2015). The morphology and clinical significance of the dorsal meningovertebral ligaments in the cervical epidural space. *Clinical Anatomy*, 28(6), 710-718.
+Zheng, N., Yuan, X. Y., Chi, Y. Y., et al. (2015). The morphology and clinical significance of the dorsal meningovertebral ligaments in the cervical epidural space. *Clinical Anatomy*, 28(6), 710–718. doi:10.1002/ca.22586
