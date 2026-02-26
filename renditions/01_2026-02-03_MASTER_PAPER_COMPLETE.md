@@ -657,9 +657,11 @@ Breig, A. (1978). *Adverse Mechanical Tension in the Central Nervous System: An 
 
 Brinker, T., Stopa, E., Morrison, J., & Klinge, P. (2014). A new look at cerebrospinal fluid circulation. *Fluids and Barriers of the CNS*, 11, 10. doi:10.1186/2045-8118-11-10
 
-Epstein, D. (1994–2000s). Network Spinal Analysis and Reorganizational Healing works.
+Epstein, D. M. (1996). Network Spinal Analysis: A system of health care delivery within the subluxation-based chiropractic model. *Journal of Vertebral Subluxation Research*, 1(1), 1–9.
 
-Epstein, D., & Senzon, S. (selected writings on facilitated subluxation and reorganizational models).
+Epstein, D. M., & Altman, N. (1994). *The 12 Stages of Healing: A Network Approach to Wholeness*. San Rafael, CA: Amber-Allen Publishing.
+
+Epstein, D. M., Senzon, S. A., & Lemberger, D. (2009). Reorganizational healing: A paradigm for the advancement of wellness, behavior change, holistic practice, and healing. *Journal of Alternative and Complementary Medicine*, 15(5), 475–487. doi:10.1089/acm.2009.0043
 
 Fede, C., Angelini, A., Stern, R., Threlkeld, A. J., Porzionato, A., Macchi, V., De Caro, R., & Stecco, C. (2018). Does fascia hold memories? *Journal of Bodywork and Movement Therapies*, 22(1), 38–43. doi:10.1016/j.jbmt.2017.02.014
 
@@ -679,7 +681,7 @@ Palmer, D. D. (1910). *The Chiropractor's Adjuster: The Science, Art and Philoso
 
 Pontell, M. E., Scali, F., Marshall, E., & Enix, D. (2013). The obliquus capitis inferior myodural bridge. *Clinical Anatomy*, 26(4), 450–454. doi:10.1002/ca.22118
 
-Radin, D., & Nelson, R. (1989). Evidence for consciousness-related anomalies in random physical systems. *Foundations of Physics*, 19(12), 1499–1514.
+Radin, D. I., & Nelson, R. D. (1989). Evidence for consciousness-related anomalies in random physical systems. *Foundations of Physics*, 19(12), 1499–1514. doi:10.1007/BF00732509
 
 Scali, F., Marsili, E. S., & Pontell, M. E. (2011). Anatomical connection between the rectus capitis posterior major and the dura mater. *Spine*, 36(25), E1612–E1614. doi:10.1097/BRS.0b013e31821129df
 
@@ -689,7 +691,11 @@ Schleip, R., & Müller, D. G. (2013). Training principles for fascial connective
 
 Senoğlu, M., Senoğlu, N., Ozkan, F., et al. (2013). The level of termination of the dural sac by MRI and its clinical relevance in caudal epidural block in adults. *Surgical and Radiologic Anatomy*, 35(7), 579–584. doi:10.1007/s00276-013-1070-7
 
-Senzon, S. A. (2011–2024). Historical and theoretical papers on tonal chiropractic, meningeal models, and Integral Methodological Pluralism.
+Senzon, S. A. (2010). Constructing a philosophy of chiropractic I: An integral map of the territory. *Journal of Chiropractic Humanities*, 17(1), 6–21. doi:10.1016/j.echu.2010.10.002
+
+Senzon, S. A. (2018). The chiropractic vertebral subluxation part 1: Introduction. *Journal of Chiropractic Humanities*, 25, 10–21. doi:10.1016/j.echu.2018.10.002
+
+Senzon, S. A., Epstein, D. M., & Lemberger, D. (2016). The network spinal wave as a central pattern generator. *Journal of Alternative and Complementary Medicine*, 22(7), 544–556. doi:10.1089/acm.2016.0025
 
 Shi, Z., Yuan, X. Y., Chi, Y. Y., et al. (2014). Morphology and clinical significance of the dorsal meningovertebral ligaments in the cervical epidural space. *Spine*, 39(19), E1141–E1148. doi:10.1097/BRS.0000000000000428
 
@@ -699,7 +705,7 @@ Talsky, M., & Nadler, A. (2025). Talsky Tonal Chiropractic (seminar materials).
 
 Tomasek, J. J., Gabbiani, G., Hinz, B., Chaponnier, C., & Brown, R. A. (2002). Myofibroblasts and mechano-regulation of connective tissue remodelling. *Nature Reviews Molecular Cell Biology*, 3(5), 349–363. doi:10.1038/nrm809
 
-Ward, L. (1980). *Spinal Column Stressology*. [Unverified — not confirmed in major bibliographic databases; retain if physical copy available]
+Ward, L. E. (1980). *The Dynamics of Spinal Stress: Spinal Stressology* (3rd ed.). Long Beach, CA: SSS Press.
 
 Wipff, P. J., Rifkin, D. B., Meister, J. J., & Hinz, B. (2007). Myofibroblast contraction activates latent TGF-β1 from the extracellular matrix. *Journal of Cell Biology*, 179(6), 1311–1323. doi:10.1083/jcb.200704042
 

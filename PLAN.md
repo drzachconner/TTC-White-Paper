@@ -51,10 +51,14 @@ Paste Gemini's output back here. This becomes input for Phase 2.
 - [x] Updated all in-text citations to match corrected references
 - [x] Talsky & Nadler (2025) clarified as seminar materials
 
-**Still open (Epstein/Senzon — requires separate research):**
-- [ ] Replace `Epstein, D. (1994–2000s)` with specific publications
-- [ ] Replace `Epstein, D., & Senzon, S. (selected writings...)` with exact publications
-- [ ] Replace `Senzon, S. A. (2011–2024)` with specific papers
+**Epstein/Senzon/Ward deep dive (2026-02-26):**
+- [x] Epstein → 3 specific publications (1994 book, 1996 JVSR, 2009 JACM w/ DOI)
+- [x] Epstein & Senzon → replaced with 2009 Reorganizational Healing paper (PubMed indexed)
+- [x] Senzon → 3 specific publications (2010, 2018 JCH w/ DOIs; 2016 JACM w/ DOI)
+- [x] Ward (1980) → verified as *The Dynamics of Spinal Stress: Spinal Stressology* (3rd ed., SSS Press) — [Unverified] flag removed
+- [x] Radin & Nelson (1989) → verified correct, DOI added
+
+**Phase 1 fully complete. All 29+ citations now verified with DOIs where available.**
 
 ---
 
