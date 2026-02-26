@@ -44,11 +44,11 @@ Plans:
   3. Content from earlier renditions that was lost in the Feb 2026 master has been evaluated and valuable material recovered
   4. All actionable items from the Nov 2025 editorial feedback are either incorporated or explicitly documented as rejected with rationale
   5. Parts III and IV have distinct, non-overlapping scopes for the cascade sequence material
-**Plans**: TBD
+**Plans**: 2 plans
 
 Plans:
-- [ ] 02-01: TBD
-- [ ] 02-02: TBD
+- [ ] 02-01-PLAN.md — Full structural audit: redundancy map, content recovery diff, editorial feedback gap analysis, author approval checkpoint
+- [ ] 02-02-PLAN.md — Execute all approved edits: Executive Summary restructure, redundancy consolidation, content recovery, editorial feedback incorporation, post-edit verification
 
 ### Phase 3: Credibility & Claims
 **Goal**: Every claim in the paper is backed by evidence proportional to the strength of the assertion
