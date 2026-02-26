@@ -47,7 +47,7 @@ Plans:
 **Plans**: 2 plans
 
 Plans:
-- [ ] 02-01-PLAN.md — Full structural audit: redundancy map, content recovery diff, editorial feedback gap analysis, author approval checkpoint
+- [x] 02-01-PLAN.md — Full structural audit: redundancy map, content recovery diff, editorial feedback gap analysis, author approval checkpoint
 - [ ] 02-02-PLAN.md — Execute all approved edits: Executive Summary restructure, redundancy consolidation, content recovery, editorial feedback incorporation, post-edit verification
 
 ### Phase 3: Credibility & Claims
@@ -111,7 +111,7 @@ Phases execute in numeric order: 1 (done) -> 2 -> 3 -> 4 -> 5 -> 6
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
 | 1. Citations | 1/1 | Complete | 2026-02-26 |
-| 2. Structure & Redundancy | 0/? | Not started | - |
+| 2. Structure & Redundancy | 1/2 | In progress | - |
 | 3. Credibility & Claims | 0/? | Not started | - |
 | 4. Voice & Polish | 0/? | Not started | - |
 | 5. Adversarial Review | 0/? | Not started | - |
