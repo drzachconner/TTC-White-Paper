@@ -14,12 +14,12 @@
 
 ### Structure & Redundancy
 
-- [ ] **STRC-01**: Executive Summary leads with clinical mechanism, then philosophical frame
-- [ ] **STRC-02**: "Misinformation / missing information" framework appears in one primary location with brief cross-references elsewhere
-- [ ] **STRC-03**: "We do not seek to apply force to what is stuck" has one definitive placement
-- [ ] **STRC-04**: Cascade sequence (dyskinesia, dysafferentation, etc.) consolidated between Parts III and IV
-- [ ] **STRC-05**: Valuable content lost from earlier renditions recovered
-- [ ] **STRC-06**: Unincorporated Nov 2025 editorial feedback applied
+- [x] **STRC-01**: Executive Summary leads with clinical mechanism, then philosophical frame
+- [x] **STRC-02**: "Misinformation / missing information" framework appears in one primary location with brief cross-references elsewhere
+- [x] **STRC-03**: "We do not seek to apply force to what is stuck" has one definitive placement
+- [x] **STRC-04**: Cascade sequence (dyskinesia, dysafferentation, etc.) consolidated between Parts III and IV
+- [x] **STRC-05**: Valuable content lost from earlier renditions recovered
+- [x] **STRC-06**: Unincorporated Nov 2025 editorial feedback applied
 
 ### Credibility & Claims
 
@@ -77,12 +77,12 @@
 | CITE-02 | Phase 1 | Complete |
 | CITE-03 | Phase 1 | Complete |
 | CITE-04 | Phase 1 | Complete |
-| STRC-01 | Phase 2 | Pending |
-| STRC-02 | Phase 2 | Pending |
-| STRC-03 | Phase 2 | Pending |
-| STRC-04 | Phase 2 | Pending |
-| STRC-05 | Phase 2 | Pending |
-| STRC-06 | Phase 2 | Pending |
+| STRC-01 | Phase 2 | Complete |
+| STRC-02 | Phase 2 | Complete |
+| STRC-03 | Phase 2 | Complete |
+| STRC-04 | Phase 2 | Complete |
+| STRC-05 | Phase 2 | Complete |
+| STRC-06 | Phase 2 | Complete |
 | CRED-01 | Phase 3 | Pending |
 | CRED-02 | Phase 3 | Pending |
 | CRED-03 | Phase 3 | Pending |
