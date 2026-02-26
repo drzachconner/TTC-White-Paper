@@ -292,7 +292,7 @@ The author must make decisions on the following before Plan 02 can execute:
 The cascade "dyskinesia, dysafferentation, dysponesis, dysautonomia, and degeneration" appears twice (Part III line 175, Part IV line 190) but is never defined.
 
 - [ ] **Option A (Minimal):** Keep the cascade as brief mentions in both locations. Add glossary entries for each term so readers can look them up. No new subsection.
-- [ ] **Option B (Consolidate + Define):** Add a brief definitional paragraph in Part VI (Pathophysiology) that maps each element of the cascade:
+- [x] **Option B (Consolidate + Define):** ✅ **AUTHOR APPROVED** — Add a brief definitional paragraph in Part VI (Pathophysiology) that maps each element of the cascade:
   - Dyskinesia = movement dysfunction from altered motor output
   - Dysafferentation = distorted sensory input from aberrant mechanoreceptor activity
   - Dysponesis = misdirected neurological effort / inappropriate muscle activation
@@ -314,6 +314,8 @@ The First Principles statement reads: "the progressive reduction of physical int
 - [ ] **Option B (Emphasize nervous system):** Change to: "...optimizing nervous system function by addressing physical interference. Where traditional approaches focused on segmental mechanics, TTC addresses global tone in the NeuroSpinal System itself."
 - [ ] **Option C (Keep as-is):** Preserve the traditional language deliberately, because TTC grounds itself in chiropractic tradition before introducing the paradigm shift. The tension is intentional and resolved in the third paragraph of the First Principles section.
 
+✅ **AUTHOR DECISION: Add First Principles section back.** The author wants a standalone First Principles section reintroduced from renditions 03-05. This will need to include the tension-resolving third paragraph.
+
 **Note:** The current First Principles section (rendition 03/master) already includes a third paragraph that resolves this tension: "In this understanding, subluxation is fundamentally a state of altered NeuroSpinal tone and informational interference, originating from defensive meningeal bracing." However, rendition 01 (master) does NOT have this expanded First Principles section -- it only has the brief Executive Summary + Executive Thesis. The full First Principles section from renditions 03-05 was absorbed into the current structure.
 
 **IMPORTANT:** The master paper (01) actually has no standalone "First Principles" section. The original "First Principles" content now lives in the First Principles paragraph that is part of the front matter. The tension is between the First Principles opening ("incomplete and abnormal movement of spinal segments") and the rest of the paper. The current paper resolves this in the third paragraph of the First Principles section in renditions 03-05, but in the master (01), the First Principles section does not exist as a separate section -- its content is distributed across the Executive Summary and Part I.
@@ -330,7 +332,7 @@ Part X currently opens with: "TTC is not about moving bones. It is about deliver
 
 This substantially restates Part I and Part VIII without adding new content. The rest of Part X (trajectory, practitioner integration, adaptive reorganization) IS unique and valuable.
 
-- [ ] **Approve:** Shorten Part X's opening to a brief callback ("As described in Part I...") and preserve the unique content (trajectory, practitioner integration tips, adaptive reorganization with decision space/variability/regulation bullet points).
+- [x] **Approve:** ✅ **AUTHOR APPROVED** — Shorten Part X's opening to a brief callback ("As described in Part I...") and preserve the unique content (trajectory, practitioner integration tips, adaptive reorganization with decision space/variability/regulation bullet points).
 - [ ] **Keep as-is:** The repetition serves a rhetorical purpose -- Part X is the "so what" section for practitioners and the echo reinforces the message.
 - [ ] **Modify:** (Describe specific changes)
 
@@ -342,15 +344,15 @@ Please approve or reject each item:
 
 | ID | Content | Recommendation | Author Decision |
 |----|---------|----------------|-----------------|
-| R02-2 / R04-6 | "From Segmental to Systems Thinking" section concept (was planned, never written) | Could add value as a brief section, but may overlap with existing Part IV content | - [ ] Approve / - [ ] Reject |
-| R04-1 | IRAPS Abstract (~300 words, formal journal-style) | Preserve as a separate resource file, not part of white paper | - [ ] Approve / - [ ] Reject |
-| R04-8 | Informational Interference subsection (4 bullet points: Afferent Distortion, Conduction Impedance, Central Processing Bias, Descending Control Default) | Could strengthen Part VI pathophysiology | - [ ] Approve / - [ ] Reject |
-| R07-1 | Breig/Haavik comparison table format (2.2) | Adds scanability to Part IV | - [ ] Approve / - [ ] Reject |
-| R07-2 | Tonal technique history table format (2.3) | Adds scanability to Part V | - [ ] Approve / - [ ] Reject |
-| R07-4 | Evidence Snapshot sidebar format (myodural bridge) | Adds visual engagement | - [ ] Approve / - [ ] Reject |
-| R07-6 | Piezoelectric Signal Transduction detail (2-3 sentences) | Adds scientific depth to Part II | - [ ] Approve / - [ ] Reject |
-| R07-7 | Liquid-Crystalline Conduction detail (2-3 sentences) | Adds scientific depth to Part II | - [ ] Approve / - [ ] Reject |
-| R07-9 | "Why Force Isn't the Language of Change" argument from Section 6.3 | Unique framing not in master; could strengthen Part VI | - [ ] Approve / - [ ] Reject |
+| R02-2 / R04-6 | "From Segmental to Systems Thinking" section concept (was planned, never written) | Could add value as a brief section, but may overlap with existing Part IV content | ✅ Approve |
+| R04-1 | IRAPS Abstract (~300 words, formal journal-style) | Preserve as a separate resource file, not part of white paper | ✅ Approve |
+| R04-8 | Informational Interference subsection (4 bullet points: Afferent Distortion, Conduction Impedance, Central Processing Bias, Descending Control Default) | Could strengthen Part VI pathophysiology | ✅ Approve |
+| R07-1 | Breig/Haavik comparison table format (2.2) | Adds scanability to Part IV | ✅ Approve |
+| R07-2 | Tonal technique history table format (2.3) | Adds scanability to Part V | ✅ Approve |
+| R07-4 | Evidence Snapshot sidebar format (myodural bridge) | Adds visual engagement | ✅ Approve |
+| R07-6 | Piezoelectric Signal Transduction detail (2-3 sentences) | Adds scientific depth to Part II | ✅ Approve |
+| R07-7 | Liquid-Crystalline Conduction detail (2-3 sentences) | Adds scientific depth to Part II | ✅ Approve |
+| R07-9 | "Why Force Isn't the Language of Change" argument from Section 6.3 | Unique framing not in master; could strengthen Part VI | ✅ Approve |
 
 ### Content Recovery Items (PRE-APPROVED -- RECOVER)
 
@@ -369,9 +371,9 @@ These items are recommended for recovery without author decision:
 
 | Item | Action | Author Decision |
 |------|--------|-----------------|
-| Forward reference from Part I to Part VI | Add 1 sentence in "The Clinical Problem": "The full pathophysiology of this mechanism is described in Part VI." | - [ ] Approve / - [ ] Reject |
-| Part X opening redundancy | Shorten to callback + preserve unique content | - [ ] Approve / - [ ] Reject |
-| First Principles language | See Decision 2 -- may be moot since master doesn't have standalone First Principles section | - [ ] N/A (not in master) / - [ ] Add First Principles section back |
+| Forward reference from Part I to Part VI | Add 1 sentence in "The Clinical Problem": "The full pathophysiology of this mechanism is described in Part VI." | ✅ Approve |
+| Part X opening redundancy | Shorten to callback + preserve unique content | ✅ Approve (see Decision 3) |
+| First Principles language | See Decision 2 | ✅ Add First Principles section back |
 
 ---
 
@@ -406,4 +408,4 @@ These items are recommended for recovery without author decision:
 ---
 
 *Generated: 2026-02-26*
-*Status: Awaiting author review*
+*Status: ✅ All decisions made — ready for Plan 02-02 execution (2026-02-26)*
