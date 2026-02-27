@@ -216,12 +216,7 @@ In the tension-based model, the NeuroSpinal System becomes the primary site of i
 
 When incoming stress exceeds the body's adaptive capacity, the NeuroSpinal System tightens as an **allostatic response**—a protective adaptation that uses energy to maintain function under perceived stress.
 
-At first, this response is not pathological. It is an intelligent attempt by the body to stabilize itself and limit overwhelm. But as tone increases within the NeuroSpinal system, two key distortions emerge:
-
-- **Misinformation** – Aberrant tension alters afferent and efferent signaling.
-- **Missing information** – Increased NeuroSpinal tension restricts movement, narrowing sensory input and reducing signal diversity required for accurate regulation.
-
-Together, these distortions impair communication between brain and body. If the overload resolves, tone normalizes. But if it persists, **the system can no longer recognize safety**, and the protective pattern becomes maladaptive in that it is being held beyond need.
+At first, this response is not pathological. It is an intelligent attempt by the body to stabilize itself and limit overwhelm. But as tone increases within the NeuroSpinal system, it produces the dual distortions of misinformation and missing information described in Part II—skewing neural signaling while narrowing the sensory input required for accurate regulation. If the overload resolves, tone normalizes. But if it persists, **the system can no longer recognize safety**, and the protective pattern becomes maladaptive in that it is being held beyond need.
 
 ### 4.4 Facilitated Subluxation and Meningeal Models (Epstein)
 
