@@ -111,7 +111,7 @@ Phases execute in numeric order: 1 (done) -> 2 -> 3 -> 4 -> 5 -> 6
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
 | 1. Citations | 1/1 | Complete | 2026-02-26 |
-| 2. Structure & Redundancy | 1/2 | In progress | - |
+| 2. Structure & Redundancy | 2/2 | Complete | 2026-02-26 |
 | 3. Credibility & Claims | 0/? | Not started | - |
 | 4. Voice & Polish | 0/? | Not started | - |
 | 5. Adversarial Review | 0/? | Not started | - |
