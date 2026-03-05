@@ -59,10 +59,11 @@ Plans:
   2. The intent section (PEAR/RNG) has been deliberately treated — kept with proper caveats, reframed as exploratory, or moved to an appendix — with the decision documented
   3. The Evidence Map section uses explicit language distinguishing established findings from emerging research from speculative connections
   4. No sentence makes a stronger claim than its supporting citation can bear
-**Plans**: TBD
+**Plans:** 2 plans
 
 Plans:
-- [ ] 03-01: TBD
+- [ ] 03-01-PLAN.md — Full credibility audit: claim-by-claim evidence tiering, PEAR/RNG treatment options, overclaim flags with recommended rewrites, author approval checkpoint
+- [ ] 03-02-PLAN.md — Execute all approved credibility edits: evidence-tier language calibration, PEAR/RNG treatment, fascial-meningeal bridging, Haavik hedge, post-edit verification
 
 ### Phase 4: Voice & Polish
 **Goal**: The paper sounds like Dr. Conner wrote it — clinical-scientific backbone with philosophical depth as intentional seasoning, not AI-generated flatness
@@ -112,7 +113,7 @@ Phases execute in numeric order: 1 (done) -> 2 -> 3 -> 4 -> 5 -> 6
 |-------|----------------|--------|-----------|
 | 1. Citations | 1/1 | Complete | 2026-02-26 |
 | 2. Structure & Redundancy | 2/2 | Complete | 2026-02-26 |
-| 3. Credibility & Claims | 0/? | Not started | - |
+| 3. Credibility & Claims | 0/2 | Planned | - |
 | 4. Voice & Polish | 0/? | Not started | - |
 | 5. Adversarial Review | 0/? | Not started | - |
 | 6. Final Delivery | 0/? | Not started | - |
