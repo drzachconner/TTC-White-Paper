@@ -82,29 +82,30 @@ None — this is a writing project with no API integrations.
 
 No secrets, credentials, or sensitive data in this project.
 
-## Subagent Orchestration
+## 10. Subagent Orchestration
 
-| Phase | Recommended Approach |
-|-------|---------------------|
-| Phase 2 (Structure) | Main agent — needs full paper context |
-| Phase 3 (Credibility) | Main agent — needs full paper + citation context |
-| Phase 4 (Voice) | Main agent — needs full paper context |
-| Phase 5 (Adversarial) | Manual (user pastes GPT output) |
-| Phase 6 (Final) | Main agent + pdf-tools skill for PDF export |
+| Phase | Agent | When to Use |
+|-------|-------|-------------|
+| 1 (Citations) | `external-context-researcher` | Citation verification against primary sources — COMPLETE |
+| 2 (Structure) | Main agent | Structural reorganization of document sections |
+| 3-4 (Credibility/Voice) | `external-context-researcher` | Source verification during credibility and voice passes |
+| 5 (Adversarial) | Manual | User runs adversarial review via GPT-5.2 (external tool) |
+| 6 (Export) | `pdf-tools` skill | PDF export, formatting, and final polish |
+| All phases | `pre-push-validator` | Before any git push |
 
-No team parallelism needed — phases are strictly sequential and each operates on the full document.
+---
 
-## GSD + Teams Strategy
+## 11. GSD + Teams Strategy
 
-**GSD phases**: 6 sequential editorial passes
+**GSD phases**: 6 sequential editorial passes (Phase 1 complete, Phase 2 in progress, Phases 3-6 pending)
 **Teams**: Not needed — each phase modifies the same single document
-**Parallelism**: None — each pass builds on the previous one's stability
+**Parallelism**: None — each pass builds on the previous one's output; strictly sequential
 
-## MCP Connections
+## 12. MCP Connections
 
 None required for this project.
 
-## Completed Work
+## 13. Completed Work
 
 - **Phase 1: Citations** — Complete (2026-02-26)
   - All 29 references verified with Perplexity Pro
