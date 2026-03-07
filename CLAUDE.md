@@ -1,10 +1,10 @@
 # TTC White Paper — Project Instructions
 
-## Project Overview
+## 1. Project Overview
 
 Editorial production of *"The Primary Tone-Setter: Model and Clinical Application of Talsky Tonal Chiropractic"* by Dr. Zach Conner. This is a white paper refinement project — we take an 85KB master paper through sequential editorial passes to produce a publishable, credible document for chiropractic professionals.
 
-## Tech Stack
+## 2. Tech Stack
 
 - **Claude Code (Opus 4.6)** — All editorial passes
 - **Perplexity Pro** — Citation verification (Phase 1, complete)
@@ -12,7 +12,7 @@ Editorial production of *"The Primary Tone-Setter: Model and Clinical Applicatio
 - **Markdown** — Primary format
 - **PDF export** — Final deliverable (pandoc or similar)
 
-## Architecture
+## 3. Architecture
 
 This is a writing project, not software. The "architecture" is the editorial pipeline:
 
@@ -22,7 +22,7 @@ Master Paper (rendition 01) → Citation Fix → Structure Pass → Credibility 
 
 All edits happen in-place on the master paper file. Each phase produces a committed version.
 
-## Directory Structure
+## 4. Directory Structure
 
 ```
 TTC-White-Paper/
@@ -49,7 +49,7 @@ TTC-White-Paper/
 └── supporting/                  # PDFs & reference materials (15 files)
 ```
 
-## Development Conventions
+## 5. Development Conventions
 
 - **Working file**: Always edit `renditions/01_2026-02-03_MASTER_PAPER_COMPLETE.md`
 - **Never delete content without checking**: Cross-reference vital aspects checklist before removing anything
@@ -57,11 +57,11 @@ TTC-White-Paper/
 - **Citation format**: APA-style with DOIs where available
 - **Commit after every phase**: Each editorial pass = one committed version
 
-## Environment Variables
+## 6. Environment Variables
 
 None — this is a writing project with no API integrations.
 
-## Workflow
+## 7. Workflow
 
 1. `git pull --rebase` before any changes
 2. Read the master paper + relevant editorial/rendition files
@@ -71,14 +71,14 @@ None — this is a writing project with no API integrations.
 6. Use `/gsd:progress` to check status between phases
 7. Use `/gsd:resume-work` when starting a new session
 
-## Known Issues
+## 8. Known Issues
 
 - **Epstein/Senzon citations**: Now resolved to specific publications, but these authors have limited indexed work. The 1996 JVSR article predates DOI assignment.
 - **Ward (1980)**: Verified but rare — only available through used book market. Physical copy confirmation by author is ideal.
 - **Intent section (PEAR/RNG)**: Treatment undecided — will be resolved in Phase 3 (Credibility).
 - **Redundancy**: Multiple concepts appear 3-4 times across sections. Phase 2 will consolidate.
 
-## Security
+## 9. Security
 
 No secrets, credentials, or sensitive data in this project.
 
