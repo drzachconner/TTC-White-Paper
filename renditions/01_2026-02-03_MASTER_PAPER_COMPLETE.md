@@ -741,8 +741,6 @@ Fukada, E., & Yasuda, I. (1964). Piezoelectric effects in collagen. *Japanese Jo
 
 Haavik, H., & Murphy, B. (2007). Cervical spine manipulation alters sensorimotor integration: A somatosensory evoked potential study. *Clinical Neurophysiology*, 118(2), 391–402. doi:10.1016/j.clinph.2006.09.014
 
-Langevin, H. M., Stecco, C., & Chaitow, L. (2016). Fascia as a sensory organ. *Journal of Bodywork and Movement Therapies*, 20(1), 8–16. doi:10.1016/j.jbmt.2015.08.001
-
 Lelic, D., Niazi, I. K., Holt, K., Jochumsen, M., Dremstrup, K., Yielder, P., Murphy, B., Drewes, A. M., & Haavik, H. (2016). Manipulation of dysfunctional spinal joints affects sensorimotor integration in the prefrontal cortex: A brain source localization study. *Neural Plasticity*, 2016, 3704964. doi:10.1155/2016/3704964
 
 Liu, J. X., Zheng, N., Han, Z., et al. (2017). The myodural bridge: A review of its anatomy and clinical significance. *Clinical Anatomy*, 30(5), 602–611. doi:10.1002/ca.22892
