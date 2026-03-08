@@ -5,23 +5,23 @@
 See: .planning/PROJECT.md (updated 2026-02-26)
 
 **Core value:** Credible, voice-preserving white paper ready for professional distribution
-**Current focus:** Phase 4 — Voice & Polish (IN PROGRESS)
+**Current focus:** Phase 5 — Adversarial Review (NEXT)
 
 ## Current Position
 
-Phase: 4 of 6 (Voice & Polish) -- IN PROGRESS
-Plan: 1 of 2 complete (04-01 executed, verified)
-Status: Plan 04-01 complete (AI-tell elimination + terminology standardization). Ready for Plan 04-02 (prose tightening + voice harmonization).
-Last activity: 2026-03-08 — Plan 04-01 executed; AI tells eliminated; terminology standardized
+Phase: 4 of 6 (Voice & Polish) -- COMPLETE
+Plan: 2 of 2 complete (04-01 and 04-02 executed, verified, author approved)
+Status: Phase 4 complete. All voice and polish work done. Ready for Phase 5 (Adversarial Review).
+Last activity: 2026-03-08 — Plan 04-02 executed; register harmonized, refrains managed, prose tightened, author approved
 
-Progress: [======....] ~58% (3 phases + 1 plan of Phase 4 complete)
+Progress: [=======...] ~67% (4 of 6 phases complete)
 
 ## Performance Metrics
 
 **Velocity:**
-- Total plans completed: 6 (Phase 1 + Phase 2 Plans 01-02 + Phase 3 Plans 01-02 + Phase 4 Plan 01)
+- Total plans completed: 7 (Phase 1 + Phase 2 Plans 01-02 + Phase 3 Plans 01-02 + Phase 4 Plans 01-02)
 - Average duration: ~12min (Phase 2-4 plans)
-- Total execution time: ~60min
+- Total execution time: ~80min
 
 **By Phase:**
 
@@ -30,11 +30,11 @@ Progress: [======....] ~58% (3 phases + 1 plan of Phase 4 complete)
 | 1. Citations | 1 | N/A | N/A |
 | 2. Structure & Redundancy | 2/2 | ~27min | ~14min |
 | 3. Credibility & Claims | 2/2 | ~28min | ~14min |
-| 4. Voice & Polish | 1/2 | ~5min | ~5min |
+| 4. Voice & Polish | 2/2 | ~25min | ~13min |
 
 **Recent Trend:**
+- Phase 4 Plan 02: ~20min for register harmonization, refrain management, prose tightening + author review
 - Phase 4 Plan 01: ~5min for AI-tell elimination + terminology standardization
-- Phase 3 Plan 02: ~8min for credibility edits + verification
 
 *Updated after each plan completion*
 
@@ -64,6 +64,9 @@ Recent decisions affecting current work:
 - Editorial feedback TODOs: All 3 outstanding items approved for Plan 02-02
 - Kept "fundamentally" (3x), "paradigm" (4x) as intentional authorial voice -- not AI tells
 - Resolved "primary tone generator" to canonical "Primary Tone-Setter" -- generator metaphor undeveloped
+- Refrain management: canonical forms kept in Executive Summary, Part I thesis, Epilogue, Glossary; varied elsewhere
+- Phase 3 "In the TTC model" insertions smoothed or removed based on context -- overclaim protection preserved
+- Author approved all Phase 4 voice changes
 
 ### Pending Todos
 
@@ -77,5 +80,5 @@ None yet.
 ## Session Continuity
 
 Last session: 2026-03-08
-Stopped at: Completed 04-01-PLAN.md (AI-tell elimination + terminology standardization). Ready for 04-02-PLAN.md.
-Resume file: .planning/phases/04-voice-polish/04-01-SUMMARY.md
+Stopped at: Completed 04-02-PLAN.md (register harmonization, refrain management, prose tightening, author approved). Phase 4 complete. Ready for Phase 5.
+Resume file: .planning/phases/04-voice-polish/04-02-SUMMARY.md

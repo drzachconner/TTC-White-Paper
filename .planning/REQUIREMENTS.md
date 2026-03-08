@@ -23,17 +23,17 @@
 
 ### Credibility & Claims
 
-- [ ] **CRED-01**: Every factual/clinical claim reviewed for evidence strength match
-- [ ] **CRED-02**: Intent section (PEAR/RNG) treatment decided and implemented (keep/reframe/appendix)
-- [ ] **CRED-03**: Evidence Map section honestly distinguishes established vs emerging vs speculative
-- [ ] **CRED-04**: No overclaiming — citation strength matches claim strength
+- [x] **CRED-01**: Every factual/clinical claim reviewed for evidence strength match
+- [x] **CRED-02**: Intent section (PEAR/RNG) treatment decided and implemented (keep/reframe/appendix)
+- [x] **CRED-03**: Evidence Map section honestly distinguishes established vs emerging vs speculative
+- [x] **CRED-04**: No overclaiming — citation strength matches claim strength
 
 ### Voice & Polish
 
-- [ ] **VOIC-01**: Register harmonized — clinical-scientific primary, philosophical as intentional seasoning
+- [x] **VOIC-01**: Register harmonized — clinical-scientific primary, philosophical as intentional seasoning
 - [x] **VOIC-02**: AI-sounding phrasing eliminated throughout
 - [x] **VOIC-03**: Consistent terminology (pick one term where variants exist)
-- [ ] **VOIC-04**: Prose tightened — filler removed, transitions sharpened
+- [x] **VOIC-04**: Prose tightened — filler removed, transitions sharpened
 
 ### Adversarial Review
 
@@ -83,14 +83,14 @@
 | STRC-04 | Phase 2 | Complete |
 | STRC-05 | Phase 2 | Complete |
 | STRC-06 | Phase 2 | Complete |
-| CRED-01 | Phase 3 | Pending |
-| CRED-02 | Phase 3 | Pending |
-| CRED-03 | Phase 3 | Pending |
-| CRED-04 | Phase 3 | Pending |
-| VOIC-01 | Phase 4 | Pending |
+| CRED-01 | Phase 3 | Complete |
+| CRED-02 | Phase 3 | Complete |
+| CRED-03 | Phase 3 | Complete |
+| CRED-04 | Phase 3 | Complete |
+| VOIC-01 | Phase 4 | Complete |
 | VOIC-02 | Phase 4 | Complete |
 | VOIC-03 | Phase 4 | Complete |
-| VOIC-04 | Phase 4 | Pending |
+| VOIC-04 | Phase 4 | Complete |
 | ADVR-01 | Phase 5 | Pending |
 | ADVR-02 | Phase 5 | Pending |
 | DELV-01 | Phase 6 | Pending |

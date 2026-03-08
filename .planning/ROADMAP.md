@@ -15,7 +15,7 @@ Decimal phases appear between their surrounding integers in numeric order.
 - [x] **Phase 1: Citations** - Verify all references, add DOIs, resolve vague citations
 - [x] **Phase 2: Structure & Redundancy** - Consolidate overlapping content, recover lost material, apply unincorporated feedback
 - [x] **Phase 3: Credibility & Claims** - Audit every claim for evidence strength, decide intent section treatment
-- [ ] **Phase 4: Voice & Polish** - Harmonize register, eliminate AI phrasing, tighten prose
+- [x] **Phase 4: Voice & Polish** - Harmonize register, eliminate AI phrasing, tighten prose
 - [ ] **Phase 5: Adversarial Review** - External LLM critique and response
 - [ ] **Phase 6: Final Delivery** - Vital aspects verification, markdown commit, PDF export
 
@@ -78,7 +78,7 @@ Plans:
 
 Plans:
 - [x] 04-01-PLAN.md — AI-tell elimination and terminology standardization: grep-driven scan for AI-sounding words, systematic terminology normalization to canonical forms
-- [ ] 04-02-PLAN.md — Register harmonization, refrain management, and prose tightening: close-reading editorial pass with Phase 3 insertion smoothing and author voice review checkpoint
+- [x] 04-02-PLAN.md — Register harmonization, refrain management, and prose tightening: close-reading editorial pass with Phase 3 insertion smoothing and author voice review checkpoint
 
 ### Phase 5: Adversarial Review
 **Goal**: The paper has been stress-tested by an external model and all valid criticisms have been addressed
@@ -115,6 +115,6 @@ Phases execute in numeric order: 1 (done) -> 2 -> 3 -> 4 -> 5 -> 6
 | 1. Citations | 1/1 | Complete | 2026-02-26 |
 | 2. Structure & Redundancy | 2/2 | Complete | 2026-02-26 |
 | 3. Credibility & Claims | 2/2 | Complete | 2026-03-08 |
-| 4. Voice & Polish | 1/2 | In Progress | - |
+| 4. Voice & Polish | 2/2 | Complete | 2026-03-08 |
 | 5. Adversarial Review | 0/? | Not started | - |
 | 6. Final Delivery | 0/? | Not started | - |
