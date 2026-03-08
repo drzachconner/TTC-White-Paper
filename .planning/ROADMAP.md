@@ -87,10 +87,11 @@ Plans:
 **Success Criteria** (what must be TRUE):
   1. A GPT-5.2 adversarial critique has been received covering logical coherence, evidentiary gaps, and rhetorical weaknesses
   2. Every critique point has been addressed — either fixed in the text or rebutted with documented rationale for keeping the original
-**Plans**: TBD
+**Plans:** 2 plans
 
 Plans:
-- [ ] 05-01: TBD
+- [ ] 05-01-PLAN.md — Fix all CRITICAL adversarial findings: soften absolute claims, correct evidence-category errors, add philosophical/empirical boundary statement, create response log
+- [ ] 05-02-PLAN.md — Fix all MAJOR/MINOR adversarial findings: rhetorical softening, glossary rewrites, structural tightening, audience calibration, author approval checkpoint
 
 ### Phase 6: Final Delivery
 **Goal**: The paper is complete, verified against the vital aspects checklist, and ready for distribution in both markdown and PDF formats
@@ -116,5 +117,5 @@ Phases execute in numeric order: 1 (done) -> 2 -> 3 -> 4 -> 5 -> 6
 | 2. Structure & Redundancy | 2/2 | Complete | 2026-02-26 |
 | 3. Credibility & Claims | 2/2 | Complete | 2026-03-08 |
 | 4. Voice & Polish | 2/2 | Complete | 2026-03-08 |
-| 5. Adversarial Review | 0/? | Not started | - |
+| 5. Adversarial Review | 0/2 | Planned | - |
 | 6. Final Delivery | 0/? | Not started | - |
