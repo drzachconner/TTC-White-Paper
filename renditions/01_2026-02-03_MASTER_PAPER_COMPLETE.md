@@ -12,7 +12,7 @@
 
 **The central question:** If subluxation is fundamentally about altered nervous system tone, why do we primarily address it through moving bones?
 
-**Thesis.** In the TTC model, vertebral subluxation is most accurately understood as a secondary, compensatory event. The primary interference takes place upstream in the NeuroSpinal System (also known as the Cranio-Spinal Meningeal Functional Unit), where sustained, stress-mediated meningeal contraction alters tone and information flow. This aberrant tone compels vertebral structures, musculature, and posture to compensate around it. In this model, the NeuroSpinal System is the primary tone setter. Vertebral subluxation is the body's best available adaptation to that primary tonal disturbance.
+**Thesis.** In the TTC model, vertebral subluxation is most accurately understood as a secondary, compensatory event. The primary interference takes place upstream in the NeuroSpinal System (also known as the Cranio-Spinal Meningeal Functional Unit), where sustained, stress-mediated meningeal contraction alters tone and information flow. This aberrant tone compels vertebral structures, musculature, and posture to compensate around it. In this model, the NeuroSpinal System is the Primary Tone-Setter. Vertebral subluxation is the body's best available adaptation to that primary tonal disturbance.
 
 **Core Insight.** The meningeal system is not passive covering. Research suggests it is a contractile, sensorimotor tissue that—in the TTC model—functions as an information-bearing continuum, contracting protectively in response to physical, chemical, or emotional stress. This protective meningeal contraction involves both immediate contractile responses and subsequent fibroblast-to-myofibroblast conversion mediated by TGF-β1 signaling—a mechanism well-established in connective tissue (Tomasek et al., 2002; Wipff et al., 2007) and directly demonstrated in meningeal tissue under pathological conditions (Dorrier et al., 2021). This creates Adverse Mechanical Tension (AMT) that can persist long after the original stressor is gone. In the TTC model, the system waits to experience range of motion into the area of restricted tension without a stress response before it will release and begin the process of unwinding and self-adjusting.
 
@@ -157,7 +157,7 @@ Neurosurgeon **Alf Breig** first documented **Adverse Mechanical Tension (AMT)**
 
 Though the NeuroSpinal System is not a skeletal muscle, it **autonomously sets its own tone**—compelling muscles, joints, and posture to compensate around it. It actively contracts under actual or perceived stress, and expands and relaxes as that stress resolves.
 
-**Because of this dynamic responsiveness, the meningeal system functions as the primary tone setter in the body**, governing the global tension patterns that shape adaptability, breath, posture, energy, and regulation.
+**Because of this dynamic responsiveness, the meningeal system functions as the Primary Tone-Setter in the body**, governing the global tension patterns that shape adaptability, breath, posture, energy, and regulation.
 
 ### Information Transmission, Reception, and Storage
 
@@ -173,7 +173,7 @@ The NeuroSpinal System is not simply a structural framework—it is an **informa
 
 ### The NeuroSpinal System as the Fountainhead of Tone
 
-If tone is the organizing principle of life—as D.D. Palmer proposed—then this paper proposes that the NeuroSpinal System is the **primary tone generator** of the human body.
+If tone is the organizing principle of life—as D.D. Palmer proposed—then this paper proposes that the NeuroSpinal System is the **Primary Tone-Setter** of the human body.
 
 When stress overloads the system, the meninges **contract protectively** through both immediate contractile responses and subsequent fibroblast-to-myofibroblast conversion mediated by TGF-β1 signaling. This increases **baseline tension** in the NeuroSpinal continuum. **Compensatory patterns emerge** in posture, muscle tone, and vertebral position. The brain perceives the aberrant tension in the continuous fascial-dural system and responds by commanding compensatory muscle patterns, which then pull on bony structures, creating postural shifts, gait disturbances, and joint fixations—initiating the cascade of dyskinesia, dysafferentation, dysponesis, dysautonomia, and degeneration (each element of this cascade is defined in Part VI, "The Cascade of Dysfunction").
 
@@ -182,7 +182,7 @@ This means:
 - The musculoskeletal system organizes itself around a central imbalance
 - Bones move and hold their positions as a result of core dural and fascial tension, not the other way around
 
-While osseous approaches can achieve meaningful changes when they influence the underlying NeuroSpinal tone, TTC engages the NeuroSpinal System directly as the primary tone-setter. This facilitates a learning experience for the nervous system that allows it to re-initiate its own process of subluxation reduction and become increasingly effective at self-correction.
+While osseous approaches can achieve meaningful changes when they influence the underlying NeuroSpinal tone, TTC engages the NeuroSpinal System directly as the Primary Tone-Setter. This facilitates a learning experience for the nervous system that allows it to re-initiate its own process of subluxation reduction and become increasingly effective at self-correction.
 
 ---
 
@@ -234,7 +234,7 @@ TTC builds directly on this insight and extends it further: TTC proposes that me
 
 ### 4.5 From Segmental to Systems Thinking
 
-The historical trajectory outlined above—from compression to tension to tone—reflects a broader shift in how chiropractic understands the body: from a segmental, joint-by-joint model to a systems-based model of tone regulation. Modern understanding of neuroplasticity, biotensegrity, and complex adaptive systems supports this evolution. The spine is not a column of independent segments to be corrected one at a time; it is a tensionally integrated whole whose behavior emerges from the global state of its primary tone-setter—the NeuroSpinal System. TTC represents the clinical application of this systems-level understanding: working with the organizing principle of the whole rather than the compensations of its parts.
+The historical trajectory outlined above—from compression to tension to tone—reflects a broader shift in how chiropractic understands the body: from a segmental, joint-by-joint model to a systems-based model of tone regulation. Modern understanding of neuroplasticity, biotensegrity, and complex adaptive systems supports this evolution. The spine is not a column of independent segments to be corrected one at a time; it is a tensionally integrated whole whose behavior emerges from the global state of its Primary Tone-Setter—the NeuroSpinal System. TTC represents the clinical application of this systems-level understanding: working with the organizing principle of the whole rather than the compensations of its parts.
 
 ---
 
@@ -372,7 +372,7 @@ When aberrant NeuroSpinal tone persists, it initiates a progressive cascade of d
 - **Dysautonomia**: Autonomic dysregulation resulting from sustained sympathetic bias and narrowed adaptive bandwidth
 - **Degeneration**: Progressive structural and functional decline from chronic maladaptation, as tissues remodel around the persistent aberrant tone
 
-This cascade is not linear but self-reinforcing: each stage deepens the conditions that sustain the others, making spontaneous resolution increasingly unlikely without specific input to the primary tone-setter.
+This cascade is not linear but self-reinforcing: each stage deepens the conditions that sustain the others, making spontaneous resolution increasingly unlikely without specific input to the Primary Tone-Setter.
 
 #### Informational Interference Under Sustained Tone
 
@@ -426,11 +426,11 @@ When the NeuroSpinal System contracts defensively, the body does not experience 
 - **Local joint fixations** as vertebrae lock into positions that minimize stress on the contracted meningeal system
 - **Protective muscle guarding** layered over all of the above
 
-Each layer represents the body's intelligent attempt to protect the core restriction. But these compensatory layers also **obscure the primary pattern** and create a maze of tension that gross movement cannot penetrate. General range of motion exercises engage the outer compensatory layers without addressing the core NeuroSpinal holding pattern. The system remains in its protective stance because the primary tone-setter—the NeuroSpinal System itself—has not received the specific directional information it needs to release.
+Each layer represents the body's intelligent attempt to protect the core restriction. But these compensatory layers also **obscure the primary pattern** and create a maze of tension that gross movement cannot penetrate. General range of motion exercises engage the outer compensatory layers without addressing the core NeuroSpinal holding pattern. The system remains in its protective stance because the Primary Tone-Setter—the NeuroSpinal System itself—has not received the specific directional information it needs to release.
 
 **This is why finding the best window in is essential.** Through tonal pressure testing verified by leg balancing, the practitioner identifies the precise location and vector where the NeuroSpinal System demonstrates receptivity—where the layers of compensation momentarily align to create a clear pathway to the core pattern. When the body confirms "yes" through balanced legs, it is signaling that **this specific contact, in this specific direction, at this specific time** creates a direct line of communication to the primary holding pattern.
 
-**This is why the least amount of the most effective input works when gross force does not.** The precisely vectored input—parallel to the line of unwinding, delivered with congruent intent, at the confirmed best window in—**pierces through the compensatory layers** to communicate directly with the intelligence of the NeuroSpinal System. This specific directional information, received without triggering a stress response, provides the safety signal the system has been waiting for. It allows the primary tone-setter to release its defensive holding pattern, which then allows the compensatory layers to unwind in cascade.
+**This is why the least amount of the most effective input works when gross force does not.** The precisely vectored input—parallel to the line of unwinding, delivered with congruent intent, at the confirmed best window in—**pierces through the compensatory layers** to communicate directly with the intelligence of the NeuroSpinal System. This specific directional information, received without triggering a stress response, provides the safety signal the system has been waiting for. It allows the Primary Tone-Setter to release its defensive holding pattern, which then allows the compensatory layers to unwind in cascade.
 
 The body does not need more mechanical input—it needs **the right mechanical input, delivered at the right place, in the right direction, at the right time, with congruent intent**. This is what facilitates the nervous system to re-initiate its own process of detensioning and subluxation reduction. TTC's methodology is designed to work with the intelligence of the body by speaking the precise language the NeuroSpinal System uses to govern tone and coordinate self-adjustment.
 
@@ -603,7 +603,7 @@ TTC contact is a neurological communication. It is touch with vector and a congr
 
 ## Part IX. Evidence Map And Research Invitations
 
-Historically, the field has shifted from compression narratives toward tension-based realities. The work of Alf Breig, M.D., Ph.D. on adverse mechanical tension, Lowell Ward, D.C. on whole-spine dynamics, and Heidi Haavik, D.C., Ph.D. on neurophysiologic effects of chiropractic input helped reframe the conversation toward systems that compute through tension and timing.
+Historically, the field has shifted from compression narratives toward tension-based realities. The work of Alf Breig, M.D., Ph.D. on Adverse Mechanical Tension, Lowell Ward, D.C. on whole-spine dynamics, and Heidi Haavik, D.C., Ph.D. on neurophysiologic effects of chiropractic input helped reframe the conversation toward systems that compute through tension and timing.
 
 ### On Intent and Information
 
