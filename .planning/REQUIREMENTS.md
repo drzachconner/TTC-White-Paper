@@ -37,8 +37,8 @@
 
 ### Adversarial Review
 
-- [ ] **ADVR-01**: External LLM (GPT-5.2) adversarial critique received
-- [ ] **ADVR-02**: All valid critique points addressed in final draft
+- [x] **ADVR-01**: External LLM (GPT-5.2) adversarial critique received
+- [x] **ADVR-02**: All valid critique points addressed in final draft
 
 ### Final Delivery
 
@@ -91,8 +91,8 @@
 | VOIC-02 | Phase 4 | Complete |
 | VOIC-03 | Phase 4 | Complete |
 | VOIC-04 | Phase 4 | Complete |
-| ADVR-01 | Phase 5 | Pending |
-| ADVR-02 | Phase 5 | Pending |
+| ADVR-01 | Phase 5 | Complete |
+| ADVR-02 | Phase 5 | Complete |
 | DELV-01 | Phase 6 | Pending |
 | DELV-02 | Phase 6 | Pending |
 | DELV-03 | Phase 6 | Pending |
