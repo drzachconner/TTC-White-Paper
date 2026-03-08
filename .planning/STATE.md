@@ -5,23 +5,23 @@
 See: .planning/PROJECT.md (updated 2026-02-26)
 
 **Core value:** Credible, voice-preserving white paper ready for professional distribution
-**Current focus:** Phase 5 — Adversarial Review (IN PROGRESS)
+**Current focus:** Phase 6 — Final Delivery (NOT STARTED)
 
 ## Current Position
 
-Phase: 5 of 6 (Adversarial Review) -- IN PROGRESS
-Plan: 1 of 2 complete (05-01 executed: 8 CRITICAL findings addressed)
-Status: Plan 05-01 complete. CRITICAL adversarial findings resolved. Plan 05-02 (MAJOR/MINOR findings) next.
-Last activity: 2026-03-08 — Plan 05-01 executed; 8 CRITICAL findings fixed, response log created
+Phase: 5 of 6 (Adversarial Review) -- COMPLETE
+Plan: 2 of 2 complete
+Status: Phase 5 complete. All 22 adversarial findings addressed, author approved. Ready for Phase 6 (Final Delivery).
+Last activity: 2026-03-08 — Plan 05-02 executed; 14 MAJOR/MINOR findings addressed, author approved all changes
 
-Progress: [========..] ~75% (4 phases complete + Plan 05-01 of Phase 5)
+Progress: [=========.] ~83% (5 phases complete, Phase 6 remaining)
 
 ## Performance Metrics
 
 **Velocity:**
-- Total plans completed: 8 (Phase 1 + Phase 2 Plans 01-02 + Phase 3 Plans 01-02 + Phase 4 Plans 01-02 + Phase 5 Plan 01)
-- Average duration: ~11min (Phase 2-5 plans)
-- Total execution time: ~84min
+- Total plans completed: 9 (Phase 1 + Phase 2 Plans 01-02 + Phase 3 Plans 01-02 + Phase 4 Plans 01-02 + Phase 5 Plans 01-02)
+- Average duration: ~10min (Phase 2-5 plans)
+- Total execution time: ~88min
 
 **By Phase:**
 
@@ -31,11 +31,11 @@ Progress: [========..] ~75% (4 phases complete + Plan 05-01 of Phase 5)
 | 2. Structure & Redundancy | 2/2 | ~27min | ~14min |
 | 3. Credibility & Claims | 2/2 | ~28min | ~14min |
 | 4. Voice & Polish | 2/2 | ~25min | ~13min |
-| 5. Adversarial Review | 1/2 | ~4min | ~4min |
+| 5. Adversarial Review | 2/2 | ~8min | ~4min |
 
 **Recent Trend:**
+- Phase 5 Plan 02: ~4min for 14 MAJOR/MINOR adversarial findings + author approval
 - Phase 5 Plan 01: ~4min for 8 CRITICAL adversarial findings + response log
-- Phase 4 Plan 02: ~20min for register harmonization, refrain management, prose tightening + author review
 
 *Updated after each plan completion*
 
@@ -73,6 +73,10 @@ Recent decisions affecting current work:
 - Dorrier Exec Summary reference softened to match Part VI treatment
 - Haavik lineage table updated from "validation" to "evidence supporting" for consistency
 - VSC/AMT visual model preserved with hypothesis language replacing absolute claim
+- [Phase 05]: Kept 'We said tone, adjusted bones' with qualifying sentence -- intentional voice preserved while addressing straw-man concern
+- [Phase 05]: Glossary entries rewritten with 'In TTC' framing for 14 TTC-specific terms; general/attributed terms left as standard definitions
+- [Phase 05]: Intent section defensive framing removed entirely -- grounded in therapeutic alliance, expectancy effects, contextual modulation
+- [Phase 05]: Appendix B disclaimer added for optional omission in distribution versions rather than removing
 
 ### Pending Todos
 
@@ -85,5 +89,5 @@ None yet.
 ## Session Continuity
 
 Last session: 2026-03-08
-Stopped at: Completed 05-01-PLAN.md (8 CRITICAL adversarial findings addressed, response log created). Ready for Plan 05-02 (MAJOR/MINOR findings).
-Resume file: .planning/phases/05-adversarial-review/05-01-SUMMARY.md
+Stopped at: Completed 05-02-PLAN.md (Phase 5 Adversarial Review complete -- all 22 findings addressed, author approved). Ready for Phase 6 (Final Delivery).
+Resume file: .planning/phases/05-adversarial-review/05-02-SUMMARY.md

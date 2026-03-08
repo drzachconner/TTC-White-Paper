@@ -16,7 +16,7 @@ Decimal phases appear between their surrounding integers in numeric order.
 - [x] **Phase 2: Structure & Redundancy** - Consolidate overlapping content, recover lost material, apply unincorporated feedback
 - [x] **Phase 3: Credibility & Claims** - Audit every claim for evidence strength, decide intent section treatment
 - [x] **Phase 4: Voice & Polish** - Harmonize register, eliminate AI phrasing, tighten prose
-- [ ] **Phase 5: Adversarial Review** - External LLM critique and response
+- [x] **Phase 5: Adversarial Review** - External LLM critique and response
 - [ ] **Phase 6: Final Delivery** - Vital aspects verification, markdown commit, PDF export
 
 ## Phase Details
@@ -90,8 +90,8 @@ Plans:
 **Plans:** 2 plans
 
 Plans:
-- [ ] 05-01-PLAN.md — Fix all CRITICAL adversarial findings: soften absolute claims, correct evidence-category errors, add philosophical/empirical boundary statement, create response log
-- [ ] 05-02-PLAN.md — Fix all MAJOR/MINOR adversarial findings: rhetorical softening, glossary rewrites, structural tightening, audience calibration, author approval checkpoint
+- [x] 05-01-PLAN.md — Fix all CRITICAL adversarial findings: soften absolute claims, correct evidence-category errors, add philosophical/empirical boundary statement, create response log
+- [x] 05-02-PLAN.md — Fix all MAJOR/MINOR adversarial findings: rhetorical softening, glossary rewrites, structural tightening, audience calibration, author approval checkpoint
 
 ### Phase 6: Final Delivery
 **Goal**: The paper is complete, verified against the vital aspects checklist, and ready for distribution in both markdown and PDF formats
@@ -117,5 +117,5 @@ Phases execute in numeric order: 1 (done) -> 2 -> 3 -> 4 -> 5 -> 6
 | 2. Structure & Redundancy | 2/2 | Complete | 2026-02-26 |
 | 3. Credibility & Claims | 2/2 | Complete | 2026-03-08 |
 | 4. Voice & Polish | 2/2 | Complete | 2026-03-08 |
-| 5. Adversarial Review | 0/2 | Planned | - |
+| 5. Adversarial Review | 2/2 | Complete | 2026-03-08 |
 | 6. Final Delivery | 0/? | Not started | - |
