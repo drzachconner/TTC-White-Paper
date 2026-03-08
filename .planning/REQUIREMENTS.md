@@ -31,8 +31,8 @@
 ### Voice & Polish
 
 - [ ] **VOIC-01**: Register harmonized — clinical-scientific primary, philosophical as intentional seasoning
-- [ ] **VOIC-02**: AI-sounding phrasing eliminated throughout
-- [ ] **VOIC-03**: Consistent terminology (pick one term where variants exist)
+- [x] **VOIC-02**: AI-sounding phrasing eliminated throughout
+- [x] **VOIC-03**: Consistent terminology (pick one term where variants exist)
 - [ ] **VOIC-04**: Prose tightened — filler removed, transitions sharpened
 
 ### Adversarial Review
@@ -88,8 +88,8 @@
 | CRED-03 | Phase 3 | Pending |
 | CRED-04 | Phase 3 | Pending |
 | VOIC-01 | Phase 4 | Pending |
-| VOIC-02 | Phase 4 | Pending |
-| VOIC-03 | Phase 4 | Pending |
+| VOIC-02 | Phase 4 | Complete |
+| VOIC-03 | Phase 4 | Complete |
 | VOIC-04 | Phase 4 | Pending |
 | ADVR-01 | Phase 5 | Pending |
 | ADVR-02 | Phase 5 | Pending |

@@ -77,7 +77,7 @@ Plans:
 **Plans:** 2 plans
 
 Plans:
-- [ ] 04-01-PLAN.md — AI-tell elimination and terminology standardization: grep-driven scan for AI-sounding words, systematic terminology normalization to canonical forms
+- [x] 04-01-PLAN.md — AI-tell elimination and terminology standardization: grep-driven scan for AI-sounding words, systematic terminology normalization to canonical forms
 - [ ] 04-02-PLAN.md — Register harmonization, refrain management, and prose tightening: close-reading editorial pass with Phase 3 insertion smoothing and author voice review checkpoint
 
 ### Phase 5: Adversarial Review
@@ -115,6 +115,6 @@ Phases execute in numeric order: 1 (done) -> 2 -> 3 -> 4 -> 5 -> 6
 | 1. Citations | 1/1 | Complete | 2026-02-26 |
 | 2. Structure & Redundancy | 2/2 | Complete | 2026-02-26 |
 | 3. Credibility & Claims | 2/2 | Complete | 2026-03-08 |
-| 4. Voice & Polish | 0/2 | Planned | - |
+| 4. Voice & Polish | 1/2 | In Progress | - |
 | 5. Adversarial Review | 0/? | Not started | - |
 | 6. Final Delivery | 0/? | Not started | - |

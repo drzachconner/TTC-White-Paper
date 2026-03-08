@@ -5,23 +5,23 @@
 See: .planning/PROJECT.md (updated 2026-02-26)
 
 **Core value:** Credible, voice-preserving white paper ready for professional distribution
-**Current focus:** Phase 3 — Credibility & Claims (COMPLETE)
+**Current focus:** Phase 4 — Voice & Polish (IN PROGRESS)
 
 ## Current Position
 
-Phase: 3 of 6 (Credibility & Claims) -- COMPLETE
-Plan: 2 of 2 complete (03-02 executed, verified)
-Status: Phase 3 complete. Ready for Phase 4 (Voice & Polish).
-Last activity: 2026-03-08 — Plan 03-02 executed; credibility edits complete; verification passed
+Phase: 4 of 6 (Voice & Polish) -- IN PROGRESS
+Plan: 1 of 2 complete (04-01 executed, verified)
+Status: Plan 04-01 complete (AI-tell elimination + terminology standardization). Ready for Plan 04-02 (prose tightening + voice harmonization).
+Last activity: 2026-03-08 — Plan 04-01 executed; AI tells eliminated; terminology standardized
 
-Progress: [=====.....] ~50% (3 of 6 phases complete)
+Progress: [======....] ~58% (3 phases + 1 plan of Phase 4 complete)
 
 ## Performance Metrics
 
 **Velocity:**
-- Total plans completed: 5 (Phase 1 + Phase 2 Plans 01-02 + Phase 3 Plans 01-02)
-- Average duration: ~14min (Phase 2-3 plans)
-- Total execution time: ~55min
+- Total plans completed: 6 (Phase 1 + Phase 2 Plans 01-02 + Phase 3 Plans 01-02 + Phase 4 Plan 01)
+- Average duration: ~12min (Phase 2-4 plans)
+- Total execution time: ~60min
 
 **By Phase:**
 
@@ -30,9 +30,10 @@ Progress: [=====.....] ~50% (3 of 6 phases complete)
 | 1. Citations | 1 | N/A | N/A |
 | 2. Structure & Redundancy | 2/2 | ~27min | ~14min |
 | 3. Credibility & Claims | 2/2 | ~28min | ~14min |
+| 4. Voice & Polish | 1/2 | ~5min | ~5min |
 
 **Recent Trend:**
-- Phase 3 Plan 01: ~20min for credibility audit + author decisions
+- Phase 4 Plan 01: ~5min for AI-tell elimination + terminology standardization
 - Phase 3 Plan 02: ~8min for credibility edits + verification
 
 *Updated after each plan completion*
@@ -61,6 +62,8 @@ Recent decisions affecting current work:
 - Part X trimming: Shorten opening to callback, preserve unique trajectory/practitioner content
 - Content recovery: All 13 items approved (9 AUTHOR DECIDE + 4 pre-approved RECOVER)
 - Editorial feedback TODOs: All 3 outstanding items approved for Plan 02-02
+- Kept "fundamentally" (3x), "paradigm" (4x) as intentional authorial voice -- not AI tells
+- Resolved "primary tone generator" to canonical "Primary Tone-Setter" -- generator metaphor undeveloped
 
 ### Pending Todos
 
@@ -74,5 +77,5 @@ None yet.
 ## Session Continuity
 
 Last session: 2026-03-08
-Stopped at: Phase 3 complete. Ready for Phase 4 (Voice & Polish).
-Resume file: .planning/phases/03-credibility-claims/03-02-SUMMARY.md
+Stopped at: Completed 04-01-PLAN.md (AI-tell elimination + terminology standardization). Ready for 04-02-PLAN.md.
+Resume file: .planning/phases/04-voice-polish/04-01-SUMMARY.md
