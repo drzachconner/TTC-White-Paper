@@ -104,7 +104,7 @@ Plans:
 **Plans:** 2 plans
 
 Plans:
-- [ ] 06-01-PLAN.md — Vital aspects verification (18-item checklist) + markdown cleanup and final commit
+- [x] 06-01-PLAN.md — Vital aspects verification (18-item checklist) + markdown cleanup and final commit
 - [ ] 06-02-PLAN.md — PDF export via pandoc + weasyprint pipeline with author approval checkpoint
 
 ## Progress
@@ -119,4 +119,4 @@ Phases execute in numeric order: 1 (done) -> 2 -> 3 -> 4 -> 5 -> 6
 | 3. Credibility & Claims | 2/2 | Complete | 2026-03-08 |
 | 4. Voice & Polish | 2/2 | Complete | 2026-03-08 |
 | 5. Adversarial Review | 2/2 | Complete | 2026-03-08 |
-| 6. Final Delivery | 0/2 | Not started | - |
+| 6. Final Delivery | 1/2 | In Progress | - |

@@ -42,9 +42,9 @@
 
 ### Final Delivery
 
-- [ ] **DELV-01**: Final polished markdown committed to repo
+- [x] **DELV-01**: Final polished markdown committed to repo
 - [ ] **DELV-02**: PDF exported and ready for distribution
-- [ ] **DELV-03**: Vital aspects checklist verified — all key TTC principles survive edits
+- [x] **DELV-03**: Vital aspects checklist verified — all key TTC principles survive edits
 
 ## v2 Requirements
 
@@ -93,9 +93,9 @@
 | VOIC-04 | Phase 4 | Complete |
 | ADVR-01 | Phase 5 | Complete |
 | ADVR-02 | Phase 5 | Complete |
-| DELV-01 | Phase 6 | Pending |
+| DELV-01 | Phase 6 | Complete |
 | DELV-02 | Phase 6 | Pending |
-| DELV-03 | Phase 6 | Pending |
+| DELV-03 | Phase 6 | Complete |
 
 **Coverage:**
 - v1 requirements: 23 total
@@ -104,4 +104,4 @@
 
 ---
 *Requirements defined: 2026-02-26*
-*Last updated: 2026-02-26 after initial definition*
+*Last updated: 2026-03-08 after Phase 6 Plan 01 completion (DELV-01, DELV-03 complete)*
