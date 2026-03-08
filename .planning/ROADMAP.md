@@ -74,10 +74,11 @@ Plans:
   2. A search for common AI tells (e.g., "it's important to note," "delve," "tapestry," "multifaceted") returns zero results
   3. Each technical term (subluxation vs. vertebral subluxation complex, AMT vs. Adverse Mechanical Tension, etc.) uses one consistent form throughout, with variants defined once and then standardized
   4. Every paragraph earns its word count — no filler sentences, no throat-clearing transitions
-**Plans**: TBD
+**Plans:** 2 plans
 
 Plans:
-- [ ] 04-01: TBD
+- [ ] 04-01-PLAN.md — AI-tell elimination and terminology standardization: grep-driven scan for AI-sounding words, systematic terminology normalization to canonical forms
+- [ ] 04-02-PLAN.md — Register harmonization, refrain management, and prose tightening: close-reading editorial pass with Phase 3 insertion smoothing and author voice review checkpoint
 
 ### Phase 5: Adversarial Review
 **Goal**: The paper has been stress-tested by an external model and all valid criticisms have been addressed
@@ -114,6 +115,6 @@ Phases execute in numeric order: 1 (done) -> 2 -> 3 -> 4 -> 5 -> 6
 | 1. Citations | 1/1 | Complete | 2026-02-26 |
 | 2. Structure & Redundancy | 2/2 | Complete | 2026-02-26 |
 | 3. Credibility & Claims | 2/2 | Complete | 2026-03-08 |
-| 4. Voice & Polish | 0/? | Not started | - |
+| 4. Voice & Polish | 0/2 | Planned | - |
 | 5. Adversarial Review | 0/? | Not started | - |
 | 6. Final Delivery | 0/? | Not started | - |
