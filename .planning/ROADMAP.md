@@ -17,7 +17,7 @@ Decimal phases appear between their surrounding integers in numeric order.
 - [x] **Phase 3: Credibility & Claims** - Audit every claim for evidence strength, decide intent section treatment
 - [x] **Phase 4: Voice & Polish** - Harmonize register, eliminate AI phrasing, tighten prose
 - [x] **Phase 5: Adversarial Review** - External LLM critique and response
-- [ ] **Phase 6: Final Delivery** - Vital aspects verification, markdown commit, PDF export
+- [x] **Phase 6: Final Delivery** - Vital aspects verification, markdown commit, PDF export
 
 ## Phase Details
 
@@ -105,7 +105,7 @@ Plans:
 
 Plans:
 - [x] 06-01-PLAN.md — Vital aspects verification (18-item checklist) + markdown cleanup and final commit
-- [ ] 06-02-PLAN.md — PDF export via pandoc + weasyprint pipeline with author approval checkpoint
+- [x] 06-02-PLAN.md — PDF export via pandoc + weasyprint pipeline with author approval checkpoint
 
 ## Progress
 
@@ -119,4 +119,4 @@ Phases execute in numeric order: 1 (done) -> 2 -> 3 -> 4 -> 5 -> 6
 | 3. Credibility & Claims | 2/2 | Complete | 2026-03-08 |
 | 4. Voice & Polish | 2/2 | Complete | 2026-03-08 |
 | 5. Adversarial Review | 2/2 | Complete | 2026-03-08 |
-| 6. Final Delivery | 1/2 | In Progress | - |
+| 6. Final Delivery | 2/2 | Complete | 2026-03-08 |
