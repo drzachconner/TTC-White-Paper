@@ -101,10 +101,11 @@ Plans:
   1. Every item on the vital aspects checklist (renditions/08_2025-11-02_vital_aspects.md) is present in the final draft — no key TTC principles were lost during editing
   2. The final markdown is committed to the repo as a clean, well-formatted document
   3. A PDF export exists and is ready for seminar distribution and digital sharing
-**Plans**: TBD
+**Plans:** 2 plans
 
 Plans:
-- [ ] 06-01: TBD
+- [ ] 06-01-PLAN.md — Vital aspects verification (18-item checklist) + markdown cleanup and final commit
+- [ ] 06-02-PLAN.md — PDF export via pandoc + weasyprint pipeline with author approval checkpoint
 
 ## Progress
 
@@ -118,4 +119,4 @@ Phases execute in numeric order: 1 (done) -> 2 -> 3 -> 4 -> 5 -> 6
 | 3. Credibility & Claims | 2/2 | Complete | 2026-03-08 |
 | 4. Voice & Polish | 2/2 | Complete | 2026-03-08 |
 | 5. Adversarial Review | 2/2 | Complete | 2026-03-08 |
-| 6. Final Delivery | 0/? | Not started | - |
+| 6. Final Delivery | 0/2 | Not started | - |
