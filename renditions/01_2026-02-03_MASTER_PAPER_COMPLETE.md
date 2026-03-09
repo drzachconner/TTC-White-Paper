@@ -48,10 +48,7 @@ Talsky Tonal Chiropractic is an attempt to apply the original chiropractic princ
 
 The body is intelligent. The central nervous system is the chief coordinator, but it can only work with the information it receives. When physical limitations alter that afferent input, the result is interference, and that interference can be reduced through chiropractic-facilitated adjustments. Facilitate the reduction of the interference, and the intelligent system re-initiates its own process of correction. Tone is the medium through which that correction proceeds. That is the logic.
 
-If the body is intelligent, then our task is to converse with that intelligence, not overpower it. TTC is built on this simple orientation:
-- We engage what is ready, not what is stuck.
-- We look for the best window in, not the biggest fixation.
-- We deliver the least amount of the most effective input so that the body can re-initiate its own process of self-adjustment.
+If the body is intelligent, then our task is to converse with that intelligence, not overpower it.
 
 ### 1.3 The Philosophy–Technique Disconnect
 
