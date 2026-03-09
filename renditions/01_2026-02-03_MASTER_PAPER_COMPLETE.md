@@ -109,7 +109,7 @@ We are not looking for what's fixated; **we are looking for the best window in.*
 
 We are not looking for the most resistance; **we are looking for the most receptivity.**
 
-Find the best conversational opening, the best window in, and speak the language the system actually uses via tone, directional information, timing, and congruent intent. We are not pushing bones into place; we are giving the body better information so it better perceives itself and its environment. We verify the conversation through system balancing (leg checks or other balancing analyses). Outcome measures include improved adaptability, regulation, breathing ease, postural efficiency, and recovery after stress, indicators of the ongoing process of subluxation reduction.
+Find the best conversational opening, the best window in, and speak the language the system actually uses via tone, directional information, timing, and congruent intent. We are not pushing bones into place; we are giving the body better information so it better perceives itself and its environment. The body communicates its response through whole-system balancing (leg checks or other balancing analyses). Outcome measures include improved adaptability, regulation, breathing ease, postural efficiency, and recovery after stress, indicators of the ongoing process of subluxation reduction.
 
 ### The Paradigm Shift
 
