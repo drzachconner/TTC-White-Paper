@@ -44,9 +44,9 @@ Chiropractic was founded on the principle that life is an expression of tone and
 
 Talsky Tonal Chiropractic is an attempt to apply the original chiropractic principles to the actual structure that sets tone first.
 
-### 1.2 Chiropractic Vitalism Lived, Not Memorized
+### 1.2 The Vitalistic Logic
 
-Any truly principled chiropractor would agree: the bigness of the 33 Principles is not found in memorizing them but in living them in every shift. The body is intelligent. The nervous system is the chief coordinator, operating with perfect responses to the information it perceives. The interference is the altered perception based on physical limitations, limitations that can be reduced through chiropractic-facilitated adjustments. That is the logic.
+The body is intelligent. The nervous system is the chief coordinator, operating with perfect responses to the information it perceives. The interference is the altered perception based on physical limitations, limitations that can be reduced through chiropractic-facilitated adjustments. That is the logic.
 
 If the body is intelligent, then our task is to converse with that intelligence, not overpower it. TTC is built on this simple orientation:
 - We engage what is ready, not what is stuck.
