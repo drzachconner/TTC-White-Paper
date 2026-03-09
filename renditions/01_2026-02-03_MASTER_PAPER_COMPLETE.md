@@ -40,7 +40,7 @@ In this understanding, NeuroSpinal Subluxation is fundamentally a state of alter
 
 ### 1.1 Opening Perspective
 
-Chiropractic was founded on the principle that life is an expression of tone and that interference to the nervous system limits that expression. Yet in daily practice the profession has overwhelmingly emphasized joint fixation, segmental malposition, and nerve compression — mechanical descriptions of subluxation — while giving far less clinical attention to the nervous system's tone itself. **This is the gap. We profess a tonal principle but practice a structural model.**
+Chiropractic was founded on the principle that life is an expression of tone and that interference to the nervous system limits that expression. Yet in daily practice the profession has overwhelmingly emphasized joint fixation, segmental malposition, and nerve compression while giving far less clinical attention to the nervous system's tone itself. **This is the gap. We profess a tonal principle but practice a structural model.**
 
 Talsky Tonal Chiropractic is an attempt to apply the original chiropractic principles to the actual structure that sets tone first.
 
