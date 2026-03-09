@@ -102,7 +102,7 @@ We are not moving bones; we are communicating with a responsive, complex, sensor
 
 **Location, Vector, and Timing:** Global tonal indicators guide the analysis; tonal pressure testing and leg balancing verify location, vector, and timing of input. We contact where the system confirms most receptivity, in the direction parallel to the line of unwinding, and only when the best window in is open and available. Between encounters, time is allowed for the body to process the adjustment.
 
-**Amplitude and Quantity *(Less is More)*:** The least amount of the most effective input, both in magnitude (enough to be heard, not enough to threaten or overpower) and number of contacts (enough to facilitate the body's self-correction process, not enough to interfere with the system's own corrective process).
+**Amplitude and Quantity *(Less is More)*:** The least amount of the most effective input, both in magnitude (enough to be heard, not enough to threaten or overpower) and number of contacts (enough to facilitate self-correction, not so many as to interfere with it).
 
 ### The Clinical Art
 
