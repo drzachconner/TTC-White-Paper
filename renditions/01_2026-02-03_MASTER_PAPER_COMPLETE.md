@@ -46,7 +46,7 @@ Talsky Tonal Chiropractic is an attempt to apply the original chiropractic princ
 
 ### 1.2 The Vitalistic Logic
 
-The body is intelligent. The central nervous system is the chief coordinator, operating with perfect responses to the information it perceives. The interference is the altered perception based on physical limitations, limitations that can be reduced through chiropractic-facilitated adjustments. Facilitate the reduction of the interference, and the intelligent system re-initiates its own process of correction. Tone is the medium through which that correction proceeds. That is the logic.
+The body is intelligent. The central nervous system is the chief coordinator, but it can only work with the information it receives. When physical limitations alter that afferent input, the result is interference, and that interference can be reduced through chiropractic-facilitated adjustments. Facilitate the reduction of the interference, and the intelligent system re-initiates its own process of correction. Tone is the medium through which that correction proceeds. That is the logic.
 
 If the body is intelligent, then our task is to converse with that intelligence, not overpower it. TTC is built on this simple orientation:
 - We engage what is ready, not what is stuck.
