@@ -90,7 +90,7 @@ In this framing, the NeuroSpinal System is not a passive unit of suspension; it 
 
 ### The Clinical Method
 
-Talsky Tonal Chiropractic treats that proposition as literal. The work is not to force a vertebra to comply with a structural blueprint, but to offer precisely vectored information, delivered with congruent intent, to the NeuroSpinal System so it can better perceive itself and re-initiate its own process of self-correction. (Recent meta-analytic evidence raises important questions about the degree to which application specifics drive outcomes; see Limitations for a candid treatment of this challenge.)
+Talsky Tonal Chiropractic treats that proposition as literal. The work is not to force a vertebra to comply with a structural blueprint, but to offer precisely vectored information, delivered with congruent intent, to the NeuroSpinal System so it can better perceive itself and re-initiate its own process of self-correction.
 
 TTC shifts the paradigm: **we are not engaging the nervous system through joint mobilization or osseous thrusts.** Instead of applying force into joint spaces to stimulate articular mechanoreceptors, TTC delivers precise, non-articular communication through touch to the soft tissue and meningeal system, communicating directly with the tone and tension of the NeuroSpinal System.
 
