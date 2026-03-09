@@ -94,7 +94,7 @@ Talsky Tonal Chiropractic treats that proposition as literal. The work is not to
 
 TTC shifts the paradigm: **we are not engaging the nervous system through joint mobilization or osseous thrusts.** Instead of applying force into joint spaces to stimulate articular mechanoreceptors, TTC delivers precise, non-articular communication through touch to the soft tissue and meningeal system, communicating directly with the tone and tension of the NeuroSpinal System.
 
-We are not working with bones; we are working with a complex, sensory-rich, independently motile suspension system.
+We are not moving bones; we are connecting to and communicating with a responsive, complex, sensory-rich, independently motile suspension system.
 
 **Premise:** The intelligent system always seeks to self-correct; it is often missing accurate information, which tonal inputs are designed to provide.
 
