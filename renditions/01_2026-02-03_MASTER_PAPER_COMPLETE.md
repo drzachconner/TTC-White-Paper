@@ -81,7 +81,7 @@ Together, these distortions impair the accuracy and clarity of communication bet
 
 To understand this clinically, we must reconsider what biology fundamentally is. If we grant that biology is not merely chemistry animated by electricity, but a symphony led by intelligence via tensioned membranes and pressurized fluids, then tone becomes both messenger and message, the rhythmic modulation by which a system continually attempts to recalibrate itself.
 
-The spine is not a column of separate joints. It is a tensioned, fluid-coupled, fascia-integrated, dura-anchored communication organ. By this we mean that spinal tissues are mechanically continuous, richly innervated, and capable of influencing sensorimotor regulation throughout the body.
+The spine is not just a column of separate joints. It is a tensioned, fluid-coupled, fascia-integrated, dura-anchored communication organ. By this we mean that spinal tissues are mechanically continuous, richly innervated, and capable of influencing sensorimotor regulation throughout the body.
 
 In this framing, the NeuroSpinal System is not a passive unit of suspension; it is an active, self-tuning instrument (at once string, soundboard, resonant chamber, and its own tuner) animated by independent contractile motility of the meningeal system and the pulsatile dynamics of CSF.
 
@@ -97,7 +97,7 @@ We are not moving bones; we are communicating with a responsive, complex, sensor
 
 **Intent:** Contact is made with the intent to communicate with the body's organizing intelligence through the physical matter of the nervous system.
 
-**Location, Vector, and Timing:** Global tonal indicators guide the analysis; tonal pressure testing and leg balancing verify location, vector, and timing of input. We contact where the system confirms most receptivity, in the direction parallel to the line of unwinding, and only when the best window in is open and available. Between encounters, time is allowed for the body to process the adjustment.
+**Location, Vector, and Timing:** Global tonal indicators guide the analysis; tonal pressure testing and leg balancing verify location, vector, and timing of input. We contact where the system confirms most receptivity, in the direction opposite to the contraction—engaging the dura or its direct extension back toward the origin of the contracture—and only when the best window in is open and available. Between encounters, time is allowed for the body to process the adjustment.
 
 **Amplitude and Quantity *(Less is More)*:** The least amount of the most effective input, both in magnitude (enough to be heard, not enough to threaten or overpower) and number of contacts (enough to facilitate self-correction, not so many as to interfere with it).
 
@@ -189,7 +189,7 @@ While osseous approaches can achieve meaningful changes when they influence the 
 
 ### 4.1 The Traditional Subluxation Model: Compression First
 
-For most of chiropractic's history, subluxation was defined structurally, as a misalignment or fixation of spinal vertebrae producing neurological effects through mechanical compression or irritation. While this structural model helped establish chiropractic's early identity and produced meaningful clinical results, it began at the wrong point in the pathophysiological sequence. Osseous models started with joint fixation and vertebral compensation, not recognizing that neurological interference begins upstream in the NeuroSpinal System (C-SMFU) with aberrant tension that drives those structural changes. They did not address the initiation of the subluxation process: the neurological interference in communication between brain and body that occurs first and foremost in the aberrant tension within the C-SMFU, initiating the cascade of dysfunction described in Part VI.
+For most of chiropractic's history, subluxation was defined structurally, as a misalignment or fixation of spinal vertebrae producing neurological effects through mechanical compression or irritation. While this structural model helped establish chiropractic's early identity and produced meaningful clinical results, it entered the pathophysiological sequence at the level of vertebral compensation. Osseous models started with joint fixation and vertebral compensation, not recognizing that neurological interference begins upstream in the NeuroSpinal System (C-SMFU) with aberrant tension that drives those structural changes. They did not address the initiation of the subluxation process: the neurological interference in communication between brain and body that occurs first and foremost in the aberrant tension within the C-SMFU, initiating the cascade of dysfunction described in Part VI.
 
 ### 4.2 The Shift from Compression to Tension-Based Interference
 
@@ -698,7 +698,7 @@ This is what people experience as ongoing improvement in function and adaptabili
 
 **Tone**: In TTC, the baseline state of tension, coherence, and responsiveness within the nervous system and its connective tissue envelope. Within the chiropractic philosophical tradition, tone is the mechanism through which Universal Intelligence manifests and maintains the physical universe and the medium through which Innate Intelligence coordinates all actions. Tone is intelligence in motion.
 
-**Vector of unwinding**: In TTC, the contact direction parallel to aberrant tension, offered to invite release and reorganization.
+**Vector of unwinding**: In TTC, the contact direction opposite to meningeal contraction—engaging the dura or its direct extension back toward the origin of the contracture—offered to invite release and reorganization.
 
 ---
 
