@@ -197,11 +197,14 @@ Modern neuroscience increasingly challenges the long-held assumption that verteb
 
 Decades earlier, neurosurgeon **Dr. Alf Breig** documented that **Adverse Mechanical Tension (AMT)**, aberrant tension in the meningeal system and spinal cord, can disturb neural function even in the absence of vertebral displacement (Breig, 1978). His research revealed that the nervous system is vulnerable to stretch, torsion, and sustained tension, particularly when the dura and spinal cord are placed under aberrant mechanical load.
 
+Within chiropractic, **Donald Epstein, D.C.** was the first to apply Breig's insight clinically. In 1983, Epstein distinguished between Class A (structural) and Class B (meningeal/facilitated) subluxations, proposing that a class of subluxation originates not from vertebral misalignment but from tension within the cord-meningeal system itself (Epstein, 1996). This was the first subluxation classification grounded in meningeal tension rather than osseous displacement (see Section 4.4 for full discussion).
+
 Together, their work challenged simple compression-only accounts and broadened the profession's attention toward tension, distortion, and altered afferent input:
 
 | Key Figure | Core Finding | Implication |
 |---|---|---|
 | **Alf Breig (1978)** | Demonstrated Adverse Mechanical Tension (AMT) in the meninges and spinal cord without vertebral displacement | Compression is not required for interference; tension itself is sufficient |
+| **Donald Epstein (1983)** | Distinguished Class A (structural) from Class B (facilitated) subluxation; first to apply Breig's AMT clinically to subluxation theory | Subluxation can originate in meningeal tension, not just vertebral misalignment |
 | **Heidi Haavik (2007)** | Altered sensorimotor integration traced to distorted afferent input, not nerve compression | Interference is primarily tonal and neurological, not compressive |
 
 This shift from compression to tension represented a fundamental reconceptualization:
@@ -285,7 +288,7 @@ The evolution from structural to tonal models was gradual, built on the insights
 | **Thompson (1955)** | Leg checks as neurological tone indicators |
 | **Breig (1978)** | Adverse Mechanical Tension: tension-based interference without vertebral displacement |
 | **Ward / SCS (1980)** | Spine as whole-system dynamic stress pattern |
-| **Epstein / NSA (1982)** | Facilitated subluxation; wave dynamics; tonal analysis synthesis |
+| **Epstein / NSA (1983)** | First subluxation classification grounded in meningeal tension (Class A/B); wave dynamics; tonal analysis synthesis |
 | **Talsky / TRT → TTC (1995–2001)** | Direct NeuroSpinal engagement; pure tonal chiropractic |
 | **Haavik (2007)** | Neurophysiologic evidence supporting tension-based subluxation models |
 
