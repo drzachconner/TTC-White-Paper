@@ -97,7 +97,7 @@ We are not moving bones; we are communicating with a responsive, complex, sensor
 
 **Intent:** Contact is made with the intent to communicate with the body's organizing intelligence through the physical matter of the nervous system.
 
-**Location, Vector, and Timing:** Global tonal indicators guide the analysis; tonal pressure testing and leg balancing verify location, vector, and timing of input. We contact where the system confirms most receptivity, in the direction opposite to the contraction—engaging the dura or its direct extension back toward the origin of the contracture—and only when the best window in is open and available. Between encounters, time is allowed for the body to process the adjustment.
+**Location, Vector, and Timing:** Global tonal indicators guide the analysis; tonal pressure testing and leg balancing verify location, vector, and timing of input. We contact where the system confirms most receptivity, parallel to and opposite the direction of contraction—engaging the dura or its direct extension in the direction of release—and only when the best window in is open and available. Between encounters, time is allowed for the body to process the adjustment.
 
 **Amplitude and Quantity *(Less is More)*:** The least amount of the most effective input, both in magnitude (enough to be heard, not enough to threaten or overpower) and number of contacts (enough to facilitate self-correction, not so many as to interfere with it).
 
@@ -698,7 +698,7 @@ This is what people experience as ongoing improvement in function and adaptabili
 
 **Tone**: In TTC, the baseline state of tension, coherence, and responsiveness within the nervous system and its connective tissue envelope. Within the chiropractic philosophical tradition, tone is the mechanism through which Universal Intelligence manifests and maintains the physical universe and the medium through which Innate Intelligence coordinates all actions. Tone is intelligence in motion.
 
-**Vector of unwinding**: In TTC, the contact direction opposite to meningeal contraction—engaging the dura or its direct extension back toward the origin of the contracture—offered to invite release and reorganization.
+**Vector of unwinding**: In TTC, the contact direction parallel to and opposite the direction of meningeal contraction—engaging the dura or its direct extension in the direction of release—offered to invite reorganization.
 
 ---
 
