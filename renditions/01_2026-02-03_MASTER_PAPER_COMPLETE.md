@@ -331,7 +331,7 @@ TTC maintains exclusive focus on **physical inputs to physical nervous system st
 
 **TTC's unique methodological contributions:**
 
-1. **Vectors strictly parallel to aberrant tension**: TTC contacts are delivered precisely parallel to the line of unwinding, in the direction the NeuroSpinal System needs to experience safe movement
+1. **Dural contraction-specific vectors (the Tonal Line of Drive)**: Where osseous methods direct force into joint spaces, TTC derives its contact vector from the meningeal contraction itself. The input is delivered parallel to and opposite the direction of dural contraction—engaging the dura or its direct extension in the direction of release. This contraction-specific vector is unique to TTC and represents a fundamental departure from both articular lines of drive and non-specific tonal contacts
 
 2. **Mandatory tonal pressure testing with leg balancing**: Real-time, contact-by-contact clinical indicator of location, vector, and timing; the system must show temporary balancing before input is delivered
 
@@ -566,7 +566,7 @@ When the legs temporarily balance, TTC interprets this as a clinical indicator o
 
 **Location:** Often at or near dural attachment "window" areas (craniocervical, sacro-coccygeal), but also along the course of identified aberrant tension in the NeuroSpinal System.
 
-**Vector:** Parallel to the line of unwinding.
+**Vector:** The Tonal Line of Drive—parallel to and opposite the direction of dural contraction, engaging the meningeal system in the direction of release.
 
 **Amount:** Minimal. Enough to be perceived. Not enough to threaten.
 
@@ -698,7 +698,7 @@ This is what people experience as ongoing improvement in function and adaptabili
 
 **Tone**: In TTC, the baseline state of tension, coherence, and responsiveness within the nervous system and its connective tissue envelope. Within the chiropractic philosophical tradition, tone is the mechanism through which Universal Intelligence manifests and maintains the physical universe and the medium through which Innate Intelligence coordinates all actions. Tone is intelligence in motion.
 
-**Vector of unwinding**: In TTC, the contact direction parallel to and opposite the direction of meningeal contraction—engaging the dura or its direct extension in the direction of release—offered to invite reorganization.
+**Tonal Line of Drive / Vector of unwinding**: In TTC, the contact vector derived from the meningeal contraction itself—delivered parallel to and opposite the direction of dural contraction, engaging the dura or its direct extension in the direction of release. This contraction-specific vector is unique to TTC, distinct from both articular lines of drive and non-specific tonal contacts.
 
 ---
 
