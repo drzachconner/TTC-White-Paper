@@ -181,7 +181,7 @@ This means:
 - The musculoskeletal system organizes itself around a central imbalance
 - Bones move and hold their positions as a result of core dural and fascial tension, not the other way around
 
-While osseous approaches can achieve meaningful changes when they influence the underlying NeuroSpinal tone, TTC engages the NeuroSpinal System directly as the Primary Tone-Setter. This facilitates a learning experience for the nervous system, allowing it to begin resolving subluxation on its own and become increasingly effective at self-correction.
+While osseous approaches can achieve meaningful changes when they influence the underlying NeuroSpinal tone, TTC engages the NeuroSpinal System directly. This facilitates a learning experience for the nervous system, allowing it to begin resolving subluxation on its own and become increasingly effective at self-correction.
 
 ---
 
