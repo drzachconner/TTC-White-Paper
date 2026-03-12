@@ -14,7 +14,7 @@
 
 **Thesis.** In the TTC model, vertebral subluxation is most accurately understood as a secondary, compensatory event. The primary interference takes place upstream in the NeuroSpinal System (also known as the Cranio-Spinal Meningeal Functional Unit), where sustained, stress-mediated meningeal contraction alters tone and information flow. This aberrant tone compels vertebral structures, musculature, and posture to compensate around it. In this model, the NeuroSpinal System is the Primary Tone-Setter. Vertebral subluxation is the body's best available adaptation to that primary tonal disturbance.
 
-**Core Insight.** The meningeal system is not passive covering. Research suggests it is a contractile, sensorimotor tissue that, in the TTC model, functions as an information-bearing continuum, contracting protectively in response to physical, chemical, or emotional stress. This protective meningeal contraction involves both immediate contractile responses and subsequent fibroblast-to-myofibroblast conversion mediated by TGF-β1 signaling, a mechanism well-established in connective tissue (Tomasek et al., 2002; Wipff et al., 2007), with fibrotic and contractile potential demonstrated in meningeal tissue under pathological conditions (Dorrier et al., 2021). This creates Adverse Mechanical Tension (AMT) that can persist long after the original stressor is gone. The process of resolution occurs when the system experiences range of motion into the area of restricted tension in the absence of a concurrent stress response, allowing protective contraction to release, unwinding to begin, and the restoration of normal tone to proceed.
+**Core Insight.** The meningeal system is not passive covering. Research suggests it is a contractile, sensorimotor tissue that, in the TTC model, functions as an information-bearing continuum, contracting protectively in response to physical, chemical, or emotional stress. This protective meningeal contraction involves both immediate contractile responses and subsequent fibroblast-to-myofibroblast conversion mediated by TGF-β1 signaling, a mechanism well-established in connective tissue (Tomasek et al., 2002; Wipff et al., 2007), with fibrotic and contractile potential demonstrated in meningeal tissue under pathological conditions (Dorrier et al., 2021). This creates aberrant NeuroSpinal tension — what Breig (1978) termed Adverse Mechanical Tension — that can persist long after the original stressor is gone. The process of resolution occurs when the system experiences range of motion into the area of restricted tension in the absence of a concurrent stress response, allowing protective contraction to release, unwinding to begin, and the restoration of normal tone to proceed.
 
 **Clinical Consequence.** By addressing the NeuroSpinal System directly as the Primary Tone-Setter, TTC engages the initiatory mechanism upstream of vertebral compensation. This allows chiropractors to work with both cause and effect: the aberrant tone that creates subluxation and the structural compensations that result from it. TTC can stand alone or enhance existing approaches by addressing this foundational level.
 
@@ -34,7 +34,7 @@ TTC honors this foundation while representing a profound shift in how we interac
 
 **Standing on the shoulders of those who came before us.** No model emerges in isolation. The difference between original contribution and mere repetition is this: genuine evolution acknowledges the foundational work it builds upon, names its intellectual debts explicitly, and then demonstrates what is genuinely new. TTC does all three. Breig demonstrated that adverse mechanical tension in the meningeal system can disturb neural function without vertebral displacement. Ward brought Breig's insight into chiropractic practice, conceptualizing the spine as a "Spinal-Column-Pelvic-Meningeal-Unit." Epstein built on both, coining the **Spinal Meningeal Functional Unit (SMFU)**, creating the first subluxation classification grounded in meningeal tension (Class A/B), and synthesizing indicators from multiple pre-existing tonal techniques into an integrated clinical framework — the first of its kind in chiropractic. He also discovered two wave dynamics (the respiratory wave and somatopsychic wave) that demonstrated the nervous system's reorganizational capacity. These were pioneering insights that opened the door to all subsequent tonal models. TTC stands on these shoulders and extends the work in directions that are distinct and new: the proposal that meningeal involvement underlies *all* subluxation (not only Class B), the concept of the NeuroSpinal System as the body's Primary Tone-Setter, contraction-specific tonal vectors derived from the meningeal tension itself, and a model-first framework that can inform any chiropractic technique. These contributions are detailed throughout Parts IV and V.
 
-In this understanding, NeuroSpinal Subluxation is fundamentally a state of altered NeuroSpinal tone and informational interference, originating from protective meningeal contraction that creates AMT. The incomplete and abnormal movement of spinal segments, and the tension within the vertebral subluxation complex, represent the body's compensatory adaptation to this upstream tonal dysregulation.
+In this understanding, NeuroSpinal Subluxation is fundamentally a state of altered NeuroSpinal tone and informational interference, originating from protective meningeal contraction that creates aberrant NeuroSpinal tension. The incomplete and abnormal movement of spinal segments, and the tension within the vertebral subluxation complex, represent the body's compensatory adaptation to this upstream tonal dysregulation.
 
 ---
 
@@ -154,7 +154,7 @@ When it holds maladaptive tension beyond need, every subsystem must reorganize a
 
 The multi-layered meningeal system acts as an active communication transfer mechanism to and from the CNS, predominantly through non-synaptic pathways. This system possesses independent contractile motility and is in constant motion, modulating its tone moment to moment as it continuously assesses and responds to changes in tension, movement, and the perception of threat.
 
-Neurosurgeon **Alf Breig** first documented **Adverse Mechanical Tension (AMT)**, a state of aberrant tension in the meningeal system and spinal cord that can disturb neural function even without vertebral displacement (Breig, 1978). His work revealed that the nervous system is vulnerable to stretch, torsion, and sustained tension. Research has demonstrated fibroblast-to-myofibroblast differentiation in meningeal tissue, with **α-SMA–positive myofibroblasts** identified in the arachnoid membrane under pathological conditions (Dorrier et al., 2021; Fede et al., 2018). While direct investigation of meningeal myofibroblast activity under routine physiological stress is limited, these findings confirm that the meningeal system possesses intrinsic contractile capacity. The TTC model proposes that this mechanism also operates under chronic subclinical stress, providing the contractile force that generates and sustains aberrant tension.
+Neurosurgeon **Alf Breig** first documented **Adverse Mechanical Tension (AMT)**, a state of aberrant tension in the meningeal system and spinal cord that can disturb neural function even without vertebral displacement (Breig, 1978). His work revealed that the nervous system is vulnerable to stretch, torsion, and sustained tension. Research has demonstrated fibroblast-to-myofibroblast differentiation in meningeal tissue, with **α-SMA–positive myofibroblasts** identified in the arachnoid membrane under pathological conditions (Dorrier et al., 2021; Fede et al., 2018). While direct investigation of meningeal myofibroblast activity under routine physiological stress is limited, these findings confirm that the meningeal system possesses intrinsic contractile capacity. The TTC model proposes that this mechanism also operates under chronic subclinical stress, providing the contractile force that generates and sustains aberrant NeuroSpinal tension.
 
 Though the NeuroSpinal System is not a skeletal muscle, it **autonomously sets its own tone**, compelling muscles, joints, and posture to compensate around it. It actively contracts under actual or perceived stress, and expands and relaxes as the perception of stress resolves.
 
@@ -227,13 +227,13 @@ At first, this response is not pathological. It is an intelligent attempt by the
 
 While tonal awareness in chiropractic practice predates Epstein, evident in the work of Toftness, Logan, and others who employed light-force, tone-aware methods decades earlier, **Donald Epstein, D.C.** made several interconnected contributions that transformed tonal chiropractic from a collection of individual techniques into a unified clinical framework.
 
-**The SMFU concept.** Building on Ward's anatomical description of the "Spinal-Column-Pelvic-Meningeal-Unit" and Breig's biomechanical research on adverse cord tension — and encouraged by chiropractor Thomas Faulkner to incorporate their work — Epstein coined the term **Spinal Meningeal Functional Unit (SMFU)** (Epstein, 1986). Where Ward had described the anatomy and Breig had demonstrated the mechanism, Epstein reframed the cord-meningeal system as a *functional unit* with specific clinical implications: a dynamic, stress-responsive system whose tension state determines the organism's adaptive capacity.
+**The SMFU concept.** Building on Ward's anatomical description of the "Spinal-Column-Pelvic-Meningeal-Unit" and Breig's biomechanical research on what Epstein would term **Adverse Mechanical Cord Tension (AMCT)**, adding "Cord" to Breig's broader AMT for greater anatomical specificity — and encouraged by chiropractor Thomas Faulkner to incorporate their work — Epstein coined the term **Spinal Meningeal Functional Unit (SMFU)** (Epstein, 1986). Where Ward had described the anatomy and Breig had demonstrated the mechanism, Epstein reframed the cord-meningeal system as a *functional unit* with specific clinical implications: a dynamic, stress-responsive system whose tension state determines the organism's adaptive capacity.
 
 **The Class A/B classification.** Epstein was the first to formally classify subluxation based on meningeal tension rather than vertebral misalignment. He distinguished between two classes:
 
 **Class A (Structural Subluxation)**: A segmental distortion associated with compromise of intervertebral structures, most commonly produced by localized physical trauma. Traditional vertebral misalignment with associated fixation and local mechanical dysfunction.
 
-**Class B (Facilitated Subluxation)**: Associated with lack of recovery from emotional, mental, or chemical stress and linked to adverse mechanical cord tension. A tension-based state of the cord-meningeal system, often evident at dural "gateway" regions (craniocervical and sacro-coccygeal attachments). This is not primarily structural; it is a sustained protective contraction of the NeuroSpinal System that precedes and drives structural compensations. Epstein connected Class B to B.J. Palmer's earlier concepts of torqued meningeal occlusion and multiple cord pressures by tension, and related it functionally to Speransky's neurodystrophic processes.
+**Class B (Facilitated Subluxation)**: Associated with lack of recovery from emotional, mental, or chemical stress and linked to Adverse Mechanical Cord Tension (AMCT). A tension-based state of the cord-meningeal system, often evident at dural "gateway" regions (craniocervical and sacro-coccygeal attachments). This is not primarily structural; it is a sustained protective contraction of the NeuroSpinal System that precedes and drives structural compensations. Epstein connected Class B to B.J. Palmer's earlier concepts of torqued meningeal occlusion and multiple cord pressures by tension, and related it functionally to Speransky's neurodystrophic processes.
 
 **The integrated tonal analysis.** Before Epstein, techniques such as Toftness, Logan Basic, DNFT, SOT, Thompson, and Pierce-Stillwagon each operated in isolation, detecting different aspects of spinal tension through their own indicators and protocols. Epstein's insight was that these techniques were all detecting facets of the same underlying cord-meningeal phenomenon. He synthesized their assessment methods — paraspinal thermal patterns, leg checks, palpation, reflex indicators — into a single, technique-agnostic analysis framework capable of differentiating Class A from Class B subluxation and guiding appropriate intervention.
 
@@ -241,7 +241,9 @@ While tonal awareness in chiropractic practice predates Epstein, evident in the 
 
 **This was the first professional articulation within chiropractic of the initiatory neurophysiological step in the process of subluxation and subluxation reduction, specifically for what Epstein termed Class B (facilitated) subluxation. His SMFU framework, Class A/B classification, integrated tonal analysis, and wave dynamics research represent foundational contributions upon which all subsequent tonal models build.**
 
-Epstein's model, however, remained primarily clinical and observational. He described *what* happens — adverse mechanical cord tension, defensive postures, bound energy in tension patterns — and demonstrated *that* gentle contacts could cue reorganization. But his framework did not address the underlying biology: *why* the meningeal system contracts and holds tension after the original stressor resolves, *how* that contraction persists at the cellular level, or *what specific mechanism* allows release to occur. These questions are addressed by TTC's mechanobiological model in Part VI.
+Epstein's model, however, remained primarily clinical and observational. He described *what* happens — AMCT, defensive postures, bound energy in tension patterns — and demonstrated *that* gentle contacts could cue reorganization. But his framework did not address the underlying biology: *why* the meningeal system contracts and holds tension after the original stressor resolves, *how* that contraction persists at the cellular level, or *what specific mechanism* allows release to occur. These questions are addressed by TTC's mechanobiological model in Part VI.
+
+**A note on terminology.** Breig used the term **Adverse Mechanical Tension (AMT)** to describe aberrant tension in the meningeal system and spinal cord. Epstein refined this to **Adverse Mechanical Cord Tension (AMCT)**, adding "Cord" for greater anatomical specificity. TTC adopts the term **aberrant NeuroSpinal tension** throughout this paper, reflecting the clinical observation that dural tension frequently manifests at the occiput, sphenoid, and zygoma — areas that extend well beyond what "cord" alone captures. The phenomenon is the same; the terminology reflects each model's expanding scope of anatomical engagement.
 
 TTC builds directly on Epstein's insight and extends it in two directions — **science and application**:
 
@@ -371,11 +373,11 @@ TTC represents a distinct methodological choice to work exclusively through tona
 
 Previous tonal models, including Epstein's pioneering SMFU framework, identified *that* cord-meningeal tension exists and *that* gentle contacts can cue its reorganization — but stopped at the clinical and biomechanical level. The following section presents, to the authors' knowledge, the first mechanobiological model within chiropractic that explains *why* the meningeal system contracts protectively, *how* that contraction persists at the cellular level after the original stressor resolves, and *what specific mechanism* allows release to occur. This science directly informs TTC's clinical method: the Tonal Line of Drive, the reliance on tonal pressure testing, and the principle of engaging the meningeal contraction in the direction of release.
 
-### The Protective Meningeal Response and Development of AMT
+### The Protective Meningeal Response and Development of Aberrant NeuroSpinal Tension
 
 Subluxation begins upstream of joint fixation. The initiating event is often the perception of threat, whether actual or imagined. This appraisal, processed by cortical and limbic structures, triggers a protective meningeal contraction in the NeuroSpinal System.
 
-This protective response involves active contractility of the meninges, particularly via the pia mater and dentate ligaments, reinforced by fascial continuities such as the myodural bridge (Scali et al., 2011). When the NeuroSpinal System, the body's Primary Tone-Setter, locks into persistent meningeal contracture, creating what Breig termed Adverse Mechanical Tension (AMT), it operates through three interrelated mechanisms:
+This protective response involves active contractility of the meninges, particularly via the pia mater and dentate ligaments, reinforced by fascial continuities such as the myodural bridge (Scali et al., 2011). When the NeuroSpinal System, the body's Primary Tone-Setter, locks into persistent meningeal contracture, creating aberrant NeuroSpinal tension (what Breig termed Adverse Mechanical Tension), it operates through three interrelated mechanisms:
 
 **Mechanobiology:** Under sustained load, mechanotransduction shifts fibroblasts toward myofibroblast behavior through TGF-β1 signaling, embedding α-SMA fibers that sustain contraction and alter extracellular matrix tone (Tomasek et al., 2002; Wipff et al., 2007). In pathological contexts, fibroblast-to-myofibroblast differentiation with α-SMA expression has been demonstrated in the arachnoid membrane, driven by elevated TGF-β1 concentrations in cerebrospinal fluid (Dorrier et al., 2021). These findings confirm that meningeal tissue possesses intrinsic fibrotic and contractile potential. TTC hypothesizes that lower-grade analogues of this mechanism may operate under chronic subclinical stress, but this specific extension from pathological to routine physiological contexts has not been directly demonstrated.
 
@@ -408,11 +410,11 @@ While protective tone is held, informational flow through the NeuroSpinal System
 
 Together, these mechanisms create both misinformation (skewed data from aberrant mechanoreceptor activity) and missing information (silenced pathways due to restricted movement), further reinforcing the need for the defensive holding pattern.
 
-### Why AMT Persists: The Persistence of Meningeal Contracture
+### Why Aberrant NeuroSpinal Tension Persists: The Persistence of Meningeal Contracture
 
 **This is the mechanism the TTC model proposes as fundamental to both the initiation of subluxation and the process of subluxation reduction:**
 
-**Critically, meningeal contracture and the resulting AMT persist long after the original stressor is gone.** The meningeal system does not automatically release when the threat dissipates. Instead, it maintains this defensive holding pattern, this aberrant tension, until specific conditions are met: (1) mechanical input through directional movement that addresses the restricted tissue, (2) activation of mechanoreceptors within the fascial-meningeal continuum, and (3) parasympathetic nervous system activation signaling safety (Schleip, 2003; Schleip & Müller, 2013; Bordoni & Zanier, 2013; Wipff et al., 2007; McHugh et al., 1998).
+**Critically, meningeal contracture and the resulting aberrant NeuroSpinal tension persist long after the original stressor is gone.** The meningeal system does not automatically release when the threat dissipates. Instead, it maintains this defensive holding pattern, this aberrant tension, until specific conditions are met: (1) mechanical input through directional movement that addresses the restricted tissue, (2) activation of mechanoreceptors within the fascial-meningeal continuum, and (3) parasympathetic nervous system activation signaling safety (Schleip, 2003; Schleip & Müller, 2013; Bordoni & Zanier, 2013; Wipff et al., 2007; McHugh et al., 1998).
 
 The mechanism parallels the flexibility phenomenon seen under anesthesia (McHugh et al., 1998):
 
@@ -475,7 +477,7 @@ In a system regulated by information bandwidth, more force does not equal more e
 **Key Principle:**
 *TTC is not about forcing tissue change but delivering precisely enough information for the system to choose reorganization and resume its own corrective process.*
 
-### Visual Model: AMT and Release Pathways
+### Visual Model: Aberrant NeuroSpinal Tension and Release Pathways
 
 **Protective Meningeal Contraction is the Primary Mechanism:**
 
@@ -483,11 +485,11 @@ In a system regulated by information bandwidth, more force does not equal more e
 CLASS B (Facilitated Subluxation):
 Threat Perception
   ↓
-Protective Meningeal Contraction → AMT
+Protective Meningeal Contraction → Aberrant NeuroSpinal Tension
   ↓
 Stuck Pattern (cannot self-correct without safety signal)
   ↓ (if sustained)
-TGF-β1 → Myofibroblast embedding (deepens AMT)
+TGF-β1 → Myofibroblast embedding (deepens aberrant NeuroSpinal tension)
   ↓ (often leads to)
 VSC develops as secondary compensation
 
@@ -496,18 +498,19 @@ Blunt Trauma / Direct Mechanical Injury
   ↓
 VSC (immediate structural displacement)
   +
-Protective Meningeal Contraction → AMT (simultaneous)
+Protective Meningeal Contraction → Aberrant NeuroSpinal Tension (simultaneous)
   ↓
-Stuck Pattern (VSC cannot self-correct due to AMT)
+Stuck Pattern (VSC cannot self-correct due to aberrant NeuroSpinal tension)
 
 ───────────────────────────────────────────────
 
 KEY PRINCIPLE:
-AMT can exist WITHOUT VSC.
-TTC hypothesizes that persistent AMT commonly
-  accompanies clinically significant VSC and
-  may contribute to its maintenance.
-It is AMT that prevents self-correction
+Aberrant NeuroSpinal tension can exist WITHOUT VSC.
+TTC hypothesizes that persistent aberrant NeuroSpinal
+  tension commonly accompanies clinically significant
+  VSC and may contribute to its maintenance.
+It is aberrant NeuroSpinal tension that prevents
+  self-correction
   in BOTH Class A and Class B subluxation.
 
 ───────────────────────────────────────────────
@@ -518,7 +521,7 @@ Stuck Pattern
   ↓
 TTC Input (vector of unwinding + congruent intent)
   ↓
-Safety Signal Received → AMT Release
+Safety Signal Received → Aberrant NeuroSpinal Tension Release
   ↓
 Cascade Release → Adaptive Reorganization
 ```
@@ -691,7 +694,7 @@ This is what people experience as ongoing improvement in function and adaptabili
 
 **Allostatic Load**: The physiological cost of chronic stress adaptation. In TTC, prolonged elevated baseline tone within the NeuroSpinal System increases susceptibility to dysfunction and represents the sustained energetic burden of the protective meningeal response.
 
-**Adverse Mechanical Tension (AMT)**: A state of aberrant tension in the meningeal system and spinal cord that can disturb neural function even without vertebral displacement (Breig, 1978). In TTC, AMT develops from protective meningeal contraction in response to actual or perceived threat. The initial response involves contraction of existing myofibroblasts. Under sustained load, additional fibroblasts convert to myofibroblasts via TGF-β1 signaling, a mechanism demonstrated in meningeal tissue under pathological conditions (Dorrier et al., 2021), progressively deepening the AMT and increasing subluxation severity through time. This aberrant tension persists beyond the stressor until sufficient safety signals permit release.
+**Aberrant NeuroSpinal Tension**: TTC's term for the state of sustained, stress-mediated tension in the meningeal system that disturbs neural function. Historically, Breig (1978) described this as **Adverse Mechanical Tension (AMT)**; Epstein refined it to **Adverse Mechanical Cord Tension (AMCT)**, adding "Cord" for anatomical specificity. TTC adopts "aberrant NeuroSpinal tension" because dural tension frequently manifests at the occiput, sphenoid, and zygoma — areas beyond what "cord" alone captures (see Section 4.4 for full terminology note). In the TTC model, aberrant NeuroSpinal tension develops from protective meningeal contraction in response to actual or perceived threat. The initial response involves contraction of existing myofibroblasts. Under sustained load, additional fibroblasts convert to myofibroblasts via TGF-β1 signaling, a mechanism demonstrated in meningeal tissue under pathological conditions (Dorrier et al., 2021), progressively deepening the tension and increasing subluxation severity through time. This aberrant tension persists beyond the stressor until sufficient safety signals permit release.
 
 **Best Window In**: In TTC, a spatiotemporal opportunity when system receptivity is highest to a minimal, well-oriented input. The most receptive and responsive area of the NeuroSpinal System for a given practitioner at a given time, determined through tonal indicators and verified by a temporary complete leg balancing following a tonal pressure test.
 
