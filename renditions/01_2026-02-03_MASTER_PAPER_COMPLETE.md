@@ -14,7 +14,7 @@
 
 **Thesis.** In the TTC model, vertebral subluxation is most accurately understood as a secondary, compensatory event. The primary interference takes place upstream in the NeuroSpinal System (also known as the Cranio-Spinal Meningeal Functional Unit), where sustained, stress-mediated meningeal contraction alters tone and information flow. This aberrant tone compels vertebral structures, musculature, and posture to compensate around it. In this model, the NeuroSpinal System is the Primary Tone-Setter. Vertebral subluxation is the body's best available adaptation to that primary tonal disturbance.
 
-**Core Insight.** The meningeal system is not passive covering. Research suggests it is a contractile, sensorimotor tissue that, in the TTC model, functions as an information-bearing continuum, contracting protectively in response to physical, chemical, or emotional stress. This protective meningeal contraction involves both immediate contractile responses and subsequent fibroblast-to-myofibroblast conversion mediated by TGF-β1 signaling, a mechanism well-established in connective tissue (Tomasek et al., 2002; Wipff et al., 2007), with fibrotic and contractile potential demonstrated in meningeal tissue under pathological conditions (Dorrier et al., 2021). This creates aberrant NeuroSpinal tension — what Breig (1978) termed Adverse Mechanical Tension — that can persist long after the original stressor is gone. The process of resolution occurs when the system experiences range of motion into the area of restricted tension in the absence of a concurrent stress response, allowing protective contraction to release, unwinding to begin, and the restoration of normal tone to proceed.
+**Core Insight.** The meningeal system is not passive covering. Research suggests it is a contractile, sensorimotor tissue that, in the TTC model, functions as an information-bearing continuum, contracting protectively in response to physical, chemical, or emotional stress. This protective meningeal contraction involves both immediate contractile responses and subsequent fibroblast-to-myofibroblast conversion mediated by TGF-β1 signaling, a mechanism well-established in connective tissue (Tomasek et al., 2002; Wipff et al., 2007), with fibrotic and contractile potential demonstrated in meningeal tissue under pathological conditions (Dorrier et al., 2021). This creates aberrant NeuroSpinal tension — what Breig (1978) termed Adverse Mechanical Tension — that can persist long after the original stressor is gone. The process of resolution occurs when the system experiences range of motion into the area of restricted tension in the absence of a concurrent stress response, allowing protective contraction to release and the restoration of normal tone to proceed.
 
 **Clinical Consequence.** By addressing the NeuroSpinal System directly as the Primary Tone-Setter, TTC engages the initiatory mechanism upstream of vertebral compensation. This allows chiropractors to work with both cause and effect: the aberrant tone that creates subluxation and the structural compensations that result from it. TTC can stand alone or enhance existing approaches by addressing this foundational level.
 
@@ -62,7 +62,7 @@ This disconnect is the reason tonal approaches keep reappearing across decades. 
 
 ### 1.4 Tonal Engagement as the Bridge
 
-A tonal approach reasons: if interference is substantially mediated through altered tone, a tonal intervention may offer a more direct route of engagement than purely osseous methods. The system holds tension to protect itself. It will release when it experiences specific safe movement in the line of unwinding. That is why TTC inputs are non-articular, non-osseous, and informationally congruent with the vector of release.
+A tonal approach reasons: if interference is substantially mediated through altered tone, a tonal intervention may offer a more direct route of engagement than purely osseous methods. The system holds tension to protect itself. It will release when it experiences specific safe movement in the line of release. That is why TTC inputs are non-articular, non-osseous, and informationally congruent with the vector of release.
 
 This is not about applying more force. This is about finding the best window in to communicate corrective intent through touch to an intelligent system that wants to correct.
 
@@ -117,7 +117,7 @@ Find the best conversational opening, the best window in, and speak the language
 
 ### The Paradigm Shift
 
-This is a move from localized segmental adjustments to the Tonal Model, engaging the NeuroSpinal System (C-SMFU) directly as the main functional unit through global tonal inputs that facilitate the body in its own adjustment process. It is not about us doing the adjusting; it is about engaging in a dialogue with the intelligence of the body through touch and congruent intent, so that the system can resume its own process of unwinding, self-correcting, and becoming more whole.
+This is a move from localized segmental adjustments to the Tonal Model, engaging the NeuroSpinal System (C-SMFU) directly as the main functional unit through global tonal inputs that facilitate the body in its own adjustment process. It is not about us doing the adjusting; it is about engaging in a dialogue with the intelligence of the body through touch and congruent intent, so that the system can resume its own process of releasing, self-correcting, and becoming more whole.
 
 ---
 
@@ -251,7 +251,7 @@ TTC builds directly on Epstein's insight and extends it in two directions — **
 
 **The science.** TTC proposes that meningeal involvement is present in **all** subluxation, including Class A. Even where physical trauma genuinely displaces a joint (Class A), the sustained dyskinesia that follows is associated with meningeal contracture. The trauma moves the bone, but the meningeal bracing that locks around it is what prevents self-correction. TTC provides the first mechanobiological explanation within chiropractic for *why* this contraction persists: under sustained load, mechanotransduction shifts meningeal fibroblasts toward myofibroblast behavior through TGF-β1 signaling, embedding contractile fibers that maintain tension long after the original stressor is gone (see Part VI for the full pathophysiology, including the cited evidence from Tomasek et al., 2002; Wipff et al., 2007; Dorrier et al., 2021). This science explains why the protective pattern becomes self-sustaining and why specific input is required to facilitate release.
 
-**The application.** Where Epstein's clinical model contacts segments associated with peaceful states at gateway regions to cue reorganizational wave responses, TTC takes a different methodological path. TTC relies on mandatory tonal pressure testing with leg balancing to identify the exact location, vector, and timing of every contact — the system must confirm receptivity before input is delivered. The contact vector is then derived directly from the meningeal contraction itself: parallel to and opposite the direction of dural contraction, engaging in the direction of release. This contraction-specific vector — the Tonal Line of Drive — is unique to TTC and follows directly from the mechanobiology: if the meninges hold tension in a specific direction, the input must engage that tension in the direction of unwinding, not simply at a gateway region. The result is a method that is more reliant on real-time neurological verification (pressure testing) and more precisely oriented toward the specific meningeal contraction pattern than any prior tonal approach.
+**The application.** Where Epstein's clinical model contacts segments associated with peaceful states at gateway regions to cue reorganizational wave responses, TTC takes a different methodological path. TTC relies on mandatory tonal pressure testing with leg balancing to identify the exact location, vector, and timing of every contact — the system must confirm receptivity before input is delivered. The contact vector is then derived directly from the meningeal contraction itself: parallel to and opposite the direction of dural contraction, engaging in the direction of release. This contraction-specific vector — the Tonal Line of Drive — is unique to TTC and follows directly from the mechanobiology: if the meninges hold tension in a specific direction, the input must engage that tension in the direction of release, not simply at a gateway region. The result is a method that is more reliant on real-time neurological verification (pressure testing) and more precisely oriented toward the specific meningeal contraction pattern than any prior tonal approach.
 
 By addressing this meningeal contracture directly, the body can begin resolving the subluxation on its own. This means there is a primary NeuroSpinal tone pattern that must be addressed before vertebral work will have lasting effect, regardless of whether the subluxation originated structurally or through facilitation. **(For acknowledgment of Network Spinal's foundational contributions and TTC's distinct methodological approach, see Section 5.4.)**
 
@@ -341,7 +341,7 @@ Epstein's significant contribution was the synthesis of pre-existing indicators 
 Building on this extensive background, Dr. Talsky co-developed and structured the **Torque Release Technique (TRT)** protocol in 1995 with Dr. Jay Holder, who invented the Integrator instrument. Talsky's structuring of TRT represented an OsseoTonal approach: vectors were originally oriented osseously with tonal awareness and intent, engaging joint articulations to influence the NeuroSpinal System. TRT combined the precision of instrumentation with tonal indicators and leg check verification, demonstrating that tonal awareness could enhance structural engagement.
 
 **The Evolution to TTC:**
-Through continued refinement and clinical observation, Talsky recognized that even more direct engagement with the NeuroSpinal System was possible. Beginning in 2001, **Talsky Tonal Chiropractic** emerged as a completely tonal model and technique, distinguished by contact points and vectors oriented toward NeuroSpinal unwinding rather than oriented around joint articulations. TTC moved beyond the OsseoTonal model to work exclusively through tonal mechanisms: non-articular, non-osseous, with vectors strictly parallel to aberrant tension in the meningeal-dural continuum.
+Through continued refinement and clinical observation, Talsky recognized that even more direct engagement with the NeuroSpinal System was possible. Beginning in 2001, **Talsky Tonal Chiropractic** emerged as a completely tonal model and technique, distinguished by contact points and vectors oriented toward NeuroSpinal release rather than oriented around joint articulations. TTC moved beyond the OsseoTonal model to work exclusively through tonal mechanisms: non-articular, non-osseous, with vectors strictly parallel to aberrant tension in the meningeal-dural continuum.
 
 **TTC is the evolution of TRT** and continues to evolve to this day as new discoveries and refinements emerge. Where TRT engaged tone through osseous contacts, TTC engages the NeuroSpinal System directly through its own structure: the Cranio-Spinal Meningeal Functional Unit (C-SMFU).
 
@@ -357,7 +357,7 @@ TTC maintains exclusive focus on **physical inputs to physical nervous system st
 
 1. **Mechanobiological model of meningeal contractility**: To the authors' knowledge, TTC provides the first explanation within chiropractic of *why* the meningeal system contracts and holds tension at the cellular level, *how* that contraction persists after the stressor resolves (fibroblast-to-myofibroblast conversion via TGF-β1 signaling), and *what specific mechanism* allows release (see Part VI). Epstein's framework identified *that* cord-meningeal tension exists and *that* gentle contacts can cue reorganization; TTC supplies the underlying science. This mechanobiological model also explains why all subluxation — not only Class B — involves meningeal contracture.
 
-2. **Dural contraction-specific vectors (the Tonal Line of Drive)**: Where osseous methods direct force into joint spaces and Network Spinal contacts segments associated with peaceful states at gateway regions, TTC derives its contact vector from the meningeal contraction itself. The input is delivered parallel to and opposite the direction of dural contraction — engaging the dura or its direct extension in the direction of release. This contraction-specific vector follows directly from the mechanobiology: if the meninges hold tension in a specific direction, the input must engage that tension in the direction of unwinding. This vector is unique to TTC.
+2. **Dural contraction-specific vectors (the Tonal Line of Drive)**: Where osseous methods direct force into joint spaces and Network Spinal contacts segments associated with peaceful states at gateway regions, TTC derives its contact vector from the meningeal contraction itself. The input is delivered parallel to and opposite the direction of dural contraction — engaging the dura or its direct extension in the direction of release. This contraction-specific vector follows directly from the mechanobiology: if the meninges hold tension in a specific direction, the input must engage that tension in the direction of release. This vector is unique to TTC.
 
 3. **Mandatory tonal pressure testing with leg balancing**: Every contact is verified through real-time neurological indicators before input is delivered. The system must show temporary balancing in response to a directional pressure test, confirming that the specific location, vector, and timing are correct for that contact at that moment. This makes TTC more reliant on real-time neurological verification than any prior tonal approach — the practitioner does not proceed without the system's confirmation.
 
@@ -424,7 +424,7 @@ The mechanism parallels the flexibility phenomenon seen under anesthesia (McHugh
 
 • **Under anesthesia:** Protective tone vanishes, research shows significant increases in range of motion without tissue damage, revealing that the limitation was neural, not structural.
 
-The limitation is neural, not structural. The tissue itself is capable of greater range, but the nervous system restricts it as a protective strategy. Similarly, in subluxation, protective meningeal tone persists, held as stored potential, until the system experiences directional movement in the vector of unwinding without concurrent stress signaling. This provides the safety signal the nervous system needs to release the held contraction and allow the system to begin self-correcting.
+The limitation is neural, not structural. The tissue itself is capable of greater range, but the nervous system restricts it as a protective strategy. Similarly, in subluxation, protective meningeal tone persists, held as stored potential, until the system experiences directional movement in the vector of release without concurrent stress signaling. This provides the safety signal the nervous system needs to release the held contraction and allow the system to begin self-correcting.
 
 #### Why the Contracture Persists After Stress Resolves
 
@@ -440,7 +440,7 @@ The contracture itself limits the range of motion needed to generate the sensory
 **4. Stored Adaptive Pattern**
 Research suggests that the body may retain the protective strategy as a stored adaptive pattern (Fede et al., 2018). This held tension represents stored potential, an adaptive pattern that served a purpose during the acute threat but has become maladaptive in its persistence. The pattern is held in the tissue as both mechanical tension and as an informational state within the nervous system.
 
-**The body is waiting for the safety signal to release, which comes through experiencing safe, directional movement parallel to the line of unwinding.**
+**The body is waiting for the safety signal to release, which comes through experiencing safe, directional movement parallel to the line of release.**
 
 #### Why Precision Matters: Layers of Tension and the Best Window In
 
@@ -457,7 +457,7 @@ Each layer represents the body's intelligent attempt to protect the core restric
 
 **This is why finding the best window in is essential.** Through tonal pressure testing verified by leg balancing, the practitioner identifies the precise location and vector where the NeuroSpinal System demonstrates receptivity, where the layers of compensation momentarily align to create a clear pathway to the core pattern. When balanced legs are observed, TTC interprets this as a clinical indicator that **this specific contact, in this specific direction, at this specific time** offers a pathway to the primary holding pattern.
 
-**This is why the least amount of the most effective input works when gross force does not.** TTC hypothesizes that precise, low-force input (parallel to the line of unwinding, delivered with focused intent, at the confirmed best window in) may preferentially engage the most clinically relevant layer of the compensatory pattern. This specific directional information, received without triggering a stress response, provides the safety signal the system has been waiting for. It allows the Primary Tone-Setter to release its defensive holding pattern, which then allows the compensatory layers to unwind in cascade.
+**This is why the least amount of the most effective input works when gross force does not.** TTC hypothesizes that precise, low-force input (parallel to the line of release, delivered with focused intent, at the confirmed best window in) may preferentially engage the most clinically relevant layer of the compensatory pattern. This specific directional information, received without triggering a stress response, provides the safety signal the system has been waiting for. It allows the Primary Tone-Setter to release its defensive holding pattern, which then allows the compensatory layers to release in cascade.
 
 The body does not need more mechanical input; it needs **the right mechanical input, delivered at the right place, in the right direction, at the right time, with congruent intent**. This is what allows the nervous system to begin releasing held tension and reducing subluxation on its own. TTC's methodology speaks the precise language the NeuroSpinal System uses to govern tone and coordinate self-adjustment.
 
@@ -521,7 +521,7 @@ THE RELEASE PATHWAY (for both classes):
 
 Stuck Pattern
   ↓
-TTC Input (vector of unwinding + congruent intent)
+TTC Input (vector of release + congruent intent)
   ↓
 Safety Signal Received → Aberrant NeuroSpinal Tension Release
   ↓
@@ -587,7 +587,7 @@ We assess:
 
 The best window in is the most receptive point for the system right now for the chiropractor, identified through **tonal pressure testing** verified with the **neurological reflex of balanced legs**, while also reading observable tonal indicators.
 
-These methods are used as one combined process, not separate tools. This verification process is checking whether the NeuroSpinal System is receptive to unwinding in that specific vector and location.
+These methods are used as one combined process, not separate tools. This verification process is checking whether the NeuroSpinal System is receptive to release in that specific vector and location.
 
 When the legs temporarily balance, TTC interprets this as a clinical indicator of receptivity to the contact.
 
@@ -727,7 +727,7 @@ This is what people experience as ongoing improvement in function and adaptabili
 
 **Tone**: In TTC, the baseline state of tension, coherence, and responsiveness within the nervous system and its connective tissue envelope. Within the chiropractic philosophical tradition, tone is the mechanism through which Universal Intelligence manifests and maintains the physical universe and the medium through which Innate Intelligence coordinates all actions. Tone is intelligence in motion.
 
-**Tonal Line of Drive / Vector of unwinding**: In TTC, the contact vector derived from the meningeal contraction itself—delivered parallel to and opposite the direction of dural contraction, engaging the dura or its direct extension in the direction of release. This contraction-specific vector—parallel to the tension and in the direction of release—is unique to TTC.
+**Tonal Line of Drive / Vector of release**: In TTC, the contact vector derived from the meningeal contraction itself—delivered parallel to and opposite the direction of dural contraction, engaging the dura or its direct extension in the direction of release. This contraction-specific vector—parallel to the tension and in the direction of release—is unique to TTC.
 
 ---
 
