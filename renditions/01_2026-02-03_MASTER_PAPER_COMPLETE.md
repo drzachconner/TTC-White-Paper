@@ -146,7 +146,7 @@ The NeuroSpinal System comprises:
 > **Evidence Snapshot: Myodural Bridge**
 > The myodural bridge connects suboccipital musculature directly to the spinal dura mater. Research suggests this connection may serve as an active and passive tension-monitoring system between movement and the central nervous system (Liu et al., 2017). These anatomical connections suggest the NeuroSpinal System may extend its influence beyond the spinal canal through direct fascial continuities.
 
-This functions as a single organ of tension and transmission, a **meningeo-fascial continuum** that mechanically unites the cranium, cervical musculature, and dura. In the TTC model, this meningeo-fascial continuum behaves as a **tensegrity lattice**, dynamically modulating CSF dynamics and global posture.
+This functions as a single organ of tension and transmission, a **meningeo-fascial continuum** that mechanically unites the cranium, spinal cord, meninges, and their fascial extensions throughout the entire NeuroSpinal System. In the TTC model, this meningeo-fascial continuum behaves as a **tensegrity lattice**, dynamically modulating CSF dynamics and global posture.
 
 When it holds maladaptive tension beyond need, every subsystem must reorganize around that constraint: breath, gait, vestibular integration and gaze stabilization, sensorimotor coordination, autonomic regulation, and load management.
 
