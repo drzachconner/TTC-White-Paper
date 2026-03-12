@@ -62,7 +62,7 @@ This disconnect is the reason tonal approaches keep reappearing across decades. 
 
 ### 1.4 Tonal Engagement as the Bridge
 
-A tonal approach reasons: if interference is substantially mediated through altered tone, a tonal intervention may offer a more direct route of engagement than purely osseous methods. The system holds tension to protect itself. It will release when it experiences specific safe movement in the line of release. That is why TTC inputs are non-articular, non-osseous, and informationally congruent with the vector of release.
+A tonal approach reasons: if interference is substantially mediated through altered tone, a tonal intervention may offer a more direct route of engagement than purely osseous methods. The system holds tension to protect itself. It will release when it experiences specific safe movement along the direction of the held contraction. That is why TTC inputs are non-articular, non-osseous, and informationally congruent with the vector of release.
 
 This is not about applying more force. This is about finding the best window in to communicate corrective intent through touch to an intelligent system that wants to correct.
 
