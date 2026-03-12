@@ -40,9 +40,9 @@ Breig demonstrated that adverse mechanical tension in the meningeal system can d
 
 ## Part I. The Application of Principles
 
-### 1.1 Opening Perspective
+### 1.1 The Gap Between Principle and Practice
 
-Chiropractic was founded on the principle that life is an expression of tone and that interference to the nervous system limits that expression. Yet in daily practice the profession has overwhelmingly emphasized joint fixation, segmental malposition, and nerve compression while giving far less clinical attention to the nervous system's tone itself. **This is the gap. We profess a tonal principle but practice a structural model.**
+Chiropractic was founded on the principle that life is an expression of tone and that interference to the nervous system limits that expression. Yet in daily practice the profession has overwhelmingly emphasized joint fixation, segmental malposition, and nerve compression while giving far less clinical attention to the nervous system's tone itself. **We said "tone," but we adjusted "bones." We said "intelligence," but we delivered force. We said "the body heals itself," but we delivered force to move bones rather than information to allow the body to move itself.** This is not a critique of structural methods, which can achieve meaningful clinical results. It is an observation about the gap between our explanatory language and our intervention model. This disconnect is the reason tonal approaches keep reappearing across decades. Chiropractors have always been trying to find the method that matches the philosophy.
 
 Talsky Tonal Chiropractic is an attempt to apply the original chiropractic principles to the actual structure that sets tone first.
 
@@ -52,13 +52,7 @@ The body is intelligent. The central nervous system is the chief coordinator, bu
 
 If the body is intelligent, then our task is to converse with that intelligence, not overpower it.
 
-### 1.3 The Philosophy–Technique Disconnect
-
-Historically, chiropractic philosophy described an intelligent, self-organizing system animated by Innate Intelligence. Technique, however, often treated the body as a stuck machine. **We said "tone," but we adjusted "bones." We said "intelligence," but we delivered force. We said "the body heals itself," but we delivered force to move bones rather than information to allow the body to move itself.** This is not a critique of structural methods, which can achieve meaningful clinical results. It is an observation about the gap between our explanatory language and our intervention model.
-
-This disconnect is the reason tonal approaches keep reappearing across decades. Chiropractors have always been trying to find the method that matches the philosophy.
-
-### 1.4 Tonal Engagement as the Bridge
+### 1.3 Tonal Engagement as the Bridge
 
 A tonal approach reasons: if interference is substantially mediated through altered tone, a tonal intervention may offer a more direct route of engagement than purely osseous methods. The system holds tension to protect itself. It will release when it experiences specific safe movement along the direction of the held contraction. That is why TTC inputs are non-articular, non-osseous, and informationally congruent with the vector of release.
 
@@ -152,7 +146,7 @@ This functions as a single organ of tension and transmission, a **meningeo-fasci
 
 The multi-layered meningeal system acts as an active communication transfer mechanism to and from the CNS, predominantly through non-synaptic pathways. This system possesses independent contractile motility and is in constant motion, modulating its tone moment to moment as it continuously assesses and responds to changes in tension, movement, and the perception of threat.
 
-Neurosurgeon **Alf Breig** first documented **Adverse Mechanical Tension (AMT)**, a state of aberrant tension in the meningeal system and spinal cord that can disturb neural function even without vertebral displacement (Breig, 1978). His work revealed that the nervous system is vulnerable to stretch, torsion, and sustained tension. Research has demonstrated fibroblast-to-myofibroblast differentiation in meningeal tissue, with **α-SMA–positive myofibroblasts** identified in the arachnoid membrane under pathological conditions (Dorrier et al., 2021; Fede et al., 2018). While direct investigation of meningeal myofibroblast activity under routine physiological stress is limited, these findings confirm that the meningeal system possesses intrinsic contractile capacity. The TTC model proposes that this mechanism also operates under chronic subclinical stress, providing the contractile force that generates and sustains aberrant NeuroSpinal tension.
+As Breig (1978) demonstrated, aberrant tension in the meningeal system can disturb neural function without vertebral displacement (see Section 4.2 for the full historical account). Research has demonstrated fibroblast-to-myofibroblast differentiation in meningeal tissue, with **α-SMA–positive myofibroblasts** identified in the arachnoid membrane under pathological conditions (Dorrier et al., 2021; Fede et al., 2018). While direct investigation of meningeal myofibroblast activity under routine physiological stress is limited, these findings confirm that the meningeal system possesses intrinsic contractile capacity. The TTC model proposes that this mechanism also operates under chronic subclinical stress, providing the contractile force that generates and sustains aberrant NeuroSpinal tension.
 
 Though the NeuroSpinal System is not a skeletal muscle, it **autonomously sets its own tone**, compelling muscles, fascia, joints, and posture to compensate around it. It actively contracts under actual or perceived stress, and expands and relaxes as the perception of stress resolves.
 
@@ -338,13 +332,13 @@ Through continued refinement and clinical observation, Talsky recognized that ev
 Without Epstein's foundational insight — that a class of subluxation originates in cord-meningeal tension — TTC as it exists today would not be possible (see Section 4.4 for the full account of these contributions). Both TTC and Network Spinal recognize key gateway zones at craniocervical and sacro-coccygeal dural attachments and use indicators and low-force contacts to cue whole-system responses. TTC's debt to this body of work is explicit and gratefully acknowledged.
 
 **Where TTC distinguishes itself as working exclusively through tonal mechanisms:**
-TTC maintains exclusive focus on **physical inputs to physical nervous system structures**. TTC does not make the network wave a clinical aim, does not require wave entrainment, and does not intentionally work with energetic facilitation, transformational energetic processes, or reorganizational healing frameworks that extend beyond the mechanobiological effects of precisely applied tension and timing. Network Spinal is appropriately categorized as incorporating aspects of **Tonal Energetics**, a valuable approach that explicitly integrates energetic facilitation with tonal awareness. TTC remains within **Tonal Chiropractic**: physical inputs to the physical structures of the NeuroSpinal System, communicating directional corrective intent through touch to a system whose inherent drive is to self-correct.
+TTC maintains exclusive focus on **physical inputs to physical nervous system structures**. TTC does not make the network wave a clinical aim, does not require wave entrainment, and does not intentionally work with energetic facilitation, transformational energetic processes, or reorganizational healing frameworks that extend beyond the mechanobiological effects of precisely applied tension and timing. Network Spinal is appropriately categorized as incorporating aspects of **Tonal Energetics**, a valuable approach that explicitly integrates energetic facilitation with tonal awareness. TTC remains within **Tonal Chiropractic**: directional corrective intent communicated through touch to a system whose inherent drive is to self-correct.
 
 **TTC's unique contributions:**
 
 1. **Mechanobiological model of meningeal contractility**: To the authors' knowledge, TTC provides the first explanation within chiropractic of *why* the meningeal system contracts and holds tension at the cellular level, *how* that contraction persists after the stressor resolves (fibroblast-to-myofibroblast conversion via TGF-β1 signaling), and *what specific mechanism* allows release (see Part VI). Epstein's framework identified *that* cord-meningeal tension exists and *that* gentle contacts can cue reorganization; TTC supplies the underlying science. This mechanobiological model also explains why all subluxation — not only Class B — involves meningeal contracture.
 
-2. **Dural contraction-specific vectors (the Tonal Line of Drive)**: Where osseous methods direct force into joint spaces and Network Spinal contacts segments associated with peaceful states at gateway regions, TTC derives its contact vector from the meningeal contraction itself. The input is delivered parallel to and opposite the direction of dural contraction — engaging the dura or its direct extension in the direction of release. This contraction-specific vector follows directly from the mechanobiology: if the meninges hold tension in a specific direction, the input must engage that tension in the direction of release. This vector is unique to TTC.
+2. **Dural contraction-specific vectors (the Tonal Line of Drive)**: Where osseous methods direct force into joint spaces and Network Spinal contacts gateway regions, TTC derives its contact vector from the meningeal contraction itself — the Tonal Line of Drive described in Section 4.4. This vector is unique to TTC.
 
 3. **Mandatory tonal pressure testing with leg balancing**: Every contact is verified through real-time neurological indicators before input is delivered. The system must show temporary balancing in response to a directional pressure test, confirming that the specific location, vector, and timing are correct for that contact at that moment. This makes TTC more reliant on real-time neurological verification than any prior tonal approach — the practitioner does not proceed without the system's confirmation.
 
@@ -563,20 +557,9 @@ No longer appropriate sustained patterns of paraspinal muscle contraction. Most 
 
 Within TTC, temporary system balancing (e.g., leg length equalization) serves as a working clinical indicator of receptivity, an internal operational signal used to guide contact decisions. Independent validation of this indicator as an objective diagnostic measure remains needed.
 
-### 7.2 Tonal Analysis Process
+### 7.2 Tonal Analysis and the Best Window In
 
-We assess:
-- Global NeuroSpinal tone
-- Tonal indicators in posture, breath, balance, energy, and tone
-- Leg checks with tonal pressure testing, looking for a reflex response of temporary and complete balancing as a clinical indicator of receptivity
-
-### 7.3 Determining the Best Window In
-
-The best window in is the most receptive point for the system right now for the chiropractor, identified through **tonal pressure testing** verified with the **neurological reflex of balanced legs**, while also reading observable tonal indicators.
-
-These methods are used as one combined process, not separate tools. This verification process is checking whether the NeuroSpinal System is receptive to release in that specific vector and location.
-
-When the legs temporarily balance, TTC interprets this as a clinical indicator of receptivity to the contact.
+We assess global NeuroSpinal tone through tonal indicators in posture, breath, balance, energy, and tone — then locate the best window in through **tonal pressure testing** verified with the **neurological reflex of balanced legs**. These methods are used as one combined process, not separate tools. When the legs temporarily balance, TTC interprets this as a clinical indicator that the NeuroSpinal System is receptive to release in that specific vector and location at that moment.
 
 ### 7.4 Contact Parameters (Location, Vector, Amount, Intent)
 
