@@ -148,8 +148,6 @@ The NeuroSpinal System comprises:
 
 This functions as a single organ of tension and transmission, a **meningeo-fascial continuum** that mechanically unites the brain, spinal cord, multi-layered meningeal system, and their attachments to the movable boney structures of the cranium and spine. In the TTC model, this meningeo-fascial continuum behaves as a **tensegrity lattice**, dynamically modulating CSF dynamics and global posture.
 
-When it holds maladaptive tension beyond need, every subsystem must reorganize around that constraint: breath, gait, vestibular integration and gaze stabilization, sensorimotor coordination, autonomic regulation, and load management.
-
 ### Intrinsic Contractile Motility and Tone Generation
 
 **This system is not passive; it is active, dynamic, and independently motile.**
@@ -221,9 +219,7 @@ In the tension-based model, the NeuroSpinal System becomes the primary site of i
 
 ### 4.3 Allostatic Load: A Physiological Model for Aberrant Tone
 
-TTC applies the allostatic load concept specifically to the NeuroSpinal System: when incoming stress exceeds the body's adaptive capacity, the NeuroSpinal System tightens as an **allostatic response**, a protective adaptation that uses energy to maintain function under perceived stress.
-
-At first, this response is not pathological. It is an intelligent attempt by the body to stabilize itself and limit overwhelm. But as tone increases within the NeuroSpinal system, it produces the dual distortions of misinformation and missing information described in Part II, skewing neural signaling while narrowing the sensory input required for accurate regulation. If the overload resolves, tone normalizes. But if it persists, **the system can no longer recognize safety**, and the protective pattern becomes maladaptive in that it is being held beyond need.
+TTC applies the allostatic load concept specifically to the NeuroSpinal System. The protective tightening described in Part II — and the dual distortions of misinformation and missing information it produces — represents allostatic load accumulating within the body's Primary Tone-Setter. When this load persists, the system can no longer recognize safety, and the protective pattern becomes maladaptive. Part VI details the full pathophysiology of why this pattern persists and how it is resolved.
 
 ### 4.4 Facilitated Subluxation and Meningeal Models (Epstein)
 
@@ -630,8 +626,6 @@ TTC contact is a neurological communication. It is touch with vector and a congr
 ---
 
 ## Part IX. Evidence Map And Research Invitations
-
-Historically, the field has shifted from compression narratives toward tension-based realities. The work of Alf Breig, M.D., Ph.D. on Adverse Mechanical Tension, Lowell Ward, D.C. on whole-spine dynamics, and Heidi Haavik, D.C., Ph.D. on neurophysiologic effects of chiropractic input helped reframe the conversation toward systems that compute through tension and timing.
 
 ### On Intent and Information
 
