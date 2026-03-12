@@ -32,6 +32,8 @@ This foundational principle, championed by generations of principled chiropracto
 
 TTC honors this foundation while representing a profound shift in how we interact with the nervous system. Principled subluxation-based chiropractors are doctors of cause: we communicate with the body's intelligence to help it re-initiate its own process of subluxation reduction through chiropractic adjustments. TTC addresses the initiatory process, the upstream neurophysiology that gives rise to the Vertebral Subluxation Complex (VSC). TTC does not negate the VSC; it proposes a mechanism that initiates and maintains it.
 
+**Standing on the shoulders of those who came before us.** No model emerges in isolation. The difference between original contribution and mere repetition is this: genuine evolution acknowledges the foundational work it builds upon, names its intellectual debts explicitly, and then demonstrates what is genuinely new. TTC does all three. Donald Epstein's articulation of the **Spinal Meningeal Functional Unit (SMFU)** and his classification of facilitated (Class B) subluxation as originating in cord-meningeal tension rather than vertebral misalignment was a pioneering insight that opened the door to all subsequent tonal models. Breig demonstrated the mechanism. Ward brought it into chiropractic practice. Epstein synthesized it into a clinical framework with the first subluxation classification grounded in meningeal tension. TTC stands on these shoulders and extends the work in directions that are distinct and new: the proposal that meningeal involvement underlies *all* subluxation (not only Class B), the concept of the NeuroSpinal System as the body's Primary Tone-Setter, contraction-specific tonal vectors derived from the meningeal tension itself, and a model-first framework that can inform any chiropractic technique. These contributions are detailed throughout Parts IV and V.
+
 In this understanding, NeuroSpinal Subluxation is fundamentally a state of altered NeuroSpinal tone and informational interference, originating from protective meningeal contraction that creates AMT. The incomplete and abnormal movement of spinal segments, and the tension within the vertebral subluxation complex, represent the body's compensatory adaptation to this upstream tonal dysregulation.
 
 ---
@@ -121,7 +123,7 @@ This is a move from localized segmental adjustments to the Tonal Model, engaging
 
 ### Terminology Note
 
-Throughout this paper, *NeuroSpinal System* and *Cranio-Spinal Meningeal Functional Unit (C-SMFU)* are used interchangeably. We retain both terms to reflect their functional unity and ensure clarity for professionals within and beyond the chiropractic field.
+Donald Epstein introduced the term **Spinal Meningeal Functional Unit (SMFU)** to describe the cord-meningeal system as a unified clinical entity (Epstein, 1986). TTC extends this concept to the **Cranio-Spinal Meningeal Functional Unit (C-SMFU)**, emphasizing the cranial pole of the system (sphenoid, zygoma, occiput) alongside the spinal and sacral attachments, and reframing it as the body's Primary Tone-Setter. Throughout this paper, *NeuroSpinal System* and *Cranio-Spinal Meningeal Functional Unit (C-SMFU)* are used interchangeably. We retain both terms to reflect their functional unity and ensure clarity for professionals within and beyond the chiropractic field.
 
 ### Structural Composition
 
@@ -205,7 +207,7 @@ Together, their work challenged simple compression-only accounts and broadened t
 |---|---|---|
 | **Alf Breig (1978)** | Demonstrated Adverse Mechanical Tension (AMT) in the meninges and spinal cord without vertebral displacement | Compression is not required for interference; tension itself is sufficient |
 | **Lowell Ward (1980)** | First to clinically apply Breig's AMT within chiropractic; whole-spine stress patterns understood through meningeal tension | Breig's neurosurgical insight becomes a chiropractic clinical framework |
-| **Donald Epstein (1983)** | Distinguished Class A (structural) from Class B (facilitated) subluxation; first subluxation classification grounded in meningeal tension | Subluxation can originate in meningeal tension, not just vertebral misalignment |
+| **Donald Epstein (1982–1986)** | Coined Spinal Meningeal Functional Unit (SMFU); distinguished Class A (structural) from Class B (facilitated) subluxation; first subluxation classification grounded in meningeal tension | Subluxation can originate in meningeal tension, not just vertebral misalignment; the cord-meningeal system is a unified clinical entity |
 | **Heidi Haavik (2007)** | Altered sensorimotor integration traced to distorted afferent input, not nerve compression | Interference is primarily tonal and neurological, not compressive |
 
 This shift from compression to tension represented a fundamental reconceptualization:
@@ -223,7 +225,7 @@ At first, this response is not pathological. It is an intelligent attempt by the
 
 ### 4.4 Facilitated Subluxation and Meningeal Models (Epstein)
 
-While tonal awareness in chiropractic practice predates Epstein, evident in the work of Toftness, Logan, and others who employed light-force, tone-aware methods decades earlier, **Donald Epstein, D.C.** made a key contribution: he was the first to formally articulate the cord-meningeal system as the initiating site of subluxation. He distinguished between two classes:
+While tonal awareness in chiropractic practice predates Epstein, evident in the work of Toftness, Logan, and others who employed light-force, tone-aware methods decades earlier, **Donald Epstein, D.C.** made a key contribution: he was the first to formally articulate the cord-meningeal system as the initiating site of subluxation, coining the term **Spinal Meningeal Functional Unit (SMFU)** to describe this system as a unified clinical entity (Epstein, 1986). He distinguished between two classes:
 
 **Class A (Structural Subluxation)**: Traditional vertebral misalignment with associated fixation and local mechanical dysfunction.
 
@@ -231,7 +233,7 @@ While tonal awareness in chiropractic practice predates Epstein, evident in the 
 
 Epstein recognized that gentle, low-force contacts at these gateway areas could cue reorganizational responses, including the emergence of two distinctive wave phenomena: the **respiratory wave** (a breath-driven oscillation reflecting enhanced somatic awareness) and the **somatopsychic wave** (a propagating pattern of movement reflecting deeper nervous system self-correction and mind-body integration). These wave dynamics represent observable markers of the nervous system's reorganizational capacity.
 
-**This was the first professional articulation within chiropractic of the initiatory neurophysiological step in the process of subluxation and subluxation reduction, specifically for what Epstein termed Class B (facilitated) subluxation.**
+**This was the first professional articulation within chiropractic of the initiatory neurophysiological step in the process of subluxation and subluxation reduction, specifically for what Epstein termed Class B (facilitated) subluxation. His SMFU framework and Class A/B classification represent foundational contributions upon which all subsequent tonal models build.**
 
 TTC builds directly on this insight and extends it further: TTC proposes that meningeal involvement is present in **all** subluxation, including Class A. Even where physical trauma genuinely displaces a joint (Class A), the sustained dyskinesia that follows is associated with meningeal contracture. The trauma moves the bone, but the meningeal bracing that locks around it is what prevents self-correction. By addressing this meningeal contracture directly, the body can begin resolving the subluxation on its own. This means there is a primary NeuroSpinal tone pattern that must be addressed before vertebral work will have lasting effect, regardless of whether the subluxation originated structurally or through facilitation. The protective meningeal contraction that creates AMT is the same mechanism TTC engages through precise, non-articular, directional input parallel to the vector of unwinding. **(For acknowledgment of Network Spinal's foundational contributions and TTC's distinct methodological approach, see Section 5.4.)**
 
@@ -267,7 +269,7 @@ The evolution from structural to tonal models was gradual, built on the insights
 
 **Lowell Ward, D.C. (1970s–1980s)**: Developer of **Spinal Column Stressology (SCS)** and author of *The Dynamics of Spinal Stress*. Dr. Ward's work emphasized viewing the spine as a whole system rather than isolated parts, using seated and standing full-spine x-rays to reveal stress patterns throughout the entire spinal column. His approach influenced subsequent whole-spine dynamic analysis methods.
 
-**Donald Epstein, D.C. (1982)**: Created **Network Chiropractic**, which became **Network Spinal Analysis (NSA)** and is now known as **Network Spinal**. While tonal awareness in chiropractic practice predates Epstein, he was the first to formally articulate the cord-meningeal system as the initiating site of subluxation, specifically for what he termed Class B (facilitated) subluxation. He distinguished between structural (Class A) and facilitated (Class B) subluxation, providing the first professional articulation within chiropractic of the initiatory neurophysiological step in subluxation and subluxation reduction. His work on tension-based, cord-meningeal subluxation that precedes structural changes represents a foundational insight for all tonal approaches. **(For Network Spinal's contributions and TTC's relationship to this work, see Section 5.4.)**
+**Donald Epstein, D.C. (1982)**: Created **Network Chiropractic**, which became **Network Spinal Analysis (NSA)** and is now known as **Network Spinal**. Epstein coined the term **Spinal Meningeal Functional Unit (SMFU)** (Epstein, 1986) and was the first to formally articulate this cord-meningeal system as the initiating site of subluxation, specifically for what he termed Class B (facilitated) subluxation. He distinguished between structural (Class A) and facilitated (Class B) subluxation, providing the first professional articulation within chiropractic of the initiatory neurophysiological step in subluxation and subluxation reduction. He also pioneered the analysis and application of two wave dynamics—the respiratory wave and somatopsychic wave—as markers of the nervous system's reorganizational capacity. His SMFU framework, Class A/B classification, and work on tension-based, cord-meningeal subluxation that precedes structural changes represent foundational contributions upon which all subsequent tonal models build, including TTC. **(For Network Spinal's contributions and TTC's relationship to this work, see Section 5.4.)**
 
 **Marvin Talsky, D.C. (1995–2001)**: Co-developed **Torque Release Technique (TRT)** in 1995 with Dr. Jay Holder, who invented the Integrator instrument. Talsky developed and structured the Torque Release Model after 30 years of continuous practice. Talsky's work emphasized **direct engagement with the NeuroSpinal system** and the concept that the body could self-adjust when given the right informational input. Talsky continued to refine a more direct, non-articular, NeuroSpinal engagement, which evolved into **Talsky Tonal Chiropractic** in 2001.
 
@@ -289,7 +291,7 @@ The evolution from structural to tonal models was gradual, built on the insights
 | **Thompson (1955)** | Leg checks as neurological tone indicators |
 | **Breig (1978)** | Adverse Mechanical Tension: tension-based interference without vertebral displacement |
 | **Ward / SCS (1980)** | Spine as whole-system dynamic stress pattern |
-| **Epstein / NSA (1983)** | First subluxation classification grounded in meningeal tension (Class A/B); wave dynamics; tonal analysis synthesis |
+| **Epstein / NSA (1982)** | Coined SMFU; first subluxation classification grounded in meningeal tension (Class A/B); wave dynamics; tonal analysis synthesis |
 | **Talsky / TRT → TTC (1995–2001)** | Direct NeuroSpinal engagement; pure tonal chiropractic |
 | **Haavik (2007)** | Neurophysiologic evidence supporting tension-based subluxation models |
 
@@ -327,8 +329,8 @@ Through continued refinement and clinical observation, Talsky recognized that ev
 
 ### 5.4 TTC and Network Spinal: Shared Foundations, Distinct Approaches
 
-**Acknowledging Network Spinal's contributions:**
-Donald Epstein's pioneering work on facilitated subluxation (Class B) and the recognition of tension-based, cord-meningeal subluxation that precedes structural changes represents a foundational insight for all tonal approaches. Network Spinal's integrated tonal analysis system, synthesized from multiple pre-existing techniques, and the Reorganizational Healing framework expanded the profession's understanding of subluxation as existing within multi-level change processes (energetic, emotional, perceptual). Both TTC and Network Spinal recognize key gateway zones at craniocervical and sacro-coccygeal dural attachments and use indicators and low-force contacts to cue whole-system responses.
+**Acknowledging Network Spinal's foundational contributions:**
+Donald Epstein's work represents a turning point in tonal chiropractic. His articulation of the Spinal Meningeal Functional Unit (SMFU), his Class A/B subluxation classification, and his recognition that a class of subluxation originates in cord-meningeal tension rather than vertebral misalignment opened the door to all subsequent tonal models. Without this foundational insight, TTC as it exists today would not be possible. Epstein also synthesized pre-existing tonal indicators from multiple techniques into an integrated analysis system and pioneered the respiratory wave and somatopsychic wave as observable markers of nervous system reorganization. The Reorganizational Healing framework further expanded the profession's understanding of subluxation as existing within multi-level change processes (energetic, emotional, perceptual). Both TTC and Network Spinal recognize key gateway zones at craniocervical and sacro-coccygeal dural attachments and use indicators and low-force contacts to cue whole-system responses. TTC's debt to this body of work is explicit and gratefully acknowledged.
 
 **Where TTC distinguishes itself as working exclusively through tonal mechanisms:**
 TTC maintains exclusive focus on **physical inputs to physical nervous system structures**. TTC does not make the network wave a clinical aim, does not require wave entrainment, and does not intentionally work with energetic facilitation, transformational energetic processes, or reorganizational healing frameworks that extend beyond the mechanobiological effects of precisely applied tension and timing. Network Spinal is appropriately categorized as incorporating aspects of **Tonal Energetics**, a valuable approach that explicitly integrates energetic facilitation with tonal awareness. TTC remains within **Tonal Chiropractic**: physical inputs to the physical structures of the NeuroSpinal System, communicating directional corrective intent through touch to a system whose inherent drive is to self-correct.
@@ -677,7 +679,7 @@ This is what people experience as ongoing improvement in function and adaptabili
 
 **Congruent Intent**: In TTC, alignment of focused intent and physical action; the coherence between what the chiropractor intends and what the hands communicate. The intent to communicate with the intelligence of the body through the physical matter of the nervous system.
 
-**Cranio-Spinal Meningeal Functional Unit (C-SMFU)**: See NeuroSpinal System.
+**Cranio-Spinal Meningeal Functional Unit (C-SMFU)**: TTC's extension of Donald Epstein's Spinal Meningeal Functional Unit (SMFU), emphasizing the cranial pole alongside spinal and sacral attachments. See NeuroSpinal System.
 
 **Facilitated Subluxation (Epstein, Class B)**: A tension-based state of the cord-meningeal system, often evident at dural gateway regions (synonymous with windows in TTC), that can be addressed with gentle, low-force contacts which cue reorganizational responses. Distinct from structural (Class A) subluxation. Epstein's articulation of this concept was the first professional articulation within chiropractic of the initiatory neurophysiological step in subluxation. TTC extends this insight to propose that meningeal involvement is present in all subluxation, including Class A.
 
@@ -731,6 +733,8 @@ Bosch, H., Steinkamp, F., & Boller, E. (2006). Examining psychokinesis: The inte
 Brinker, T., Stopa, E., Morrison, J., & Klinge, P. (2014). A new look at cerebrospinal fluid circulation. *Fluids and Barriers of the CNS*, 11, 10. doi:10.1186/2045-8118-11-10
 
 Dorrier, C. E., Jones, H. E., Pintarić, L., Siegenthaler, J. A., & Bhatt, D. K. (2021). Emerging roles for CNS fibroblasts in health, injury and disease. *Nature Reviews Neuroscience*, 22(10), 595–613. doi:10.1038/s41583-021-00525-w
+
+Epstein, D. M. (1986). The spinal meningeal functional unit: Tension and stress adaptation. *Digest of Chiropractic Economics*, 29(3), 58.
 
 Epstein, D. M. (1996). Network Spinal Analysis: A system of health care delivery within the subluxation-based chiropractic model. *Journal of Vertebral Subluxation Research*, 1(1), 1–9.
 
