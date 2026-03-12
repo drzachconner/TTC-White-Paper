@@ -92,14 +92,14 @@ No secrets, credentials, or sensitive data in this project.
 
 ## 10. Subagent Orchestration
 
-| Phase | Agent | When to Use |
-|-------|-------|-------------|
-| 1 (Citations) | `external-context-researcher` | Citation verification against primary sources — COMPLETE |
-| 2 (Structure) | Main agent | Structural reorganization of document sections |
-| 3-4 (Credibility/Voice) | `external-context-researcher` | Source verification during credibility and voice passes |
-| 5 (Adversarial) | Manual | User runs adversarial review via GPT-5.2 (external tool) |
-| 6 (Export) | `pdf-tools` skill | PDF export, formatting, and final polish |
-| All phases | `pre-push-validator` | Before any git push |
+| Phase | Agent | When to Use | Model |
+|-------|-------|-------------|-------|
+| 1 (Citations) | `external-context-researcher` | Citation verification against primary sources — COMPLETE | sonnet |
+| 2 (Structure) | Main agent | Structural reorganization of document sections | sonnet |
+| 3-4 (Credibility/Voice) | `external-context-researcher` | Source verification during credibility and voice passes | sonnet |
+| 5 (Adversarial) | Manual | User runs adversarial review via GPT-5.2 (external tool) | — |
+| 6 (Export) | `pdf-tools` skill | PDF export, formatting, and final polish | haiku |
+| All phases | `pre-push-validator` | Before any git push | sonnet |
 
 ---
 
