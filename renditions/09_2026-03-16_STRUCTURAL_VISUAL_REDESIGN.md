@@ -30,7 +30,7 @@ TTC honors this foundation while representing a profound shift in how we interac
 
 **Standing on the shoulders of those who came before us.** No model emerges in isolation. The difference between stealing and evolution is clear: stealing takes what others have built, gives no credit, adds nothing new, and presents it as original. Inspiration and evolution, which is how all genuine advancement works, have two defining characteristics: giving credit to those who came before, and contributing something uniquely new. That new contribution is often not merely an improvement of what preceded it but a departure in a different direction — a new emphasis in analysis or application. The chiropractic profession needs this kind of divergence. There is a rich variety of chiropractors and an even richer variety of people in this world who so direly need our care. Divergence is a principle of evolution itself: picture the tree of chiropractic evolution as one whose branches divide and redivide as it grows. Whether a branch remains part of the tree is a matter of whether its divergence stays rooted in the principles of chiropractic.
 
-Breig demonstrated that adverse mechanical tension in the meningeal system can disturb neural function without vertebral displacement. Ward brought Breig's insight into chiropractic practice, conceptualizing the spine as a unified meningeal-spinal unit. Epstein built on both, coining the Spinal Meningeal Functional Unit, distinguishing structural from facilitated subluxation, and synthesizing indicators from multiple techniques into the first integrated tonal clinical framework in chiropractic (see Section 5.4 for the full account of these contributions). TTC stands on these shoulders and extends the work in directions that are distinct and new — detailed throughout Parts V and VI.
+Breig demonstrated that adverse mechanical tension in the meningeal system can disturb neural function without vertebral displacement. Ward brought Breig's insight into chiropractic practice, conceptualizing the spine as a unified meningeal-spinal unit. Epstein built on both, coining the Spinal Meningeal Functional Unit, distinguishing structural from facilitated subluxation, and synthesizing indicators from multiple techniques into the first integrated tonal clinical framework in chiropractic (see Part VI, Section 6.4 for the full account of these contributions). TTC stands on these shoulders and extends the work in directions that are distinct and new — detailed throughout Parts VI and VII.
 
 ---
 
@@ -47,7 +47,7 @@ When incoming stress exceeds the body's adaptive capacity, the NeuroSpinal Syste
 - **Misinformation** – Aberrant tension in the NeuroSpinal system alters afferent and efferent signaling.
 - **Missing information** – Increased NeuroSpinal tension restricts movement, narrowing the sensory input from proprioceptive and interoceptive pathways. This reduces the signal diversity and richness required for accurate regulation.
 
-Together, these distortions impair the accuracy and clarity of communication between the brain and body. If the overload resolves, tone normalizes. But if it persists, **the system can no longer recognize safety**, and the protective pattern becomes maladaptive, laying the groundwork for vertebral compensation and eventual pathological changes in structure, function, and adaptability. (The full pathophysiology of this mechanism, including why it persists and how it is resolved, is described in Part III.)
+Together, these distortions impair the accuracy and clarity of communication between the brain and body. If the overload resolves, tone normalizes. But if it persists, **the system can no longer recognize safety**, and the protective pattern becomes maladaptive, laying the groundwork for vertebral compensation and eventual pathological changes in structure, function, and adaptability. (The full pathophysiology of this mechanism, including why it persists and how it is resolved, is described in Part IV.)
 
 The spine is not just a column of separate joints. It is a tensioned, fluid-coupled, fascia-integrated, dura-anchored communication organ — mechanically continuous, richly innervated, and capable of influencing sensorimotor regulation throughout the body. In this framing, the NeuroSpinal System is not a passive unit of suspension; it is an active, self-tuning instrument animated by independent contractile motility of the meningeal system and the pulsatile dynamics of CSF.
 
@@ -112,7 +112,7 @@ This functions as a single organ of tension and transmission: the NeuroSpinal Sy
 
 The multi-layered meningeal system acts as an active communication transfer mechanism to and from the CNS, predominantly through non-synaptic pathways. This system possesses independent contractile motility and is in constant motion, modulating its tone moment to moment as it continuously assesses and responds to changes in tension, movement, and the perception of threat.
 
-As Breig (1978) demonstrated, aberrant tension in the meningeal system can disturb neural function without vertebral displacement (see Section 5.2 for the full historical account). Research has demonstrated fibroblast-to-myofibroblast differentiation in meningeal tissue, with **α-SMA–positive myofibroblasts** identified in the arachnoid membrane under pathological conditions (Dorrier et al., 2021; Fede et al., 2018). While direct investigation of meningeal myofibroblast activity under routine physiological stress is limited, these findings confirm that the meningeal system possesses intrinsic contractile capacity. The TTC model proposes that this mechanism also operates under chronic subclinical stress, providing the contractile force that generates and sustains aberrant NeuroSpinal tension.
+As Breig (1978) demonstrated, aberrant tension in the meningeal system can disturb neural function without vertebral displacement (see Part VI, Section 6.2 for the full historical account). Research has demonstrated fibroblast-to-myofibroblast differentiation in meningeal tissue, with **α-SMA–positive myofibroblasts** identified in the arachnoid membrane under pathological conditions (Dorrier et al., 2021; Fede et al., 2018). While direct investigation of meningeal myofibroblast activity under routine physiological stress is limited, these findings confirm that the meningeal system possesses intrinsic contractile capacity. The TTC model proposes that this mechanism also operates under chronic subclinical stress, providing the contractile force that generates and sustains aberrant NeuroSpinal tension.
 
 Though the NeuroSpinal System is not a skeletal muscle, it **autonomously sets its own tone**, compelling muscles, fascia, joints, and posture to compensate around it. It actively contracts under actual or perceived stress, and expands and relaxes as the perception of stress resolves.
 
@@ -134,13 +134,52 @@ The NeuroSpinal System is not simply a structural framework; it is an **informat
 
 If tone is the organizing principle of life, as D.D. Palmer proposed, then this paper proposes that the NeuroSpinal System is the **Primary Tone-Setter** of the human body.
 
-When stress overloads the system, the meningeal system contracts protectively (see Part III for the full mechanism). This increases baseline tension in the NeuroSpinal continuum. The brain perceives this aberrant tension and responds by commanding compensatory muscle patterns, which pull on bony structures, creating postural shifts, gait disturbances, and joint fixations — initiating the cascade of dyskinesia, dysafferentation, dysponesis, dysautonomia, and degeneration (each defined in Part III).
+When stress overloads the system, the meningeal system contracts protectively (see Part IV for the full mechanism). This increases baseline tension in the NeuroSpinal continuum. The brain perceives this aberrant tension and responds by commanding compensatory muscle patterns, which pull on bony structures, creating postural shifts, gait disturbances, and joint fixations — initiating the cascade of dyskinesia, dysafferentation, dysponesis, dysautonomia, and degeneration (each defined in Part IV).
 
 Muscles move bones and hold them in their positions as a result of core dural tension, not the other way around. While osseous approaches can achieve meaningful changes when they influence the underlying NeuroSpinal tone — working through mechanoreceptor-rich joint spaces to engage the body's intelligence — TTC engages the NeuroSpinal System directly through the most receptive dural contacts.
 
+The anatomy described above is not speculative. A growing body of peer-reviewed research supports the meningeal system's contractile capacity, the myodural bridge's clinical significance, and the neurophysiological effects of tonal chiropractic inputs. The following evidence map surveys this foundation and identifies the research questions TTC is positioned to answer.
+
 ---
 
-## Part III. Pathophysiology of NeuroSpinal Subluxation
+## Part III. Evidence Map and Research Invitations
+
+### On Intent and Information
+
+Living systems are exquisitely sensitive to boundary conditions and small inputs. Contextual factors, including practitioner attentional quality, touch modulation, confidence, therapeutic alliance, and focused intent, demonstrably influence clinical outcomes through well-established neurophysiologic pathways involving expectancy effects and contextual modulation.
+
+When the body is listening, the coherence between your focused intent and your physical input can amplify the effectiveness of the adjustment. Focused intent, what B.J. Palmer called "that something extra," enhances signal fidelity in a living system designed to detect and respond to information. While the physical input remains the primary mechanism, the alignment of intent with action strengthens the neurological communication that facilitates the body's corrective process. (For practitioners interested in exploring the broader body of research on intent and information, including exploratory work on mind-matter interaction, see Appendix B.)
+
+### Research Priorities
+
+TTC's clinical effects are compelling, but its mechanisms demand deeper investigation. The non-articular nature of TTC offers unique research opportunities to isolate the meningeal-dural pathway's contribution to the neurophysiological changes documented in chiropractic research.
+
+Dr. Heidi Haavik's research has shown that chiropractic adjustments of dysfunctional spinal segments produce measurable changes in brain function. A brain source localization study estimated changes of nearly 20% in prefrontal cortex processing (Lelic et al., 2016), with the caveat that brain source localization is an indirect measurement method and the study's findings await replication with larger samples. Importantly, Haavik's research protocols employed articular spinal manipulation (HVLA), not non-articular tonal contacts. Her established protocols using somatosensory evoked potentials (SEPs), fMRI, and transcranial magnetic stimulation (TMS) could be applied to TTC to investigate whether non-articular tonal contacts produce comparable or distinct neurological changes compared to articular approaches.
+
+### The Need for Clinical Outcomes Research
+
+To date, no published controlled trials have isolated TTC methodology from other approaches. While the mechanistic foundation draws on multiple lines of peer-reviewed research and clinical observations are compelling, rigorous outcomes research is needed to quantify TTC's effects on autonomic regulation, postural adaptation, and long-term neuroplasticity. This represents the next critical step in validating the model.
+
+### Limitations and Future Directions
+
+**Model Limitations:**
+This model synthesizes existing research from multiple fields but has not yet been tested as an integrated framework. The proposed mechanisms draw on fascial research, meningeal tissue biology, neuroscience, and chiropractic studies, but direct investigation of TTC-specific pathways is needed. Recent meta-analytic evidence (2025) suggests that spinal manipulation outcomes may not depend strongly on application procedures, region of application, or site specificity, a finding that, while based primarily on HVLA thrust techniques, challenges the premise that TTC's precise location, vector, and timing produce superior outcomes through a distinct mechanism. Demonstrating that TTC's site-specific methodology produces measurably different results from non-specific approaches remains a critical research priority.
+
+Additionally, while this model proposes that meningeal involvement is present in all subluxation, including cases where direct mechanical compression is well-documented (e.g., disc herniation, foraminal stenosis), TTC does not deny the reality of pathological compression. Rather, TTC proposes that even where compression exists, there is associated tension within the meningeal system that preceded or accompanies the structural event, and that addressing this meningeal component directly facilitates the body's own process of resolving the dyskinesia.
+
+**Research Priorities:**
+1. Controlled trials comparing TTC to other tonal and osseous approaches, including non-specific manipulation controls
+2. Neuroimaging studies using Haavik's protocols to measure whether non-articular tonal contacts produce distinct cortical effects from articular manipulation
+3. Mechanistic studies isolating the meningeal-dural pathway contribution
+4. Investigation of meningeal myofibroblast activity under chronic subclinical stress (extending current pathological findings to the physiological context TTC proposes)
+5. Long-term neuroplasticity outcomes with sustained TTC care
+6. Investigation of focused intent as a measurable variable in clinical outcomes
+
+The anatomical and neurophysiological evidence establishes that the meningeal system is active, contractile, and clinically significant. The mechanism by which it initiates subluxation — and why that pattern persists — is the subject of Part IV. To the authors' knowledge, this is the first mechanobiological account within chiropractic of why meningeal contraction begins, how it is sustained at the cellular level, and what conditions allow it to release.
+
+---
+
+## Part IV. Pathophysiology of NeuroSpinal Subluxation
 
 Previous tonal models identified the clinical phenomenon; this section presents the underlying biology. To the authors' knowledge, this is the first mechanobiological model within chiropractic explaining why the meningeal system contracts, how that contraction persists at the cellular level, and what allows release to occur. In doing so, this section describes the neurophysiology of the initiation of subluxation, the process of its reduction, and most importantly, the chiropractor's role in facilitating the body to re-initiate its own process of subluxation reduction.
 
@@ -198,6 +237,7 @@ The limitation is neural, not structural. The tissue itself is capable of greate
 #### Why the Contracture Persists After Stress Resolves
 
 **1. Myofibroblast Phenotype Stability**
+
 Once fibroblasts differentiate into myofibroblasts through TGF-β1 signaling and mechanical load, they maintain their contractile phenotype until receiving specific biochemical and mechanical signals to reverse (Wipff et al., 2007). The α-SMA fibers embedded in these cells create sustained contractile capacity that does not simply "turn off" when the external threat is removed.
 
 **2. Lack of Safety Information**
@@ -301,13 +341,15 @@ Cascade Release → Adaptive Reorganization
 
 Structural techniques can achieve real, even lasting, changes in organization. But they can do so only to the extent that they can influence or indirectly reduce the primary tone of the NeuroSpinal System.
 
+The mechanism is now in view: threat perception initiates meningeal contraction, myofibroblast conversion deepens and sustains it, and the NeuroSpinal System holds its defensive posture until it receives precisely the informational input that signals safety. Part V describes exactly how TTC delivers that input.
+
 ---
 
-## Part IV. TTC Analysis and Adjustment Protocol
+## Part V. TTC Analysis and Adjustment Protocol
 
 TTC prioritizes global indicators for the signs of subluxation and the signs of subluxation reduction, rather than local segmental findings. We are not trying to find all the problems. We are trying to find the one place that is most ready and receptive to receive input.
 
-### 4.1 Global Tonal Indicators
+### 5.1 Global Tonal Indicators
 
 These indicators fall into three functional categories:
 
@@ -345,11 +387,11 @@ No longer appropriate sustained patterns of paraspinal muscle contraction. Most 
 
 Within TTC, temporary system balancing (e.g., leg length equalization) serves as a working clinical indicator of receptivity, an internal operational signal used to guide contact decisions. Independent validation of this indicator as an objective diagnostic measure remains needed.
 
-### 4.2 Tonal Analysis and the Best Window In
+### 5.2 Tonal Analysis and the Best Window In
 
 We assess global NeuroSpinal tone through tonal indicators in posture, breath, balance, energy, and tone — then locate the point of greatest receptivity through **tonal pressure testing** verified with the **neurological reflex of balanced legs**. These methods are used as one combined process, not separate tools. When the legs temporarily balance, TTC interprets this as a clinical indicator that the NeuroSpinal System is receptive to release in that specific vector and location at that moment.
 
-### 4.3 Contact Parameters (Location, Vector, Amount, Intent)
+### 5.3 Contact Parameters (Location, Vector, Amount, Intent)
 
 **Location:** Often at or near dural attachment "window" areas (craniocervical, sacro-coccygeal), but also along the course of identified aberrant tension in the NeuroSpinal System.
 
@@ -361,21 +403,23 @@ We assess global NeuroSpinal tone through tonal indicators in posture, breath, b
 
 TTC contact is a neurological communication. It is touch with vector and a congruent intent. It is given at the point of greatest receptivity. It is minimal, precise input. It cues the system's own adjustment process.
 
+The model is now complete: mechanism, evidence, and method. TTC did not emerge from a vacuum. It is the next iteration in a long evolution of chiropractic thought — from compression-first to tension-aware to tone-first. Understanding that lineage explains why TTC's contributions are distinct, and why they are necessary.
+
 ---
 
-## Part V. From Bone-on-Nerve to Tone-First: Historical Evolution
+## Part VI. From Bone-on-Nerve to Tone-First: Historical Evolution
 
-### 5.1 The Traditional Subluxation Model: Compression First
+### 6.1 The Traditional Subluxation Model: Compression First
 
-For most of chiropractic's history, subluxation was defined structurally, as a misalignment or fixation of spinal vertebrae producing neurological effects through mechanical compression or irritation. While this structural model helped establish chiropractic's early identity and produced meaningful clinical results, it entered the pathophysiological sequence at the level of vertebral compensation. Osseous models started with joint fixation and vertebral compensation, not recognizing that neurological interference begins upstream in the NeuroSpinal System (C-SMFU) with aberrant tension that drives those structural changes. They did not address the initiation of the subluxation process: the neurological interference in communication between brain and body that occurs first and foremost in the aberrant tension within the C-SMFU, initiating the cascade of dysfunction described in Part III.
+For most of chiropractic's history, subluxation was defined structurally, as a misalignment or fixation of spinal vertebrae producing neurological effects through mechanical compression or irritation. While this structural model helped establish chiropractic's early identity and produced meaningful clinical results, it entered the pathophysiological sequence at the level of vertebral compensation. Osseous models started with joint fixation and vertebral compensation, not recognizing that neurological interference begins upstream in the NeuroSpinal System (C-SMFU) with aberrant tension that drives those structural changes. They did not address the initiation of the subluxation process: the neurological interference in communication between brain and body that occurs first and foremost in the aberrant tension within the C-SMFU, initiating the cascade of dysfunction described in Part IV.
 
-### 5.2 The Shift from Compression to Tension-Based Interference
+### 6.2 The Shift from Compression to Tension-Based Interference
 
 Modern neuroscience increasingly challenges the long-held assumption that vertebral misalignment routinely causes neural interference through direct mechanical compression. Dr. Heidi Haavik's research has shown that interference more often stems from **tension, distortion, and altered afferent input**, not direct compression of nerve roots (Haavik & Murphy, 2007).
 
 Decades earlier, neurosurgeon **Dr. Alf Breig** documented that **Adverse Mechanical Tension (AMT)**, aberrant tension in the meningeal system and spinal cord, can disturb neural function even in the absence of vertebral displacement (Breig, 1978). His research revealed that the nervous system is vulnerable to stretch, torsion, and sustained tension, particularly when the dura and spinal cord are placed under aberrant mechanical load.
 
-Within chiropractic, **Lowell Ward, D.C.** was the first to clinically apply Breig's AMT framework, integrating it into Spinal Column Stressology and conceptualizing the spine as a **"Spinal-Column-Pelvic-Meningeal-Unit"** — an anatomical description recognizing the cord-meningeal system as a unified structure (Ward, 1980). Building on Ward's anatomical awareness and Breig's biomechanics, **Donald Epstein, D.C.** in 1983 distinguished Class A (structural) subluxation from Class B (meningeal/facilitated), proposing that Class B originates not from vertebral misalignment but from tension within the cord-meningeal system itself (Epstein, 1996; see Section 5.4 for full discussion).
+Within chiropractic, **Lowell Ward, D.C.** was the first to clinically apply Breig's AMT framework, integrating it into Spinal Column Stressology and conceptualizing the spine as a **"Spinal-Column-Pelvic-Meningeal-Unit"** — an anatomical description recognizing the cord-meningeal system as a unified structure (Ward, 1980). Building on Ward's anatomical awareness and Breig's biomechanics, **Donald Epstein, D.C.** in 1983 distinguished Class A (structural) subluxation from Class B (meningeal/facilitated), proposing that Class B originates not from vertebral misalignment but from tension within the cord-meningeal system itself (Epstein, 1996; see Section 6.4 for full discussion).
 
 Together, their work challenged simple compression-only accounts and broadened the profession's attention toward tension, distortion, and altered afferent input:
 
@@ -391,11 +435,11 @@ This shift from compression to tension represented a fundamental reconceptualiza
 - **Compression model**: Bone → Nerve root → Dysfunction
 - **Tension model**: Stress → Meningeal tension → Altered neural signaling → Compensatory vertebral patterns
 
-### 5.3 Allostatic Load: A Physiological Model for Aberrant Tone
+### 6.3 Allostatic Load: A Physiological Model for Aberrant Tone
 
-TTC applies the allostatic load concept specifically to the NeuroSpinal System. The protective tightening described in Part I — and the dual distortions of misinformation and missing information it produces — represents allostatic load accumulating within the body's Primary Tone-Setter. When this load persists, the system can no longer recognize safety, and the protective pattern becomes maladaptive. Part III details the full pathophysiology of why this pattern persists and how it is resolved.
+TTC applies the allostatic load concept specifically to the NeuroSpinal System. The protective tightening described in Part I — and the dual distortions of misinformation and missing information it produces — represents allostatic load accumulating within the body's Primary Tone-Setter. When this load persists, the system can no longer recognize safety, and the protective pattern becomes maladaptive. Part IV details the full pathophysiology of why this pattern persists and how it is resolved.
 
-### 5.4 Facilitated Subluxation and Meningeal Models (Epstein)
+### 6.4 Facilitated Subluxation and Meningeal Models (Epstein)
 
 While tonal awareness in chiropractic practice predates Epstein, evident in the work of Toftness, Logan, and others who employed light-force, tone-aware methods decades earlier, **Donald Epstein, D.C.** made several interconnected contributions that transformed tonal chiropractic from a collection of individual techniques into a unified clinical framework.
 
@@ -413,27 +457,29 @@ While tonal awareness in chiropractic practice predates Epstein, evident in the 
 
 **This was the first professional articulation within chiropractic of the initiatory neurophysiological step in the process of subluxation and subluxation reduction, specifically for what Epstein termed Class B (facilitated) subluxation. His SMFU framework, Class A/B classification, integrated tonal analysis, and wave dynamics research represent foundational contributions upon which all subsequent tonal models build.**
 
-Epstein's model, however, remained primarily clinical and observational — he described and demonstrated the phenomenon but did not address the underlying biology. The mechanobiological questions are addressed by TTC in Part III.
+Epstein's model, however, remained primarily clinical and observational — he described and demonstrated the phenomenon but did not address the underlying biology. The mechanobiological questions are addressed by TTC in Part IV.
 
 **A note on terminology.** Breig used the term **Adverse Mechanical Tension (AMT)** to describe aberrant tension in the meningeal system and spinal cord. Epstein refined this to **Adverse Mechanical Cord Tension (AMCT)**, adding "Cord" for greater anatomical specificity. TTC adopts the term **aberrant NeuroSpinal tension** throughout this paper, reflecting the clinical observation that dural tension frequently manifests at the occiput, sphenoid, and zygoma — areas that extend well beyond what "cord" alone captures. The phenomenon is the same; the terminology reflects each model's expanding scope of anatomical engagement.
 
 TTC builds directly on Epstein's insight and extends it in two directions — **science and application**:
 
-**The science.** TTC proposes that meningeal involvement is present in **all** subluxation, including Class A. Even where physical trauma genuinely displaces a joint (Class A), the sustained dyskinesia that follows is associated with meningeal contracture. The trauma moves the bone, but the meningeal bracing that locks around it is what prevents resolution. Part III presents the full mechanobiological model explaining why this contraction persists and why specific input is required to facilitate release.
+**The science.** TTC proposes that meningeal involvement is present in **all** subluxation, including Class A. Even where physical trauma genuinely displaces a joint (Class A), the sustained dyskinesia that follows is associated with meningeal contracture. The trauma moves the bone, but the meningeal bracing that locks around it is what prevents resolution. Part IV presents the full mechanobiological model explaining why this contraction persists and why specific input is required to facilitate release.
 
 **The application.** Where Epstein's clinical model contacts segments associated with peaceful states at gateway regions to cue reorganizational wave responses, TTC takes a different methodological path. TTC relies on mandatory tonal pressure testing with leg balancing to identify the exact location, vector, and timing of every contact — the system must confirm receptivity before input is delivered. The contact vector is then derived directly from the meningeal contraction itself: parallel to and opposite the direction of dural contraction, engaging in the direction of release. This contraction-specific vector — the Tonal Line of Drive — is unique to TTC and follows directly from the mechanobiology: if the meninges hold tension in a specific direction, the input must engage that tension in the direction of release, not simply at a gateway region. The result is a method that is more reliant on real-time neurological verification (pressure testing) and more precisely oriented toward the specific meningeal contraction pattern than any prior tonal approach.
 
-By addressing this meningeal contracture directly, the body can begin resolving the subluxation on its own. This means there is a primary NeuroSpinal tone pattern that must be addressed before vertebral work will have lasting effect, regardless of whether the subluxation originated structurally or through facilitation. **(For acknowledgment of Network Spinal's foundational contributions and TTC's distinct methodological approach, see Section 6.4.)**
+By addressing this meningeal contracture directly, the body can begin resolving the subluxation on its own. This means there is a primary NeuroSpinal tone pattern that must be addressed before vertebral work will have lasting effect, regardless of whether the subluxation originated structurally or through facilitation. **(For acknowledgment of Network Spinal's foundational contributions and TTC's distinct methodological approach, see Section 7.4.)**
 
-### 5.5 From Segmental to Systems Thinking
+### 6.5 From Segmental to Systems Thinking
 
 The historical trajectory outlined above, from compression to tension to tone, reflects a broader shift in how chiropractic understands the body: from a segmental, joint-by-joint model to a systems-based model of tone regulation. Modern understanding of neuroplasticity, biotensegrity, and complex adaptive systems supports this evolution. The spine is not a column of independent segments to be corrected one at a time; it is a tensionally integrated whole whose behavior emerges from the global state of its Primary Tone-Setter, the NeuroSpinal System. TTC represents the clinical application of this systems-level understanding: working with the organizing principle of the whole rather than the compensations of its parts.
 
+The conceptual evolution from compression to tension to tone establishes *what* changed and *why*. Part VII traces the practitioners who drove that evolution — the specific individuals and techniques whose contributions form TTC's direct lineage.
+
 ---
 
-## Part VI. Historical Lineage and Positioning
+## Part VII. Historical Lineage and Positioning
 
-### 6.1 Tonal Pioneers
+### 7.1 Tonal Pioneers
 
 The evolution from structural to tonal models was gradual, built on the insights of many innovators:
 
@@ -457,11 +503,11 @@ The evolution from structural to tonal models was gradual, built on the insights
 
 **Lowell Ward, D.C. (1970s–1980s)**: Developer of **Spinal Column Stressology (SCS)** and author of *The Dynamics of Spinal Stress*. Dr. Ward conceptualized the spine as a **"Spinal-Column-Pelvic-Meningeal-Unit,"** recognizing the cord-meningeal system as a unified anatomical structure and describing subluxation as occurring within this integrated system rather than at isolated segments. Working with aerospace engineer Fulkerson and integrating Breig's biomechanics, Ward emphasized whole-spine stress patterns revealed through seated and standing full-spine x-rays. His anatomical framework directly influenced Epstein's subsequent Spinal Meningeal Functional Unit concept.
 
-**Donald Epstein, D.C. (1982)**: Created **Network Chiropractic** (now **Network Spinal**). Coined the **Spinal Meningeal Functional Unit (SMFU)** and was the first to formally articulate the cord-meningeal system as the initiating site of subluxation. His SMFU framework, Class A/B subluxation classification, technique synthesis, and wave dynamics represent foundational contributions upon which all subsequent tonal models build, including TTC. **(See Section 5.4 for full treatment of Epstein's contributions; Section 6.4 for TTC's relationship to this work.)**
+**Donald Epstein, D.C. (1982)**: Created **Network Chiropractic** (now **Network Spinal**). Coined the **Spinal Meningeal Functional Unit (SMFU)** and was the first to formally articulate the cord-meningeal system as the initiating site of subluxation. His SMFU framework, Class A/B subluxation classification, technique synthesis, and wave dynamics represent foundational contributions upon which all subsequent tonal models build, including TTC. **(See Part VI, Section 6.4 for full treatment of Epstein's contributions; Section 7.4 for TTC's relationship to this work.)**
 
 **Marvin Talsky, D.C. (1995–2001)**: Co-developed **Torque Release Technique (TRT)** in 1995 with Dr. Jay Holder, who invented the Integrator instrument. Talsky developed and structured the Torque Release Model after 30 years of continuous practice. Talsky's work emphasized **direct engagement with the NeuroSpinal system** and the concept that the body could self-adjust when given the right informational input. Talsky continued to refine a more direct, non-articular, NeuroSpinal engagement, which evolved into **Talsky Tonal Chiropractic** in 2001.
 
-**Heidi Haavik, D.C., Ph.D. (2007–present)**: New Zealand chiropractor and neurophysiologist whose research demonstrated that neural interference more often stems from **tension, distortion, and altered afferent input** rather than direct compression of nerve roots. Her research has found evidence of measurable changes in brain function following chiropractic adjustments. A brain source localization study (Lelic et al., 2016) estimated changes of nearly 20% in prefrontal cortex processing following adjustment of dysfunctional spinal segments, though the authors note that further research with larger samples is needed to confirm these preliminary findings. Her work has advanced understanding of neuroplasticity and sensorimotor integration in the context of chiropractic care. Haavik's research protocols employed articular spinal manipulation, not non-articular tonal contacts; applying these findings to TTC specifically remains a research priority (see Part VII). Dr. Haavik's work provided supportive evidence that spinal manipulation produces measurable neurophysiologic effects, lending credibility to tension-based models of subluxation.
+**Heidi Haavik, D.C., Ph.D. (2007–present)**: New Zealand chiropractor and neurophysiologist whose research demonstrated that neural interference more often stems from **tension, distortion, and altered afferent input** rather than direct compression of nerve roots. Her research has found evidence of measurable changes in brain function following chiropractic adjustments. A brain source localization study (Lelic et al., 2016) estimated changes of nearly 20% in prefrontal cortex processing following adjustment of dysfunctional spinal segments, though the authors note that further research with larger samples is needed to confirm these preliminary findings. Her work has advanced understanding of neuroplasticity and sensorimotor integration in the context of chiropractic care. Haavik's research protocols employed articular spinal manipulation, not non-articular tonal contacts; applying these findings to TTC specifically remains a research priority (see Part III). Dr. Haavik's work provided supportive evidence that spinal manipulation produces measurable neurophysiologic effects, lending credibility to tension-based models of subluxation.
 
 **Simon Senzon, D.C. (2010s)**: Through peer-reviewed articles and historical analysis, Dr. Senzon contributed to the philosophical coherence of tonal chiropractic, applying **Integral Theory** to bridge modern scientific frameworks with the vitalistic heritage of chiropractic.
 
@@ -483,7 +529,7 @@ The evolution from structural to tonal models was gradual, built on the insights
 | **Talsky / TRT → TTC (1995–2001)** | Direct NeuroSpinal engagement; pure tonal chiropractic |
 | **Haavik (2007)** | Neurophysiologic evidence supporting tension-based subluxation models |
 
-### 6.2 The Emergence of OsseoTonal Models
+### 7.2 The Emergence of OsseoTonal Models
 
 As tonal methods matured, a new category emerged: **OsseoTonal**, approaches that retain tonal awareness of the NeuroSpinal System but choose to engage it through joint articulations or joint-space mechanoreceptors.
 
@@ -500,12 +546,12 @@ Any osseous (structural) technique that includes awareness of and reverence for 
 | **Syntropy Chiropractic Training** | Peak adjusting performance with tonal structure and flow-state awareness |
 | **Pneuma Chiropractic** | Integrates neural and vibrational awareness into structural adjustments |
 
-### 6.3 The Evolution from Torque Release Technique to Talsky Tonal Chiropractic
+### 7.3 The Evolution from Torque Release Technique to Talsky Tonal Chiropractic
 
 **Talsky's Tonal Lineage:**
 Dr. Marvin Talsky's development of tonal approaches drew from direct study with many of the key contributors to tonal chiropractic. Prior to his five years of study under Dr. Donald Epstein, Talsky had already studied DNFT, Toftness, and Logan techniques, worked with Dr. Clay Thompson for 10 years, and practiced with the Activator for many years. This extensive foundation in techniques that have contributed to tonal chiropractic provided Dr. Talsky with deep understanding of the principles and protocols underlying tonal analysis and application.
 
-Epstein's synthesis of pre-existing indicators into a unified tonal framework (see Section 5.4), combined with theoretical frameworks from Breig, Ward, Speransky, and Korr (facilitation hypothesis), was the foundation Talsky built on during his five years of study, integrating these insights with his prior decade-plus of experience in tonal methods.
+Epstein's synthesis of pre-existing indicators into a unified tonal framework (see Part VI, Section 6.4), combined with theoretical frameworks from Breig, Ward, Speransky, and Korr (facilitation hypothesis), was the foundation Talsky built on during his five years of study, integrating these insights with his prior decade-plus of experience in tonal methods.
 
 **The TRT Foundation:**
 Building on this extensive background, Dr. Talsky co-developed and structured the **Torque Release Technique (TRT)** protocol in 1995 with Dr. Jay Holder, who invented the Integrator instrument. Talsky's structuring of TRT represented an OsseoTonal approach: vectors were originally oriented osseously with tonal awareness and intent, engaging joint articulations to influence the NeuroSpinal System. TRT combined the precision of instrumentation with tonal indicators and leg check verification, demonstrating that tonal awareness could enhance structural engagement.
@@ -515,19 +561,19 @@ Through continued refinement and clinical observation, Talsky recognized that ev
 
 **TTC is the evolution of TRT** and continues to evolve to this day as new discoveries and refinements emerge. Where TRT engaged tone through osseous contacts, TTC engages the NeuroSpinal System directly through its own structure: the Cranio-Spinal Meningeal Functional Unit (C-SMFU).
 
-### 6.4 TTC and Network Spinal: Shared Foundations, Distinct Approaches
+### 7.4 TTC and Network Spinal: Shared Foundations, Distinct Approaches
 
 **Acknowledging Network Spinal's foundational contributions:**
-Without Epstein's foundational insight — that a class of subluxation originates in cord-meningeal tension — TTC as it exists today would not be possible (see Section 5.4 for the full account of these contributions). Both TTC and Network Spinal recognize key gateway zones at craniocervical and sacro-coccygeal dural attachments and use indicators and low-force contacts to cue whole-system responses. TTC's debt to this body of work is explicit and gratefully acknowledged.
+Without Epstein's foundational insight — that a class of subluxation originates in cord-meningeal tension — TTC as it exists today would not be possible (see Part VI, Section 6.4 for the full account of these contributions). Both TTC and Network Spinal recognize key gateway zones at craniocervical and sacro-coccygeal dural attachments and use indicators and low-force contacts to cue whole-system responses. TTC's debt to this body of work is explicit and gratefully acknowledged.
 
 **Where TTC distinguishes itself as working exclusively through tonal mechanisms:**
 TTC maintains exclusive focus on **physical inputs to physical nervous system structures**. TTC does not make the network wave a clinical aim, does not require wave entrainment, and does not intentionally work with energetic facilitation, transformational energetic processes, or reorganizational healing frameworks that extend beyond the mechanobiological effects of precisely applied tension and timing. Network Spinal is appropriately categorized as incorporating aspects of **Tonal Energetics**, a valuable approach that explicitly integrates energetic facilitation with tonal awareness. TTC remains within **Tonal Chiropractic**: directional corrective intent communicated through touch to a system whose inherent drive is to resolve and reorganize.
 
 **TTC's unique contributions:**
 
-1. **Mechanobiological model of meningeal contractility**: To the authors' knowledge, TTC provides the first mechanobiological explanation within chiropractic for meningeal contraction and persistence (see Part III for the full model). Where Epstein's framework identified the clinical phenomenon, TTC supplies the underlying science. This model also explains why all subluxation — not only Class B — involves meningeal contracture.
+1. **Mechanobiological model of meningeal contractility**: To the authors' knowledge, TTC provides the first mechanobiological explanation within chiropractic for meningeal contraction and persistence (see Part IV for the full model). Where Epstein's framework identified the clinical phenomenon, TTC supplies the underlying science. This model also explains why all subluxation — not only Class B — involves meningeal contracture.
 
-2. **Dural contraction-specific vectors (the Tonal Line of Drive)**: Where osseous methods direct force into joint spaces and Network Spinal contacts gateway regions, TTC derives its contact vector from the meningeal contraction itself — the Tonal Line of Drive described in Part IV. This vector is unique to TTC.
+2. **Dural contraction-specific vectors (the Tonal Line of Drive)**: Where osseous methods direct force into joint spaces and Network Spinal contacts gateway regions, TTC derives its contact vector from the meningeal contraction itself — the Tonal Line of Drive described in Part V. This vector is unique to TTC.
 
 3. **Mandatory tonal pressure testing with leg balancing**: Every contact is verified through real-time neurological indicators before input is delivered. The system must show temporary balancing in response to a directional pressure test, confirming that the specific location, vector, and timing are correct for that contact at that moment. This makes TTC more reliant on real-time neurological verification than any prior tonal approach — the practitioner does not proceed without the system's confirmation.
 
@@ -539,7 +585,7 @@ TTC maintains exclusive focus on **physical inputs to physical nervous system st
 
 Where Epstein opened the door, TTC walks through it — with the science, the clinical method, and the real-time verification described throughout this paper.
 
-### 6.5 The Technique Landscape
+### 7.5 The Technique Landscape
 
 **Osseous approaches** use enough force to move a bone via an articular input.
 
@@ -549,40 +595,7 @@ Where Epstein opened the door, TTC walks through it — with the science, the cl
 
 **Tonal Energetics** employ tonal awareness with explicit energetic facilitation, including work with transformational energetic processes. TTC distinguishes itself by maintaining focus on physical inputs to physical nervous system structures, guided by focused intent and without the use of any intentional energetic therapeutics.
 
----
-
-## Part VII. Evidence Map And Research Invitations
-
-### On Intent and Information
-
-Living systems are exquisitely sensitive to boundary conditions and small inputs. Contextual factors, including practitioner attentional quality, touch modulation, confidence, therapeutic alliance, and focused intent, demonstrably influence clinical outcomes through well-established neurophysiologic pathways involving expectancy effects and contextual modulation.
-
-When the body is listening, the coherence between your focused intent and your physical input can amplify the effectiveness of the adjustment. Focused intent, what B.J. Palmer called "that something extra," enhances signal fidelity in a living system designed to detect and respond to information. While the physical input remains the primary mechanism, the alignment of intent with action strengthens the neurological communication that facilitates the body's corrective process. (For practitioners interested in exploring the broader body of research on intent and information, including exploratory work on mind-matter interaction, see Appendix B.)
-
-### Research Priorities
-
-TTC's clinical effects are compelling, but its mechanisms demand deeper investigation. The non-articular nature of TTC offers unique research opportunities to isolate the meningeal-dural pathway's contribution to the neurophysiological changes documented in chiropractic research.
-
-Dr. Heidi Haavik's research has shown that chiropractic adjustments of dysfunctional spinal segments produce measurable changes in brain function. A brain source localization study estimated changes of nearly 20% in prefrontal cortex processing (Lelic et al., 2016), with the caveat that brain source localization is an indirect measurement method and the study's findings await replication with larger samples. Importantly, Haavik's research protocols employed articular spinal manipulation (HVLA), not non-articular tonal contacts. Her established protocols using somatosensory evoked potentials (SEPs), fMRI, and transcranial magnetic stimulation (TMS) could be applied to TTC to investigate whether non-articular tonal contacts produce comparable or distinct neurological changes compared to articular approaches.
-
-### The Need for Clinical Outcomes Research
-
-To date, no published controlled trials have isolated TTC methodology from other approaches. While the mechanistic foundation draws on multiple lines of peer-reviewed research and clinical observations are compelling, rigorous outcomes research is needed to quantify TTC's effects on autonomic regulation, postural adaptation, and long-term neuroplasticity. This represents the next critical step in validating the model.
-
-### Limitations and Future Directions
-
-**Model Limitations:**
-This model synthesizes existing research from multiple fields but has not yet been tested as an integrated framework. The proposed mechanisms draw on fascial research, meningeal tissue biology, neuroscience, and chiropractic studies, but direct investigation of TTC-specific pathways is needed. Recent meta-analytic evidence (2025) suggests that spinal manipulation outcomes may not depend strongly on application procedures, region of application, or site specificity, a finding that, while based primarily on HVLA thrust techniques, challenges the premise that TTC's precise location, vector, and timing produce superior outcomes through a distinct mechanism. Demonstrating that TTC's site-specific methodology produces measurably different results from non-specific approaches remains a critical research priority.
-
-Additionally, while this model proposes that meningeal involvement is present in all subluxation, including cases where direct mechanical compression is well-documented (e.g., disc herniation, foraminal stenosis), TTC does not deny the reality of pathological compression. Rather, TTC proposes that even where compression exists, there is associated tension within the meningeal system that preceded or accompanies the structural event, and that addressing this meningeal component directly facilitates the body's own process of resolving the dyskinesia.
-
-**Research Priorities:**
-1. Controlled trials comparing TTC to other tonal and osseous approaches, including non-specific manipulation controls
-2. Neuroimaging studies using Haavik's protocols to measure whether non-articular tonal contacts produce distinct cortical effects from articular manipulation
-3. Mechanistic studies isolating the meningeal-dural pathway contribution
-4. Investigation of meningeal myofibroblast activity under chronic subclinical stress (extending current pathological findings to the physiological context TTC proposes)
-5. Long-term neuroplasticity outcomes with sustained TTC care
-6. Investigation of focused intent as a measurable variable in clinical outcomes
+With the model, the mechanism, the method, and the lineage established, the practitioner faces a practical question: what should patients expect, and what ethical commitments govern TTC practice?
 
 ---
 
@@ -616,7 +629,7 @@ This is what people experience as ongoing improvement in function and adaptabili
 
 **Allostatic Load**: The physiological cost of chronic stress adaptation. In TTC, prolonged elevated baseline tone within the NeuroSpinal System increases susceptibility to dysfunction and represents the sustained energetic burden of the protective meningeal response.
 
-**Aberrant NeuroSpinal Tension**: TTC's term for the state of sustained, stress-mediated tension in the meningeal system that disturbs neural function. Historically, Breig (1978) described this as **Adverse Mechanical Tension (AMT)**; Epstein refined it to **Adverse Mechanical Cord Tension (AMCT)**, adding "Cord" for anatomical specificity. TTC adopts "aberrant NeuroSpinal tension" because dural tension frequently manifests at the occiput, sphenoid, and zygoma — areas beyond what "cord" alone captures (see Section 5.4 for full terminology note). In the TTC model, aberrant NeuroSpinal tension develops from protective meningeal contraction in response to actual or perceived threat. The initial response involves contraction of existing myofibroblasts. Under sustained load, additional fibroblasts convert to myofibroblasts via TGF-β1 signaling, a mechanism demonstrated in meningeal tissue under pathological conditions (Dorrier et al., 2021), progressively deepening the tension and increasing subluxation severity through time. This aberrant tension persists beyond the stressor until sufficient safety signals permit release.
+**Aberrant NeuroSpinal Tension**: TTC's term for the state of sustained, stress-mediated tension in the meningeal system that disturbs neural function. Historically, Breig (1978) described this as **Adverse Mechanical Tension (AMT)**; Epstein refined it to **Adverse Mechanical Cord Tension (AMCT)**, adding "Cord" for anatomical specificity. TTC adopts "aberrant NeuroSpinal tension" because dural tension frequently manifests at the occiput, sphenoid, and zygoma — areas beyond what "cord" alone captures (see Part VI, Section 6.4 for full terminology note). In the TTC model, aberrant NeuroSpinal tension develops from protective meningeal contraction in response to actual or perceived threat. The initial response involves contraction of existing myofibroblasts. Under sustained load, additional fibroblasts convert to myofibroblasts via TGF-β1 signaling, a mechanism demonstrated in meningeal tissue under pathological conditions (Dorrier et al., 2021), progressively deepening the tension and increasing subluxation severity through time. This aberrant tension persists beyond the stressor until sufficient safety signals permit release.
 
 **Best Window In**: In TTC, a spatiotemporal opportunity when system receptivity is highest to a minimal, well-oriented input. The most receptive and responsive area of the NeuroSpinal System for a given practitioner at a given time, determined through tonal indicators and verified by a temporary complete leg balancing following a tonal pressure test.
 
@@ -793,7 +806,7 @@ Firm skull-base dural attachment at the occiput (tentorium along the transverse-
 
 ### 4. C1 (Atlas)
 
-Proven myodural bridges from the suboccipital muscles—RCP minor/major and OCI—passing through the posterior atlanto-occipital/atlanto-axial membranes into the posterior dura, together with high-prevalence dorsal meningovertebral (epidural) ligaments at C1–C2 that tether the posterior dura to the lamina/ligamentum flavum; plus the C1 (suboccipital) nerve exiting in a dural sleeve (with dorsal root/ganglion often rudimentary or absent) and the atlas’s unique ring anatomy (no body/spinous process, maximal ROM)—make C1 a dural coupling focal point.
+Proven myodural bridges from the suboccipital muscles—RCP minor/major and OCI—passing through the posterior atlanto-occipital/atlanto-axial membranes into the posterior dura, together with high-prevalence dorsal meningovertebral (epidural) ligaments at C1–C2 that tether the posterior dura to the lamina/ligamentum flavum; plus the C1 (suboccipital) nerve exiting in a dural sleeve (with dorsal root/ganglion often rudimentary or absent) and the atlas's unique ring anatomy (no body/spinous process, maximal ROM)—make C1 a dural coupling focal point.
 
 **Harmonic Resonant Areas:** S1, SR1, L1, T1, O1
 
@@ -1016,7 +1029,7 @@ Zheng, N., Yuan, X. Y., Chi, Y. Y., et al. (2015). The morphology and clinical s
 
 For practitioners interested in exploring the outer edges of mind-body interaction research, a body of exploratory work has examined whether focused intent can influence physical systems. Meta-analyses of random number generator (RNG) studies conducted at the Princeton Engineering Anomalies Research (PEAR) Lab reported small deviations from chance in some experimental conditions (Radin & Nelson, 1989). However, an independent meta-analysis published in *Psychological Bulletin* found that effect sizes were strongly and inversely related to sample size, a pattern consistent with publication bias, and concluded that the evidence does not prove psychokinesis (Bosch, Steinkamp, & Boller, 2006). The PEAR lab closed in 2007 after 28 years without producing independently replicable results. This line of research remains deeply contested in the scientific community.
 
-This material is included here for those who find value in considering the broadest possible context for understanding practitioner-patient interaction. It does not form part of TTC's core evidence base. The neurophysiological basis for congruent intent described in Part VII, including practitioner attentional state, therapeutic alliance, and contextual factors, provides sufficient grounding for TTC's emphasis on focused intent without reliance on this contested research.
+This material is included here for those who find value in considering the broadest possible context for understanding practitioner-patient interaction. It does not form part of TTC's core evidence base. The neurophysiological basis for congruent intent described in Part III, including practitioner attentional state, therapeutic alliance, and contextual factors, provides sufficient grounding for TTC's emphasis on focused intent without reliance on this contested research.
 
 **For further reading:**
 
