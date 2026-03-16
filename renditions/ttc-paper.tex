@@ -30,8 +30,8 @@
 \pagestyle{fancy}
 \fancyhf{}
 \renewcommand{\headrulewidth}{0.4pt}
-\fancyhead[LE]{\small\sffamily\color{primaryblue}\leftmark}
-\fancyhead[RO]{\small\sffamily\color{primaryblue}TTC White Paper}
+\fancyhead[L]{\small\sffamily\color{primaryblue}\leftmark}
+\fancyhead[R]{\small\sffamily\color{primaryblue}TTC White Paper}
 \fancyfoot[C]{\small\thepage}
 \fancypagestyle{plain}{%
   \fancyhf{}%
@@ -161,14 +161,19 @@
   fontupper=\small,
 }
 
-% Part break styling
+% Part break styling — flows with text, no forced page break
 \newcommand{\partbreak}[2]{%
-  \clearpage%
-  \vspace*{1.5cm}%
-  {\sffamily\bfseries\fontsize{20}{24}\selectfont\color{primaryblue}#1}\par%
-  \vspace{0.5em}%
-  {\itshape\large #2}\par%
-  \vspace{1cm}%
+  \par\vspace{1.5em}%
+  {\color{primaryblue}\hrule height 1.5pt}%
+  \vspace{0.6em}%
+  \phantomsection%
+  \addcontentsline{toc}{section}{#1}%
+  {\sffamily\bfseries\fontsize{18}{22}\selectfont\color{primaryblue}#1}\par%
+  \vspace{0.3em}%
+  {\itshape\normalsize\color{darktext!80}#2}\par%
+  \vspace{0.3em}%
+  {\color{primaryblue!60}\hrule height 0.5pt}%
+  \vspace{1em}%
 }
 
 % ─── Hyperref ────────────────────────────────────────────────────────────────
@@ -191,6 +196,7 @@
 \usepackage{csquotes}
 
 \color{darktext}
+\raggedbottom  % Don't stretch vertical space to fill pages
 
 % ─── Document Begin ──────────────────────────────────────────────────────────
 \begin{document}
@@ -233,16 +239,14 @@ Model and Clinical Application of Talsky Tonal Chiropractic\par}
 
 \section{Executive Summary}
 
-\begin{figure}[htbp]
+Every principled chiropractor has encountered the same clinical puzzle. A patient presents with clear vertebral subluxation. The adjustment is well-delivered. The segment moves. And yet the pattern returns within days, or never fully resolves. Meanwhile, another patient holds their correction for months. What is the difference?
+
+
+\begin{figure}[htb!]
 \centering
-\includegraphics[width=0.85\textwidth]{08-summary-infographic-c-paradigm-shift.png}
+\includegraphics[width=0.75\textwidth]{08-summary-infographic-c-paradigm-shift.png}
 \caption{TTC Paradigm Shift: Summary}
 \end{figure}
-\FloatBarrier
-
-
-
-Every principled chiropractor has encountered the same clinical puzzle. A patient presents with clear vertebral subluxation. The adjustment is well-delivered. The segment moves. And yet the pattern returns within days, or never fully resolves. Meanwhile, another patient holds their correction for months. What is the difference?
 
 
 Talsky Tonal Chiropractic (TTC) proposes a mechanism that accounts for this discrepancy: \textbf{vertebral subluxation is most accurately understood as a secondary, compensatory event.} The primary interference takes place upstream, in the NeuroSpinal System (Cranio-Spinal Meningeal Functional Unit), where sustained meningeal contracture alters the system's baseline tone. Muscles move bones; they hold them in compensatory positions as a result of core dural tension, not the other way around. TTC identifies the meningeal system as the \textbf{Primary Tone-Setter} — the structure whose baseline tension governs the global patterns that shape posture, adaptability, autonomic regulation, and the persistence of subluxation.
@@ -263,7 +267,6 @@ The mechanobiological framework presented here is anchored in established dural-
 
 
 \section{First Principles}
-
 
 Talsky Tonal Chiropractic (TTC) first and foremost returns to the original intent of chiropractic: the progressive reduction of physical interference to the physical nervous system maintained by incomplete and abnormal movement of spinal segments.
 
@@ -287,15 +290,11 @@ Breig demonstrated that adverse mechanical tension in the meningeal system can d
 
 \partbreak{Part I. From Principle to Clinical Method}{First Principles named the gap between chiropractic's philosophy and its practice. Part I closes that gap — describing what a clinical method looks like when it takes the intelligence of the nervous system literally.}
 
-\begin{figure}[htbp]
+\begin{figure}[htb!]
 \centering
-\includegraphics[width=0.85\textwidth]{01-concept-map-a-split-v2.png}
+\includegraphics[width=0.75\textwidth]{01-concept-map-a-split-v2.png}
 \caption{Bone-First vs.\ Tension-First: Two Paradigms of Subluxation}
 \end{figure}
-\FloatBarrier
-
-
-\section{Part I. From Principle to Clinical Method}
 
 
 Chiropractic was founded on the principle that life is an expression of tone and that interference to the nervous system limits that expression. Yet in daily practice the profession has overwhelmingly emphasized joint fixation, segmental malposition, and nerve compression while giving far less clinical attention to the nervous system's tone itself. \textbf{We said "tone," but we adjusted "bones." We said "intelligence," but we delivered force. We said "the body heals itself," but we delivered force to move bones rather than information to allow the body to move itself.} This is not a critique of structural methods, which can achieve meaningful clinical results. It is an observation about the gap between our explanatory language and our intervention model. This disconnect is the reason tonal approaches keep reappearing across decades. Chiropractors have always been trying to find the method that matches the philosophy.
@@ -356,14 +355,6 @@ Find the point of greatest receptivity and speak the language the system actuall
 
 \subsection{The Clinical Distinction}
 
-\begin{figure}[htbp]
-\centering
-\includegraphics[width=0.85\textwidth]{11-not-about-a-two-column.png}
-\caption{TTC IS\ldots\ A Paradigm Shift}
-\end{figure}
-\FloatBarrier
-
-
 \begin{itemize}
 \item \textbf{Not} about using enough force to move a bone, \textbf{about} delivering precise, minimal information to a system designed to self-correct.
 \item \textbf{Not} about finding the primary fixation, \textbf{about} finding the best window in.
@@ -377,14 +368,20 @@ Find the point of greatest receptivity and speak the language the system actuall
 This is a move from localized segmental adjustments to the Tonal Model, engaging the NeuroSpinal System (C-SMFU) directly as the main functional unit through global tonal inputs that facilitate the body in its own adjustment process. It is not about us doing the adjusting; it is about engaging in a dialogue with the intelligence of the body through touch and intent, so that the system can resume its own process of releasing, resolving, and becoming more whole.
 
 
+\begin{figure}[htb!]
+\centering
+\includegraphics[width=0.75\textwidth]{11-not-about-a-two-column.png}
+\caption{TTC IS\ldots\ A Paradigm Shift}
+\end{figure}
+
+
 \subsection{Clinical Observations: Phenomena the Bone-First Model Struggles to Explain}
 
-\begin{figure}[htbp]
+\begin{figure}[htb!]
 \centering
-\includegraphics[width=0.85\textwidth]{03-clinical-flowchart-a-parallel-v2.png}
+\includegraphics[width=0.75\textwidth]{03-clinical-flowchart-a-parallel-v2.png}
 \caption{Traditional Chiropractic vs.\ TTC Clinical Pathway}
 \end{figure}
-\FloatBarrier
 
 
 The following representative clinical scenarios illustrate patterns that principled chiropractors routinely observe but that the bone-first model does not fully account for. These are not individual case studies but composite observations drawn from clinical practice.
@@ -419,16 +416,11 @@ TTC interpretation: In the TTC model, the repeated osseous adjustments had been 
 
 \partbreak{Part II. The NeuroSpinal System}{Part I established why the tonal approach exists. Part II establishes what it is working with — the anatomy, contractility, and information-processing capacity of the system TTC treats as the body's primary tone-setter.}
 
-\begin{figure}[htbp]
+\begin{figure}[htb!]
 \centering
-\includegraphics[width=0.85\textwidth]{05-meningeal-anatomy-a-four-panel-v2.png}
+\includegraphics[width=0.75\textwidth]{05-meningeal-anatomy-a-four-panel-v2.png}
 \caption{Meningeal Anatomy: The NeuroSpinal System}
 \end{figure}
-\FloatBarrier
-
-
-\section{Part II. The NeuroSpinal System (Cranio-Spinal Meningeal Functional Unit)}
-
 
 
 \subsection{Terminology Note}
@@ -531,7 +523,6 @@ The anatomy described above is not speculative. A growing body of peer-reviewed 
 \section{Part III. Evidence Map and Research Invitations}
 
 
-
 \subsection{On Intent and Information}
 
 Living systems are exquisitely sensitive to boundary conditions and small inputs. Contextual factors, including practitioner attentional quality, touch modulation, confidence, therapeutic alliance, and focused intent, demonstrably influence clinical outcomes through well-established neurophysiologic pathways involving expectancy effects and contextual modulation.
@@ -589,13 +580,11 @@ The anatomical and neurophysiological evidence establishes that the meningeal sy
 
 \section{Part IV. Pathophysiology of NeuroSpinal Subluxation}
 
-\begin{figure}[htbp]
+\begin{figure}[htb!]
 \centering
-\includegraphics[width=0.85\textwidth]{09-five-ds-cascade-c-threat-to-release.png}
+\includegraphics[width=0.75\textwidth]{09-five-ds-cascade-c-threat-to-release.png}
 \caption{The 5 D's Cascade: From Threat Perception to Release}
 \end{figure}
-\FloatBarrier
-
 
 
 Previous tonal models identified the clinical phenomenon; this section presents the underlying biology. To the authors' knowledge, this is the first mechanobiological model within chiropractic explaining why the meningeal system contracts, how that contraction persists at the cellular level, and what allows release to occur. In doing so, this section describes the neurophysiology of the initiation of subluxation, the process of its reduction, and most importantly, the chiropractor's role in facilitating the body to re-initiate its own process of subluxation reduction.
@@ -712,15 +701,14 @@ Research suggests that the body may retain the protective strategy as a stored a
 
 \subsubsection{Why Precision Matters: Layers of Tension and the Best Window In}
 
-\begin{figure}[htbp]
+If simple movement or stretching were sufficient to release these patterns, far more subluxations would self-resolve through daily activity. Many do not. The reason lies in the \textbf{layered architecture of compensatory tension} that accumulates around the primary NeuroSpinal restriction.
+
+
+\begin{figure}[htb!]
 \centering
-\includegraphics[width=0.85\textwidth]{19-upstream-a-cascade.png}
+\includegraphics[width=0.75\textwidth]{19-upstream-a-cascade.png}
 \caption{Upstream Insight: Aberrant NeuroSpinal Tension Precedes the 5 D's}
 \end{figure}
-\FloatBarrier
-
-
-If simple movement or stretching were sufficient to release these patterns, far more subluxations would self-resolve through daily activity. Many do not. The reason lies in the \textbf{layered architecture of compensatory tension} that accumulates around the primary NeuroSpinal restriction.
 
 
 When the NeuroSpinal System contracts defensively, the body does not experience this tension as a singular, isolated phenomenon. Instead, it organizes \textbf{multiple compensatory layers} around the primary restriction:
@@ -839,13 +827,11 @@ The mechanism is now in view: threat perception initiates meningeal contraction,
 
 \section{Part V. TTC Analysis and Adjustment Protocol}
 
-\begin{figure}[htbp]
+\begin{figure}[htb!]
 \centering
-\includegraphics[width=0.85\textwidth]{15-contact-params-a-silhouette.png}
+\includegraphics[width=0.75\textwidth]{15-contact-params-a-silhouette.png}
 \caption{TTC Contact Parameters: Location, Vector, Amount, Intent}
 \end{figure}
-\FloatBarrier
-
 
 
 TTC prioritizes global indicators for the signs of subluxation and the signs of subluxation reduction, rather than local segmental findings. We are not trying to find all the problems. We are trying to find the one place that is most ready and receptive to receive input.
@@ -942,18 +928,6 @@ The model is now complete: mechanism, evidence, and method. TTC did not emerge f
 
 
 \partbreak{Part VI. Historical Evolution: From Bone-on-Nerve to Tone-First}{The protocol is now in view. Before meeting the lineage that produced it, this section traces the intellectual arc — from compression-first models through tension-based models to the tonal framework TTC inherits and extends.}
-
-
-\section{Part VI. From Bone-on-Nerve to Tone-First: Historical Evolution}
-
-\begin{figure}[htbp]
-\centering
-\includegraphics[width=0.85\textwidth]{07-timeline-a-horizontal.png}
-\caption{Historical Timeline: From Bone-on-Nerve to Tone-First}
-\end{figure}
-\FloatBarrier
-
-
 
 
 \subsection{6.1 The Traditional Subluxation Model: Compression First}
@@ -1072,16 +1046,11 @@ The conceptual evolution from compression to tension to tone establishes \textit
 
 \partbreak{Part VII. Historical Lineage and Positioning}{TTC did not appear from nowhere. This section traces the practitioners who built the conceptual and clinical infrastructure TTC inherits — and maps TTC's relationship to the approaches that most closely preceded it.}
 
-\begin{figure}[htbp]
+\begin{figure}[htb!]
 \centering
-\includegraphics[width=0.85\textwidth]{06-technique-table-a-four-column.png}
+\includegraphics[width=0.75\textwidth]{06-technique-table-a-four-column.png}
 \caption{Technique Comparison: Osseous, OsseoTonal, Tonal, Tonal Energetics}
 \end{figure}
-\FloatBarrier
-
-
-\section{Part VII. Historical Lineage and Positioning}
-
 
 
 \subsection{7.1 Tonal Pioneers}
@@ -1290,9 +1259,6 @@ With the model, the mechanism, the method, and the lineage established, the prac
 \partbreak{Part VIII. Clinical Expectations and Ethics}{History and science are now behind us. This section turns toward the person in the room — what the practitioner aims for, how progress is recognized, and how TTC's principles translate across different clinical approaches.}
 
 
-\section{Part VIII. Clinical Expectations And Ethics}
-
-
 The clinical ethic of TTC is precision and responsibility with a reverence for the body's organizing intelligence.
 
 
@@ -1333,7 +1299,6 @@ This is what people experience as ongoing improvement in function and adaptabili
 
 
 \section{Part IX. TTC Glossary}
-
 
 \textbf{Adaptive Reorganization}: In TTC, the process by which the body integrates new information to create a higher level of coordination, adaptability, and coherence.
 
@@ -1388,16 +1353,14 @@ This is what people experience as ongoing improvement in function and adaptabili
 
 \section{Part X. Epilogue: The Self-Tuning Guitar}
 
-\begin{figure}[htbp]
+Imagine the NeuroSpinal System as a self-tuning guitar, one equipped with advanced AI, sensors, and precision mechanics that can tune itself better than any human ever could. As it's played, it continuously adjusts, achieving perfect resonance. But sometimes the tuning mechanism physically gets stuck. The best thing a human can do is nudge the tuner gently in the right direction and let the intelligence of the system take over.
+
+
+\begin{figure}[htb!]
 \centering
-\includegraphics[width=0.85\textwidth]{12-guitar-a-instrument.png}
+\includegraphics[width=0.75\textwidth]{12-guitar-a-instrument.png}
 \caption{The Self-Tuning Guitar: A Metaphor for TTC}
 \end{figure}
-\FloatBarrier
-
-
-
-Imagine the NeuroSpinal System as a self-tuning guitar, one equipped with advanced AI, sensors, and precision mechanics that can tune itself better than any human ever could. As it's played, it continuously adjusts, achieving perfect resonance. But sometimes the tuning mechanism physically gets stuck. The best thing a human can do is nudge the tuner gently in the right direction and let the intelligence of the system take over.
 
 
 That's the essence of Talsky Tonal Chiropractic: finding the best window into the NeuroSpinal System and communicating corrective intent through touch to an intelligent system designed to self-correct. By providing the least amount of the most effective input, we facilitate a learning experience for the NeuroSpinal System, helping it become increasingly effective at its own self-adjustment processes. We provide the body with the information it needs to re-initiate its own processes of self-correcting, healing, and becoming more whole.
@@ -1412,7 +1375,6 @@ Tone is the language of intelligence. Our aim is to communicate with it through 
 
 
 \section{References}
-
 
 Alperin, N. J., Lee, S. H., Loth, F., Raksin, P. B., \& Lichtor, T. (2000). MR-Intracranial pressure (ICP): A method to measure intracranial elastance and pressure noninvasively by means of MR imaging: Baboon and human study. \textit{Radiology}, 217(3), 877–885. doi:10.1148/radiology.217.3.r00dc42877
 
@@ -1520,7 +1482,6 @@ Zheng, N., Yuan, X. Y., Chi, Y. Y., et al. (2015). The morphology and clinical s
 
 
 \section{Appendix A: Dural Attachment Sites and Harmonic Resonance in TTC}
-
 
 \footnotetext{This appendix documents clinically relevant areas of frequent involvement in TTC. These areas represent locations where the NeuroSpinal System demonstrates receptivity to tonal inputs, verified through tonal pressure testing and leg balancing. Each entry provides anatomical basis for the pathway to the NeuroSpinal System. Though movable bony structures are mentioned as anatomical landmarks, the location and intent of contact is not the bony structure itself but rather the soft tissue extensions of the NeuroSpinal System. Contacts are often made near—not necessarily directly on—the referenced bony landmark.}
 
@@ -1652,7 +1613,6 @@ Indirect dural attachment via filum terminale externum: Filum terminale externum
 
 
 \section{Additional Clinically Significant Areas of Indirect Dural Involvement}
-
 
 
 \subsection{9. Maxilla}
@@ -1787,7 +1747,6 @@ Direct and indirect dural attachments at lumbosacral junction and sacral promont
 
 \section{Summary: Clinical Integration}
 
-
 The anatomical areas documented in this appendix represent all clinically significant contact areas utilized in TTC practice. These locations demonstrate receptivity to tonal inputs as verified through tonal pressure testing and leg balancing. Each area provides either:
 
 
@@ -1804,7 +1763,6 @@ This appendix demonstrates that TTC clinical contact areas are grounded in two c
 
 
 \section{Additional References for Appendix A}
-
 
 Breig, A. (1978). \textit{Adverse Mechanical Tension in the Central Nervous System: An Analysis of Cause and Effect; Relief by Functional Neurosurgery}. Stockholm: Almqvist \& Wiksell International.
 
@@ -1837,7 +1795,6 @@ Zheng, N., Yuan, X. Y., Chi, Y. Y., et al. (2015). The morphology and clinical s
 
 
 \section{Appendix B: Exploratory — Intent and Information}
-
 
 \textit{This appendix is included for transparency and completeness; it does not form part of TTC's evidence base and may be omitted in distribution versions of this paper.}
 

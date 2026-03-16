@@ -72,8 +72,8 @@ LATEX_PREAMBLE = r"""\documentclass[11pt,letterpaper]{article}
 \pagestyle{fancy}
 \fancyhf{}
 \renewcommand{\headrulewidth}{0.4pt}
-\fancyhead[LE]{\small\sffamily\color{primaryblue}\leftmark}
-\fancyhead[RO]{\small\sffamily\color{primaryblue}TTC White Paper}
+\fancyhead[L]{\small\sffamily\color{primaryblue}\leftmark}
+\fancyhead[R]{\small\sffamily\color{primaryblue}TTC White Paper}
 \fancyfoot[C]{\small\thepage}
 \fancypagestyle{plain}{%
   \fancyhf{}%
@@ -203,14 +203,19 @@ LATEX_PREAMBLE = r"""\documentclass[11pt,letterpaper]{article}
   fontupper=\small,
 }
 
-% Part break styling
+% Part break styling — flows with text, no forced page break
 \newcommand{\partbreak}[2]{%
-  \clearpage%
-  \vspace*{1.5cm}%
-  {\sffamily\bfseries\fontsize{20}{24}\selectfont\color{primaryblue}#1}\par%
-  \vspace{0.5em}%
-  {\itshape\large #2}\par%
-  \vspace{1cm}%
+  \par\vspace{1.5em}%
+  {\color{primaryblue}\hrule height 1.5pt}%
+  \vspace{0.6em}%
+  \phantomsection%
+  \addcontentsline{toc}{section}{#1}%
+  {\sffamily\bfseries\fontsize{18}{22}\selectfont\color{primaryblue}#1}\par%
+  \vspace{0.3em}%
+  {\itshape\normalsize\color{darktext!80}#2}\par%
+  \vspace{0.3em}%
+  {\color{primaryblue!60}\hrule height 0.5pt}%
+  \vspace{1em}%
 }
 
 % ─── Hyperref ────────────────────────────────────────────────────────────────
@@ -233,6 +238,7 @@ LATEX_PREAMBLE = r"""\documentclass[11pt,letterpaper]{article}
 \usepackage{csquotes}
 
 \color{darktext}
+\raggedbottom  % Don't stretch vertical space to fill pages
 
 % ─── Document Begin ──────────────────────────────────────────────────────────
 \begin{document}
@@ -314,18 +320,22 @@ def escape_and_process(text):
     return text
 
 
-def figure_for_key(key):
-    """Return LaTeX figure block for a graphic key."""
+def figure_for_key(key, inline=False):
+    """Return LaTeX figure block for a graphic key.
+
+    inline=True uses [htb!] without FloatBarrier for better flow.
+    inline=False uses [htb] with FloatBarrier at section boundaries only.
+    """
     if key not in IMAGE_MAP:
         return ''
     fname, caption = IMAGE_MAP[key]
+    placement = 'htb!' if inline else 'htb'
     return (
-        f'\n\\begin{{figure}}[htbp]\n'
+        f'\n\\begin{{figure}}[{placement}]\n'
         f'\\centering\n'
-        f'\\includegraphics[width=0.85\\textwidth]{{{fname}}}\n'
+        f'\\includegraphics[width=0.75\\textwidth]{{{fname}}}\n'
         f'\\caption{{{caption}}}\n'
         f'\\end{{figure}}\n'
-        f'\\FloatBarrier\n'
     )
 
 
@@ -424,6 +434,7 @@ def convert_markdown_to_latex(md_text):
     vignette_lines = []
     evidence_lines = []
     pullquote_lines = []
+    emitted_partbreaks = set()  # Track Part numbers that already have a \partbreak
 
     def flush_list():
         nonlocal in_itemize, in_enumerate
@@ -590,6 +601,7 @@ def convert_markdown_to_latex(md_text):
                 part_title = part_match.group(2)
                 orientation_escaped = escape_and_process(orientation) if orientation else ''
                 output.append(f'\n\\partbreak{{Part {part_label}. {escape_and_process(part_title)}}}{{{orientation_escaped}}}')
+                emitted_partbreaks.add(part_label)
                 continue
 
             # Section heading mapping
@@ -597,18 +609,19 @@ def convert_markdown_to_latex(md_text):
             # Add section mark for fancy header
             if level == 1:
                 output.append(f'\n\\section{{{escaped_title}}}')
-                output.append(f'\\markboth{{{escaped_title}}}{{{escaped_title}}}')
             elif level == 2:
                 # Check if it's a Part heading at H2 level
                 part_match2 = re.match(r'^Part\s+(I{1,3}V?|V?I{0,3}|[IVX]+)\.\s+(.+)$', title_text)
                 if part_match2:
                     part_label = part_match2.group(1)
                     part_title = part_match2.group(2)
+                    # Skip if we already emitted a \partbreak for this Part
+                    if part_label in emitted_partbreaks:
+                        i += 1
+                        continue
                     output.append(f'\n\\section{{Part {part_label}. {escape_and_process(part_title)}}}')
-                    output.append(f'\\markboth{{Part {part_label}. {escape_and_process(part_title)}}}{{Part {part_label}}}')
                 else:
                     output.append(f'\n\\section{{{escaped_title}}}')
-                    output.append(f'\\markboth{{{escaped_title}}}{{{escaped_title}}}')
             elif level == 3:
                 output.append(f'\n\\subsection{{{escaped_title}}}')
             elif level == 4:
@@ -768,39 +781,61 @@ def insert_graphics_at_sections(latex_body):
     """Insert graphics at appropriate section markers.
 
     Uses line-by-line approach to avoid breaking mid-command.
-    Each tuple is (keyword_in_section_line, figure_key).
-    The figure is inserted on the line AFTER the complete section line.
+    Each tuple is (keyword_in_section_line, figure_key, position).
+    position: 'after' places after the heading, 'deferred' places after next blank line
+    (allowing some text to flow before the image).
     """
-    # Map of substring to search for in a \section or \subsection line -> figure key
+    # Map: (section keyword, figure key, placement mode)
+    # 'after' = right after heading, 'deferred' = after a paragraph of text flows first
     insertions = [
-        ('Executive Summary', 'summary-infographic'),
-        ('Part I. From Principle', 'concept-map'),
-        ('The Clinical Distinction', 'not-about'),
-        ('Clinical Observations', 'clinical-flowchart'),
-        ('Part II. The NeuroSpinal System', 'meningeal-anatomy'),
-        ('Part IV. Pathophysiology', 'five-ds-cascade'),
-        ('Why Precision Matters', 'upstream'),
-        ('Part V. TTC Analysis', 'contact-params'),
-        ('Part VI. From Bone-on-Nerve', 'timeline'),
-        ('Part VII. Historical Lineage', 'technique-table'),
-        ('Part X. Epilogue', 'guitar'),
+        ('Executive Summary', 'summary-infographic', 'deferred'),
+        ('Part I. From Principle', 'concept-map', 'after'),
+        ('The Clinical Distinction', 'not-about', 'deferred'),
+        ('Clinical Observations', 'clinical-flowchart', 'after'),
+        ('Part II. The NeuroSpinal System', 'meningeal-anatomy', 'after'),
+        ('Part IV. Pathophysiology', 'five-ds-cascade', 'after'),
+        ('Why Precision Matters', 'upstream', 'deferred'),
+        ('Part V. TTC Analysis', 'contact-params', 'after'),
+        ('Part VI. From Bone-on-Nerve', 'timeline', 'after'),
+        ('Part VII. Historical Lineage', 'technique-table', 'after'),
+        ('Part X. Epilogue', 'guitar', 'deferred'),
     ]
 
     lines = latex_body.split('\n')
     result = []
     inserted = set()
+    deferred_fig = None  # figure waiting to be placed after next paragraph
+    paragraphs_since_defer = 0
 
     for line in lines:
         result.append(line)
+
+        # If we have a deferred figure, place it after the first paragraph of text
+        if deferred_fig and line.strip() == '' and paragraphs_since_defer >= 1:
+            result.append(figure_for_key(deferred_fig, inline=True))
+            inserted.add(deferred_fig)
+            deferred_fig = None
+            paragraphs_since_defer = 0
+        elif deferred_fig and line.strip() and not line.strip().startswith('\\'):
+            paragraphs_since_defer += 1
+
         # Check if this line contains a section/subsection command
         if any(cmd in line for cmd in (r'\section{', r'\subsection{', r'\subsubsection{', r'\partbreak{')):
-            for keyword, fig_key in insertions:
+            for keyword, fig_key, mode in insertions:
                 if keyword in line and fig_key not in inserted:
-                    fig = figure_for_key(fig_key)
-                    if fig:
-                        result.append(fig)
-                        inserted.add(fig_key)
+                    if mode == 'after':
+                        fig = figure_for_key(fig_key, inline=True)
+                        if fig:
+                            result.append(fig)
+                            inserted.add(fig_key)
+                    elif mode == 'deferred':
+                        deferred_fig = fig_key
+                        paragraphs_since_defer = 0
                     break
+
+    # Flush any remaining deferred figure
+    if deferred_fig and deferred_fig not in inserted:
+        result.append(figure_for_key(deferred_fig, inline=True))
 
     return '\n'.join(result)
 
@@ -817,8 +852,7 @@ def post_process(latex_body):
     latex_body = re.sub(r'\n{4,}', '\n\n\n', latex_body)
 
     # Remove decorative ### sub-headings that appear immediately before ## real sections
-    # These appear as \subsection{X} + orientation text + \section{X}
-    # For "First Principles": remove the subsection and italic text, keep the section
+    # For "First Principles": remove the subsection, keep the section
     latex_body = re.sub(
         r'\\subsection\{First Principles\}[\s\S]{0,400}?\\section\{First Principles\}',
         r'\\section{First Principles}',
@@ -827,52 +861,12 @@ def post_process(latex_body):
     )
 
     # The DD Palmer opening quote is already on the title page — remove the pull quote version
-    # that appears before the Executive Summary section
     latex_body = re.sub(
         r'\\begin\{pullquotebox\}[\s\S]{0,200}?(?:Life is an expression|expression of tone)[\s\S]{0,200}?\\end\{pullquotebox\}',
         '',
         latex_body,
         count=1
     )
-
-    # Fix Part break that appears both as partbreak AND as section
-    # The document has "### Part X" (decorative) followed by "## Part X" (real section)
-    # After processing, we may get both a \partbreak and a \section for the same part
-    # Keep the \section and remove the \partbreak that precedes it for the same part
-
-    def remove_duplicate_partbreaks(text):
-        # Find all \partbreak occurrences and check if they're immediately followed by \section of same content
-        parts = re.split(r'(\\partbreak\{[^}]+\}\{[^}]*\})', text)
-        result = []
-        skip_next_section = False
-        for j, part in enumerate(parts):
-            if re.match(r'\\partbreak\{', part):
-                # Check what comes after
-                after = parts[j + 1] if j + 1 < len(parts) else ''
-                # Extract the part title from partbreak
-                pb_match = re.match(r'\\partbreak\{(.+?)\}\{', part, re.DOTALL)
-                if pb_match:
-                    pb_title = pb_match.group(1)
-                    # Check if the next section has the same content
-                    sec_match = re.search(r'\\section\{' + re.escape(pb_title) + r'\}', after[:500])
-                    if sec_match:
-                        # Duplicate - keep partbreak, section will stand on its own page
-                        # Actually let's keep partbreak and remove the duplicate section title
-                        result.append(part)
-                        continue
-                result.append(part)
-            else:
-                result.append(part)
-        return ''.join(result)
-
-    # Don't try to be clever - just fix known issues
-    # The "First Principles" part break should precede the section
-    # Fix \markboth calls that have unescaped special chars
-    latex_body = re.sub(r'\\markboth\{[^}]*\}\{[^}]*\}', '', latex_body)
-
-    # Remove the second occurrence of the opening DD Palmer quote (it's on title page)
-    # The pull quote starting with "Life is" near the top
-    # (already handled above with regex)
 
     return latex_body
 
