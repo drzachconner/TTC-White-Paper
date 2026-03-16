@@ -83,7 +83,7 @@ This is a move from localized segmental adjustments to the Tonal Model, engaging
 
 ### Terminology Note
 
-Donald Epstein introduced the term **Spinal Meningeal Functional Unit (SMFU)** to describe the cord-meningeal system as a unified clinical entity (Epstein, 1986). TTC extends this concept to the **Cranio-Spinal Meningeal Functional Unit (C-SMFU)**, emphasizing the cranial pole of the system (sphenoid, zygoma, occiput) alongside the spinal and sacral attachments, and reframing it as the body's Primary Tone-Setter. Throughout this paper, *NeuroSpinal System* and *Cranio-Spinal Meningeal Functional Unit (C-SMFU)* are used interchangeably. We retain both terms to reflect their functional unity and ensure clarity for professionals within and beyond the chiropractic field.
+Donald Epstein, D.C. introduced the term **Spinal Meningeal Functional Unit (SMFU)** to describe the cord-meningeal system as a unified clinical entity (Epstein, 1986). TTC extends this concept to the **Cranio-Spinal Meningeal Functional Unit (C-SMFU)**, emphasizing the cranial pole of the system (sphenoid, zygoma, occiput) alongside the spinal and sacral attachments, and reframing it as the body's Primary Tone-Setter. Throughout this paper, *NeuroSpinal System* and *Cranio-Spinal Meningeal Functional Unit (C-SMFU)* are used interchangeably. We retain both terms to reflect their functional unity and ensure clarity for professionals within and beyond the chiropractic field.
 
 ### Structural Composition
 
@@ -99,10 +99,10 @@ The NeuroSpinal System comprises:
 
    **Clinically significant areas of either direct or indirect dural attachments include:** Sphenoid, Zygoma, Occiput, C1, C2, C5, S1-S5, and Coccyx (see Appendix A for additional clinically relevant areas)[^anatomical-detail]
 
-5. **Continuity:** Fascial continuity includes the outer sheath of the dura, periosteum, and connective tissue bridges, including myodural bridges (Scali et al., 2011; Zheng et al., 2014), that extend the tensional field beyond the canal
+5. **Continuity:** The dural system extends its tensional field beyond the spinal canal through the outer dural sheath, periosteum, and connective tissue bridges, including myodural bridges connecting suboccipital musculature directly to the spinal dura (Scali et al., 2011; Zheng et al., 2014)
 
 > **Evidence Snapshot: Myodural Bridge**
-> The myodural bridge connects suboccipital musculature directly to the spinal dura mater. Research suggests this connection may serve as an active and passive tension-monitoring system between movement and the central nervous system (Liu et al., 2017). These anatomical connections suggest the NeuroSpinal System may extend its influence beyond the spinal canal through direct fascial continuities.
+> The myodural bridge connects suboccipital musculature directly to the spinal dura mater. Research suggests this connection may serve as an active and passive tension-monitoring system between movement and the central nervous system (Liu et al., 2017). These anatomical connections suggest the NeuroSpinal System extends its influence beyond the spinal canal through direct dural-muscular continuities.
 
 This functions as a single organ of tension and transmission: the NeuroSpinal System mechanically unites the brain, spinal cord, and multilayered meningeal system with their attachments to the movable bony structures of the cranium and spine. The outer dural sheath extends continuously into the surrounding fascial network, positioning the NeuroSpinal System as a primary tone-setter for the body's fascia as well. In the TTC model, this system behaves as a **tensegrity lattice**, dynamically modulating CSF dynamics and global posture.
 
@@ -124,7 +124,7 @@ The NeuroSpinal System is not simply a structural framework; it is an **informat
 
 **A. Transmission**: The dura and fascial network conduct mechanical and bioelectrical signals throughout the body. As synthesized by Becker and Selden (1985), connective tissue may function as a communication system operating alongside traditional neural pathways. One established mechanism underlying this capacity is **piezoelectric signal transduction**: collagen, the primary structural protein in fascia and dura, generates electrical charge in response to mechanical stress (Fukada & Yasuda, 1964), enabling mechano-electric conversion between tissue layers and neural structures. While the biological significance of collagen piezoelectricity remains an area of active investigation, this property provides a plausible pathway for non-synaptic mechanical signaling within the meningeo-fascial continuum.
 
-**B. Reception**: Mechanoreceptors embedded in the dura and meninges respond to tension, movement, and pressure, feeding real-time proprioceptive data into the central nervous system.
+**B. Reception**: Mechanoreceptors embedded in the meningeal layers respond to tension, movement, and pressure, feeding real-time proprioceptive data into the central nervous system.
 
 **C. Storage**: Emerging research suggests that fascia undergoes persistent mechanical and phenotypic changes after loading history: patterns of altered stiffness and extracellular matrix remodeling that persist after the original stressor has resolved, influencing future tissue behavior (Fede et al., 2018). The TTC model extends this concept to meningeal tissues, which share structural characteristics with fascia and have demonstrated sustained phenotypic changes under chronic mechanical stress.
 
@@ -134,21 +134,21 @@ The NeuroSpinal System is not simply a structural framework; it is an **informat
 
 If tone is the organizing principle of life, as D.D. Palmer proposed, then this paper proposes that the NeuroSpinal System is the **Primary Tone-Setter** of the human body.
 
-When stress overloads the system, the meninges contract protectively (see Part III for the full mechanism). This increases baseline tension in the NeuroSpinal continuum. The brain perceives this aberrant tension and responds by commanding compensatory muscle patterns, which pull on bony structures, creating postural shifts, gait disturbances, and joint fixations — initiating the cascade of dyskinesia, dysafferentation, dysponesis, dysautonomia, and degeneration (each defined in Part III).
+When stress overloads the system, the meningeal system contracts protectively (see Part III for the full mechanism). This increases baseline tension in the NeuroSpinal continuum. The brain perceives this aberrant tension and responds by commanding compensatory muscle patterns, which pull on bony structures, creating postural shifts, gait disturbances, and joint fixations — initiating the cascade of dyskinesia, dysafferentation, dysponesis, dysautonomia, and degeneration (each defined in Part III).
 
-Bones move and hold their positions as a result of core dural tension, not the other way around. While osseous approaches can achieve meaningful changes when they influence the underlying NeuroSpinal tone — working through mechanoreceptor-rich joint spaces to engage the body's intelligence — TTC engages the NeuroSpinal System directly through meningeal contacts.
+Muscles move bones and hold them in their positions as a result of core dural tension, not the other way around. While osseous approaches can achieve meaningful changes when they influence the underlying NeuroSpinal tone — working through mechanoreceptor-rich joint spaces to engage the body's intelligence — TTC engages the NeuroSpinal System directly through the most receptive dural contacts.
 
 ---
 
 ## Part III. Pathophysiology of NeuroSpinal Subluxation
 
-Previous tonal models identified the clinical phenomenon; this section presents the underlying biology. To the authors' knowledge, this is the first mechanobiological model within chiropractic explaining why the meningeal system contracts, how that contraction persists at the cellular level, and what allows release to occur.
+Previous tonal models identified the clinical phenomenon; this section presents the underlying biology. To the authors' knowledge, this is the first mechanobiological model within chiropractic explaining why the meningeal system contracts, how that contraction persists at the cellular level, and what allows release to occur. In doing so, this section describes the neurophysiology of the initiation of subluxation, the process of its reduction, and most importantly, the chiropractor's role in facilitating the body to re-initiate its own process of subluxation reduction.
 
 ### The Protective Meningeal Response and Development of Aberrant NeuroSpinal Tension
 
 Subluxation begins upstream of joint fixation. The initiating event is often the perception of threat, whether actual or imagined. This appraisal, processed by cortical and limbic structures, triggers a protective meningeal contraction in the NeuroSpinal System.
 
-This protective response involves active contractility of the meninges, particularly via the pia mater and dentate ligaments, reinforced by fascial continuities such as the myodural bridge (Scali et al., 2011). When the NeuroSpinal System, the body's Primary Tone-Setter, locks into persistent meningeal contracture, creating aberrant NeuroSpinal tension, it operates through three interrelated mechanisms:
+This protective response involves active contractility of the meninges, particularly via the pia mater and dentate ligaments, reinforced by dural-muscular connections such as the myodural bridge (Scali et al., 2011). When the NeuroSpinal System, the body's Primary Tone-Setter, locks into persistent meningeal contracture, creating aberrant NeuroSpinal tension, it operates through three interrelated mechanisms:
 
 **Mechanobiology:** Under sustained load, mechanotransduction shifts fibroblasts toward myofibroblast behavior through TGF-β1 signaling, embedding α-SMA fibers that sustain contraction and alter extracellular matrix tone (Tomasek et al., 2002; Wipff et al., 2007). In pathological contexts, fibroblast-to-myofibroblast differentiation with α-SMA expression has been demonstrated in the arachnoid membrane, driven by elevated TGF-β1 concentrations in cerebrospinal fluid (Dorrier et al., 2021). These findings confirm that meningeal tissue possesses intrinsic fibrotic and contractile potential. TTC hypothesizes that lower-grade analogues of this mechanism may operate under chronic subclinical stress, but this specific extension from pathological to routine physiological contexts has not been directly demonstrated.
 
