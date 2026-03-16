@@ -1,0 +1,576 @@
+/* ============================================================
+   TTC White Paper — Enhanced Print CSS v2
+   For use with pandoc + weasyprint PDF pipeline.
+   Professional visual design with graphics integration.
+   Blues/grays palette, Georgia serif headings, sans-serif body.
+   ============================================================ */
+
+/* ── Page Layout ─────────────────────────────────────────── */
+
+@page {
+  size: letter;
+  margin: 1in 1in 1.1in 1in;
+  background-color: #FFFFF5;
+  @bottom-center {
+    content: counter(page);
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-size: 9pt;
+    color: #6B7280;
+    margin-top: 0.3in;
+  }
+}
+
+/* Suppress page number on title page */
+@page :first {
+  @bottom-center {
+    content: none;
+  }
+}
+
+/* Named page for chapter break pages */
+@page chapter-break {
+  @bottom-center {
+    content: counter(page);
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-size: 9pt;
+    color: #6B7280;
+  }
+}
+
+/* ── Base Document ────────────────────────────────────────── */
+
+html {
+  background-color: #FFFFF5;
+}
+
+body {
+  font-family: "Helvetica Neue", "Arial", "Liberation Sans", sans-serif;
+  font-size: 11pt;
+  line-height: 1.55;
+  color: #1C2B3A;
+  background-color: #FFFFF5;
+  margin: 0;
+  padding: 0;
+}
+
+/* ── Title Page ────────────────────────────────────────────── */
+
+h1.title {
+  font-family: "Georgia", "Times New Roman", serif;
+  font-size: 26pt;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 2.5in;
+  margin-bottom: 0.3em;
+  line-height: 1.25;
+  color: #1C2B3A;
+  letter-spacing: -0.01em;
+}
+
+p.subtitle {
+  font-family: "Georgia", "Times New Roman", serif;
+  text-align: center;
+  font-size: 15pt;
+  font-style: italic;
+  margin-bottom: 0.3em;
+  color: #2E4A6A;
+}
+
+.author {
+  text-align: center;
+  font-family: "Helvetica Neue", "Arial", sans-serif;
+  font-size: 12pt;
+  color: #4B5563;
+  margin-bottom: 0.2em;
+  margin-top: 0.8em;
+}
+
+.date {
+  text-align: center;
+  font-family: "Helvetica Neue", "Arial", sans-serif;
+  font-size: 11pt;
+  color: #6B7280;
+  margin-bottom: 0.3em;
+}
+
+/* ── Headings ─────────────────────────────────────────────── */
+
+h1 {
+  font-family: "Georgia", "Times New Roman", serif;
+  font-size: 24pt;
+  font-weight: bold;
+  color: #1C2B3A;
+  line-height: 1.25;
+  margin-top: 0;
+  margin-bottom: 0.5em;
+  page-break-after: avoid;
+}
+
+/* Major part headings — page break before */
+h2 {
+  font-family: "Georgia", "Times New Roman", serif;
+  font-size: 18pt;
+  font-weight: bold;
+  color: #1C2B3A;
+  line-height: 1.3;
+  margin-top: 0;
+  margin-bottom: 0.6em;
+  page-break-before: always;
+  page-break-after: avoid;
+  padding-top: 0.3em;
+  border-bottom: 2px solid #2E6DA4;
+  padding-bottom: 0.2em;
+}
+
+/* Executive Summary — no page break */
+h2:first-of-type {
+  page-break-before: avoid;
+}
+
+/* TOC adjacency: suppress double page breaks */
+#TOC + h2,
+nav#TOC + h2 {
+  page-break-before: avoid;
+}
+
+h3 {
+  font-family: "Georgia", "Times New Roman", serif;
+  font-size: 14pt;
+  font-weight: bold;
+  color: #2E4A6A;
+  margin-top: 1.4em;
+  margin-bottom: 0.45em;
+  page-break-after: avoid;
+  border-bottom: 1px solid #C8D8E8;
+  padding-bottom: 0.1em;
+}
+
+h4 {
+  font-family: "Helvetica Neue", "Arial", sans-serif;
+  font-size: 12pt;
+  font-weight: bold;
+  color: #374151;
+  margin-top: 1.2em;
+  margin-bottom: 0.35em;
+  page-break-after: avoid;
+}
+
+h5, h6 {
+  font-family: "Helvetica Neue", "Arial", sans-serif;
+  font-size: 11pt;
+  font-weight: bold;
+  color: #4B5563;
+  margin-top: 1em;
+  margin-bottom: 0.3em;
+  page-break-after: avoid;
+}
+
+/* ── Chapter Break Pages ──────────────────────────────────── */
+
+/* Orientation text before each Part heading — styled as chapter intro */
+.section-intro,
+h2 + p em:first-child,
+h3.part-intro {
+  font-family: "Georgia", "Times New Roman", serif;
+  font-size: 12pt;
+  font-style: italic;
+  color: #4B5563;
+  text-align: center;
+  margin: 1.5em 1.5in;
+}
+
+/* Horizontal rules used as section dividers before major part intros */
+hr {
+  border: none;
+  border-top: 1px solid #C8D8E8;
+  margin: 1.8em 0;
+}
+
+/* ── Paragraphs ───────────────────────────────────────────── */
+
+p {
+  orphans: 3;
+  widows: 3;
+  margin-bottom: 0.75em;
+  margin-top: 0;
+  text-align: left;
+}
+
+/* ── Pull Quotes and Blockquotes ─────────────────────────── */
+
+/* Standard blockquote — pull quote style with left accent border */
+blockquote {
+  font-family: "Georgia", "Times New Roman", serif;
+  font-size: 11.5pt;
+  font-style: italic;
+  border-left: 4px solid #2E6DA4;
+  background-color: #EDF3FA;
+  padding: 0.75em 1em 0.75em 1.2em;
+  margin: 1.2em 0.5in 1.2em 0.3in;
+  color: #1C2B3A;
+  page-break-inside: avoid;
+  border-radius: 0 4px 4px 0;
+}
+
+blockquote p {
+  margin-bottom: 0.3em;
+}
+
+blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+/* Bold pull quotes (the **"quoted text"** pattern) */
+blockquote strong {
+  font-style: normal;
+  font-weight: bold;
+  color: #1C2B3A;
+}
+
+/* Clinical vignette boxes — use nested blockquotes or .vignette */
+blockquote blockquote,
+.vignette {
+  font-style: normal;
+  font-family: "Helvetica Neue", "Arial", sans-serif;
+  font-size: 10.5pt;
+  border-left: 4px solid #7B9E4A;
+  background-color: #F3F7EC;
+  padding: 1em 1em 1em 1.2em;
+  margin: 1em 0;
+  color: #1C2B3A;
+  border-radius: 0 4px 4px 0;
+}
+
+blockquote blockquote p em,
+.vignette p em {
+  font-style: italic;
+  color: #4B5563;
+  font-size: 10pt;
+}
+
+/* Evidence snapshots */
+blockquote p strong:first-child {
+  font-style: normal;
+  display: block;
+  font-size: 10pt;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #2E6DA4;
+  margin-bottom: 0.3em;
+}
+
+/* ── Images and Figures ────────────────────────────────────── */
+
+figure {
+  margin: 1.5em 0;
+  text-align: center;
+  page-break-inside: avoid;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+/* Constrain images to fit page comfortably */
+figure img,
+p img {
+  max-width: 95%;
+  max-height: 7in;
+  height: auto;
+  display: block;
+  margin: 0.5em auto;
+}
+
+figcaption {
+  font-family: "Helvetica Neue", "Arial", sans-serif;
+  font-size: 9.5pt;
+  color: #6B7280;
+  text-align: center;
+  margin-top: 0.4em;
+  font-style: italic;
+  line-height: 1.4;
+}
+
+/* Standalone paragraph containing only an image */
+p:has(img) {
+  text-align: center;
+  margin: 1.2em 0;
+}
+
+/* ── Tables ─────────────────────────────────────────────────── */
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.2em 0;
+  font-size: 10pt;
+  page-break-inside: avoid;
+  font-family: "Helvetica Neue", "Arial", sans-serif;
+}
+
+th {
+  background-color: #2E6DA4;
+  color: #FFFFFF;
+  font-weight: bold;
+  padding: 0.5em 0.7em;
+  text-align: left;
+  border: 1px solid #1C4E7A;
+  font-size: 9.5pt;
+  letter-spacing: 0.02em;
+}
+
+td {
+  border: 1px solid #C8D8E8;
+  padding: 0.4em 0.7em;
+  text-align: left;
+  vertical-align: top;
+  color: #1C2B3A;
+}
+
+tr:nth-child(even) td {
+  background-color: #F0F5FA;
+}
+
+tr:nth-child(odd) td {
+  background-color: #FFFFF5;
+}
+
+/* ── Lists ──────────────────────────────────────────────────── */
+
+ul, ol {
+  margin-bottom: 0.7em;
+  margin-top: 0.2em;
+  padding-left: 1.6em;
+}
+
+li {
+  margin-bottom: 0.25em;
+  line-height: 1.5;
+}
+
+/* ── Pre and Code ────────────────────────────────────────────── */
+
+pre {
+  white-space: pre-wrap;
+  font-size: 9pt;
+  background-color: #F0F5FA;
+  border: 1px solid #C8D8E8;
+  padding: 0.8em 1em;
+  border-radius: 4px;
+  page-break-inside: avoid;
+  font-family: "Menlo", "Courier New", monospace;
+  color: #1C2B3A;
+  line-height: 1.45;
+  margin: 1em 0;
+}
+
+code {
+  font-family: "Menlo", "Courier New", monospace;
+  font-size: 0.9em;
+  background-color: #EDF3FA;
+  padding: 0.1em 0.3em;
+  border-radius: 2px;
+}
+
+/* ── Typography Refinements ──────────────────────────────────── */
+
+strong {
+  font-weight: bold;
+  color: #1C2B3A;
+}
+
+em {
+  font-style: italic;
+}
+
+sup {
+  font-size: 0.72em;
+  line-height: 0;
+  color: #2E6DA4;
+}
+
+/* ── Links ───────────────────────────────────────────────────── */
+
+a {
+  color: #1C2B3A;
+  text-decoration: none;
+}
+
+a[href]:after {
+  content: none;
+}
+
+/* ── Table of Contents ─────────────────────────────────────── */
+
+nav#TOC {
+  page-break-after: always;
+  margin-top: 0.5em;
+  padding: 1em 0.5em;
+  border: 1px solid #C8D8E8;
+  background-color: #F0F5FA;
+  border-radius: 4px;
+}
+
+nav#TOC h2,
+nav#TOC > h2 {
+  page-break-before: avoid;
+  border-bottom: 2px solid #2E6DA4;
+  font-size: 16pt;
+  margin-bottom: 0.6em;
+  padding-bottom: 0.2em;
+}
+
+nav#TOC ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+nav#TOC li {
+  margin-bottom: 0.3em;
+}
+
+nav#TOC > ul > li {
+  font-family: "Georgia", "Times New Roman", serif;
+  font-size: 11pt;
+  font-weight: bold;
+  color: #1C2B3A;
+  margin-bottom: 0.4em;
+}
+
+nav#TOC > ul > li > ul > li {
+  font-family: "Helvetica Neue", "Arial", sans-serif;
+  font-weight: normal;
+  margin-left: 1.2em;
+  font-size: 10pt;
+  color: #374151;
+  margin-bottom: 0.2em;
+}
+
+nav#TOC a {
+  color: #1C2B3A;
+  text-decoration: none;
+}
+
+nav#TOC a:hover {
+  color: #2E6DA4;
+}
+
+/* ── Footnotes ─────────────────────────────────────────────── */
+
+.footnotes {
+  font-size: 9pt;
+  margin-top: 2em;
+  border-top: 1px solid #C8D8E8;
+  padding-top: 0.6em;
+  color: #4B5563;
+  font-family: "Helvetica Neue", "Arial", sans-serif;
+}
+
+.footnotes ol {
+  padding-left: 1.2em;
+}
+
+.footnotes li {
+  margin-bottom: 0.3em;
+}
+
+/* ── References Section ─────────────────────────────────────── */
+
+/* Hanging indent for references — applied via section class */
+.references p,
+section.references p {
+  padding-left: 1.5em;
+  text-indent: -1.5em;
+  font-size: 10pt;
+  line-height: 1.45;
+  color: #374151;
+}
+
+/* ── Print-specific Media Query ──────────────────────────────── */
+
+@media print {
+  body {
+    background-color: #FFFFF5;
+    -webkit-print-color-adjust: exact;
+  }
+
+  h2 {
+    page-break-before: always;
+  }
+
+  h2:first-of-type {
+    page-break-before: avoid;
+  }
+
+  figure,
+  table,
+  pre,
+  blockquote {
+    page-break-inside: avoid;
+  }
+
+  h1, h2, h3, h4 {
+    page-break-after: avoid;
+  }
+
+  p {
+    orphans: 3;
+    widows: 3;
+  }
+
+  img {
+    max-width: 95% !important;
+    max-height: 7in !important;
+    -webkit-print-color-adjust: exact;
+  }
+
+  /* Full-width "break" images */
+  figure.full-width img {
+    max-height: 9in;
+  }
+}
+
+/* ── Utility Classes ─────────────────────────────────────────── */
+
+.text-center { text-align: center; }
+.text-small { font-size: 9.5pt; }
+.muted { color: #6B7280; }
+
+/* Page break helpers */
+.page-break-before { page-break-before: always; }
+.page-break-avoid { page-break-inside: avoid; }
+
+/* Epigraph (title page quote) */
+.epigraph {
+  font-family: "Georgia", "Times New Roman", serif;
+  font-style: italic;
+  font-size: 12pt;
+  text-align: center;
+  margin: 0.5in 1in;
+  color: #4B5563;
+}
+
+/* Section orientation text (italic paragraph after hr before part heading) */
+p > em:only-child {
+  display: block;
+  font-family: "Georgia", "Times New Roman", serif;
+  font-size: 11pt;
+  font-style: italic;
+  color: #4B5563;
+  text-align: center;
+  margin: 0 1in 0.5em 1in;
+}
+
+/* Graphic caption label */
+.figure-label {
+  font-family: "Helvetica Neue", "Arial", sans-serif;
+  font-size: 8.5pt;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #2E6DA4;
+  text-align: center;
+  margin-bottom: 0.2em;
+}
