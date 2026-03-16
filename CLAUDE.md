@@ -1,13 +1,5 @@
 # TTC White Paper — Project Instructions
 
-## Workflow Rules
-
-- **ALWAYS pull before working**: Run `git pull --rebase` before making any changes. This is mandatory for multi-machine sync.
-- **ALWAYS commit and push after making changes.** After completing ANY code changes, immediately stage modified files by name, commit with a descriptive message, and push.
-- **Never leave files behind.** Before ending any session, run `git status` and confirm zero untracked or modified files.
-- Never use `git add .` or `git add -A` — always add specific files by name.
-- Commit message format: conventional commits (feat:, fix:, chore:, docs:). Always include `Co-Authored-By: Claude <noreply@anthropic.com>`.
-
 ## 1. Project Overview
 
 Editorial production of *"The Primary Tone-Setter: Model and Clinical Application of Talsky Tonal Chiropractic"* by Dr. Zach Conner. This is a white paper refinement project — we take an 85KB master paper through sequential editorial passes to produce a publishable, credible document for chiropractic professionals.
