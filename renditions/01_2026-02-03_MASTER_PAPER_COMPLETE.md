@@ -104,7 +104,7 @@ The NeuroSpinal System comprises:
 > **Evidence Snapshot: Myodural Bridge**
 > The myodural bridge connects suboccipital musculature directly to the spinal dura mater. Research suggests this connection may serve as an active and passive tension-monitoring system between movement and the central nervous system (Liu et al., 2017). These anatomical connections suggest the NeuroSpinal System may extend its influence beyond the spinal canal through direct fascial continuities.
 
-This functions as a single organ of tension and transmission, a **meningeo-fascial continuum** that mechanically unites the brain, spinal cord, multi-layered meningeal system, and their attachments to the movable boney structures of the cranium and spine. In the TTC model, this meningeo-fascial continuum behaves as a **tensegrity lattice**, dynamically modulating CSF dynamics and global posture.
+This functions as a single organ of tension and transmission: the NeuroSpinal System mechanically unites the brain, spinal cord, and multilayered meningeal system with their attachments to the movable bony structures of the cranium and spine. The outer dural sheath extends continuously into the surrounding fascial network, positioning the NeuroSpinal System as a primary tone-setter for the body's fascia as well. In the TTC model, this system behaves as a **tensegrity lattice**, dynamically modulating CSF dynamics and global posture.
 
 ### Intrinsic Contractile Motility and Tone Generation
 
@@ -134,9 +134,9 @@ The NeuroSpinal System is not simply a structural framework; it is an **informat
 
 If tone is the organizing principle of life, as D.D. Palmer proposed, then this paper proposes that the NeuroSpinal System is the **Primary Tone-Setter** of the human body.
 
-When stress overloads the system, the meninges contract protectively (see Part III for the full mechanism). This increases baseline tension in the NeuroSpinal continuum. The brain perceives this aberrant tension and responds by commanding compensatory muscle and fascial patterns, which pull on bony structures, creating postural shifts, gait disturbances, and joint fixations — initiating the cascade of dyskinesia, dysafferentation, dysponesis, dysautonomia, and degeneration (each defined in Part III).
+When stress overloads the system, the meninges contract protectively (see Part III for the full mechanism). This increases baseline tension in the NeuroSpinal continuum. The brain perceives this aberrant tension and responds by commanding compensatory muscle patterns, which pull on bony structures, creating postural shifts, gait disturbances, and joint fixations — initiating the cascade of dyskinesia, dysafferentation, dysponesis, dysautonomia, and degeneration (each defined in Part III).
 
-Bones move and hold their positions as a result of core dural and fascial tension, not the other way around. While osseous approaches can achieve meaningful changes when they influence the underlying NeuroSpinal tone, TTC engages the NeuroSpinal System directly.
+Bones move and hold their positions as a result of core dural tension, not the other way around. While osseous approaches can achieve meaningful changes when they influence the underlying NeuroSpinal tone — working through mechanoreceptor-rich joint spaces to engage the body's intelligence — TTC engages the NeuroSpinal System directly through meningeal contacts.
 
 ---
 
@@ -152,7 +152,7 @@ This protective response involves active contractility of the meninges, particul
 
 **Mechanobiology:** Under sustained load, mechanotransduction shifts fibroblasts toward myofibroblast behavior through TGF-β1 signaling, embedding α-SMA fibers that sustain contraction and alter extracellular matrix tone (Tomasek et al., 2002; Wipff et al., 2007). In pathological contexts, fibroblast-to-myofibroblast differentiation with α-SMA expression has been demonstrated in the arachnoid membrane, driven by elevated TGF-β1 concentrations in cerebrospinal fluid (Dorrier et al., 2021). These findings confirm that meningeal tissue possesses intrinsic fibrotic and contractile potential. TTC hypothesizes that lower-grade analogues of this mechanism may operate under chronic subclinical stress, but this specific extension from pathological to routine physiological contexts has not been directly demonstrated.
 
-**Altered Afference:** Sensory input from dural and periosteal tissues changes the baseline signals arriving in the brainstem and higher centers, biasing central processing and motor planning. Mechanoreceptors in tense fascia and meninges send repetitive, low-resolution data to the CNS, limiting adaptability.
+**Altered Afference:** Sensory input from dural and periosteal tissues changes the baseline signals arriving in the brainstem and higher centers, biasing central processing and motor planning. Mechanoreceptors in tense meningeal tissues send repetitive, low-resolution data to the CNS, limiting adaptability.
 
 **CSF Hydrodynamics:** The pulse, swirl, and return dynamics of cerebrospinal fluid may be influenced, affecting pressure exchange and chemical signaling throughout the neuraxis (Brinker et al., 2014; Alperin et al., 2000). Strain alters axoplasmic flow and CSF dynamics, reducing nutrient/waste exchange.
 
@@ -163,7 +163,7 @@ The result is a systemic change in the default tensional set-point of the NeuroS
 When aberrant NeuroSpinal tone persists, it initiates a progressive cascade of downstream consequences:
 
 - **Dyskinesia**: Movement dysfunction arising from altered motor output and compensatory postural strategies
-- **Dysafferentation**: Distorted sensory input from aberrant mechanoreceptor activity in tense fascia and meninges, reducing the fidelity of proprioceptive and interoceptive data
+- **Dysafferentation**: Distorted sensory input from aberrant mechanoreceptor activity in tense meningeal tissues, reducing the fidelity of proprioceptive and interoceptive data
 - **Dysponesis**: Misdirected neurological effort: inappropriate muscle activation patterns that waste energy and reinforce compensatory holding
 - **Dysautonomia**: Autonomic dysregulation resulting from sustained sympathetic bias and narrowed adaptive bandwidth
 - **Degeneration**: Progressive structural and functional decline from chronic maladaptation, as tissues remodel around the persistent aberrant tone
@@ -174,7 +174,7 @@ This cascade is not linear but self-reinforcing: each stage deepens the conditio
 
 While protective tone is held, informational flow through the NeuroSpinal System is altered at multiple levels:
 
-- **Afferent Distortion**: Mechanoreceptors in tense fascia and meninges send repetitive, low-resolution data to the CNS, limiting the system's ability to perceive its environment accurately and respond adaptively.
+- **Afferent Distortion**: Mechanoreceptors in tense meningeal tissues send repetitive, low-resolution data to the CNS, limiting the system's ability to perceive its environment accurately and respond adaptively.
 - **Conduction and Transport Impedance**: Sustained strain alters axoplasmic flow and CSF dynamics, reducing nutrient and waste exchange and degrading the efficiency of signal transmission along neural pathways.
 - **Central Processing Bias**: Chronic sympathetic activation narrows cortical resources toward threat detection, while neuroinflammation may further reduce neuroplasticity and adaptive capacity.
 - **Descending Control Default**: Poor-quality afferent input biases efferent output toward sustained guarding, reinforcing the protective holding pattern from above.
@@ -218,7 +218,7 @@ If simple movement or stretching were sufficient to release these patterns, far 
 When the NeuroSpinal System contracts defensively, the body does not experience this tension as a singular, isolated phenomenon. Instead, it organizes **multiple compensatory layers** around the primary restriction:
 
 - **Global postural shifts** to redistribute load away from the area of greatest tension
-- **Regional fascial bracing** creating secondary restrictions in myofascial chains
+- **Regional soft tissue bracing** creating secondary restrictions
 - **Local joint fixations** as vertebrae lock into positions that minimize stress on the contracted meningeal system
 - **Protective muscle guarding** layered over all of the above
 
@@ -243,7 +243,7 @@ In a system regulated by information bandwidth, more force does not equal more e
 5. **Persistent Holding Pattern:** Contracture maintained long after stressor resolves, awaiting safety information
 6. **Specific Input in Vector of Unwinding:** Precise mechanical + intentional congruence delivered parallel to tension
 7. **Safety Signal Integration:** Updated CNS threat model → parasympathetic shift
-8. **Cascade of Release:** Myofibroblasts de-tension → dural/fascial slack returns → global tone reorganizes
+8. **Cascade of Release:** Myofibroblasts de-tension → dural slack returns → global tone reorganizes
 
 **Key Principle:**
 *TTC is not about forcing tissue change but delivering precisely enough information for the system to choose reorganization and resume its own corrective process.*
@@ -628,9 +628,7 @@ This is what people experience as ongoing improvement in function and adaptabili
 
 **Least amount of the most effective input**: In TTC, the application ethic guiding contacts in amplitude and quantity, a critical tonal protocol. Enough to be heard by the system, not enough to interfere with the system's own corrective process.
 
-**Meningeo-Fascial Continuum**: In TTC, the mechanical and informational continuity between the outer dural sheath and myofascial structures via the myodural bridge and related fascial connections.
-
-**NeuroSpinal System**: In TTC, the integrated system of the brain, spinal cord, pia mater (including the dentate ligament), arachnoid space (including cerebrospinal fluid), dura mater, and the connective tissue attachments to the movable bony structures of the cranium and spine, continuing into the outer dural sheath and fascia. Synonymous with Cranio-Spinal Meningeal Functional Unit (C-SMFU). TTC defines this as the foundational physical system that sets the tone through which Innate Intelligence coordinates the body's actions.
+**NeuroSpinal System**: In TTC, the integrated system of the brain, spinal cord, pia mater (including the dentate ligament), arachnoid space (including cerebrospinal fluid), dura mater, and the connective tissue attachments to the movable bony structures of the cranium and spine. The outer dural sheath extends continuously into the surrounding fascial network, positioning the NeuroSpinal System as a primary tone-setter for the body's fascia as well. Synonymous with Cranio-Spinal Meningeal Functional Unit (C-SMFU). TTC defines this as the foundational physical system that sets the tone through which Innate Intelligence coordinates the body's actions.
 
 **NeuroSpinal Subluxation**: In TTC, aberrant global tone within the NeuroSpinal System that degrades adaptability and regulation. TTC proposes this as the initiatory mechanism that precedes and drives the structural changes observed in the Vertebral Subluxation Complex.
 
