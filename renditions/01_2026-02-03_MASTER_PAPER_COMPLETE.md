@@ -97,7 +97,7 @@ The NeuroSpinal System comprises:
 
 4. **Dura mater:** Outermost meningeal layer, with clinical emphasis on the attachments to the movable bony structures of the cranium and spine.
 
-   **Clinically significant areas of either direct or indirect dural attachments include:** Sphenoid, Zygoma, Occiput, C1, C2, C5, S1-S5, and Coccyx (see Appendix for additional clinically relevant areas)[^anatomical-detail]
+   **Clinically significant areas of either direct or indirect dural attachments include:** Sphenoid, Zygoma, Occiput, C1, C2, C5, S1-S5, and Coccyx (see Appendix A for additional clinically relevant areas)[^anatomical-detail]
 
 5. **Continuity:** Fascial continuity includes the outer sheath of the dura, periosteum, and connective tissue bridges, including myodural bridges (Scali et al., 2011; Zheng et al., 2014), that extend the tensional field beyond the canal
 
@@ -527,7 +527,7 @@ TTC maintains exclusive focus on **physical inputs to physical nervous system st
 
 1. **Mechanobiological model of meningeal contractility**: To the authors' knowledge, TTC provides the first mechanobiological explanation within chiropractic for meningeal contraction and persistence (see Part III for the full model). Where Epstein's framework identified the clinical phenomenon, TTC supplies the underlying science. This model also explains why all subluxation — not only Class B — involves meningeal contracture.
 
-2. **Dural contraction-specific vectors (the Tonal Line of Drive)**: Where osseous methods direct force into joint spaces and Network Spinal contacts gateway regions, TTC derives its contact vector from the meningeal contraction itself — the Tonal Line of Drive described in Section 5.4. This vector is unique to TTC.
+2. **Dural contraction-specific vectors (the Tonal Line of Drive)**: Where osseous methods direct force into joint spaces and Network Spinal contacts gateway regions, TTC derives its contact vector from the meningeal contraction itself — the Tonal Line of Drive described in Part IV. This vector is unique to TTC.
 
 3. **Mandatory tonal pressure testing with leg balancing**: Every contact is verified through real-time neurological indicators before input is delivered. The system must show temporary balancing in response to a directional pressure test, confirming that the specific location, vector, and timing are correct for that contact at that moment. This makes TTC more reliant on real-time neurological verification than any prior tonal approach — the practitioner does not proceed without the system's confirmation.
 
